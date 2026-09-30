@@ -1,0 +1,110 @@
+{
+  "marks": [
+    {
+      "name": "search-start",
+      "time": 3.582
+    },
+    {
+      "name": "search-result",
+      "time": 6.449
+    },
+    {
+      "name": "profile",
+      "time": 8.214
+    },
+    {
+      "name": "medical-info",
+      "time": 10.19
+    },
+    {
+      "name": "history",
+      "time": 15.759
+    },
+    {
+      "name": "braces-open",
+      "time": 20.311
+    },
+    {
+      "name": "braces-history",
+      "time": 23.366
+    },
+    {
+      "name": "braces-earlier",
+      "time": 28.453
+    },
+    {
+      "name": "attachments",
+      "time": 35.227
+    },
+    {
+      "name": "security",
+      "time": 38.85
+    },
+    {
+      "name": "chart",
+      "time": 44.042
+    },
+    {
+      "name": "tooth",
+      "time": 46.892
+    },
+    {
+      "name": "appointments",
+      "time": 54.332
+    },
+    {
+      "name": "calendar",
+      "time": 58.624
+    },
+    {
+      "name": "appointment-detail",
+      "time": 61.904
+    },
+    {
+      "name": "balance-before",
+      "time": 71.643
+    },
+    {
+      "name": "payment-form",
+      "time": 74.536
+    },
+    {
+      "name": "payment-filled",
+      "time": 80.939
+    },
+    {
+      "name": "payment-confirm",
+      "time": 85.258
+    },
+    {
+      "name": "balance-after",
+      "time": 90.394
+    },
+    {
+      "name": "dashboard",
+      "time": 95.697
+    },
+    {
+      "name": "receivables",
+      "time": 105.789
+    },
+    {
+      "name": "hmo-claims",
+      "time": 116.365
+    },
+    {
+      "name": "expenses",
+      "time": 126.947
+    },
+    {
+      "name": "inventory",
+      "time": 134.002
+    },
+    {
+      "name": "activity-log",
+      "time": 141.156
+    }
+  ],
+  "patientId": "e2a71fea-801b-4f69-8393-d2db526d03c3",
+  "treatmentId": "e41b5465-84f6-4aaf-94dd-9ef475183c30"
+}

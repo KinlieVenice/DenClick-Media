@@ -1,0 +1,65 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "heading": "Your clinic. Too many places?",
+    "narration": "Still juggling patient records, appointments, payments, and expenses in different places?",
+    "source": 52
+  },
+  {
+    "start": 5,
+    "end": 10,
+    "heading": "Meet your more organized clinic.",
+    "narration": "Meet Den Click. Your dental clinic, organized in one simple system.",
+    "source": null
+  },
+  {
+    "start": 10,
+    "end": 18,
+    "heading": "Every patient, one complete picture.",
+    "narration": "Create patient profiles, and find treatment histories, medical records, and uploaded files in just a few clicks.",
+    "source": 654
+  },
+  {
+    "start": 18,
+    "end": 27,
+    "heading": "See the details. Plan the next step.",
+    "narration": "Use the digital dental chart to record tooth conditions and treatments, and see what needs attention at every visit.",
+    "source": 1190
+  },
+  {
+    "start": 27,
+    "end": 34,
+    "heading": "A clearer day starts here.",
+    "narration": "Keep upcoming appointments and patient schedules together in one easy-to-use calendar.",
+    "source": 189
+  },
+  {
+    "start": 34,
+    "end": 43,
+    "heading": "Payments made easier to track.",
+    "narration": "Record treatments, payments, and installment balances, with cash, G Cash, bank transfer, card, or H M O.",
+    "source": 784
+  },
+  {
+    "start": 43,
+    "end": 50,
+    "heading": "Know how your clinic is doing.",
+    "narration": "Track expenses, receivables, inventory, and financial performance, with everything connected.",
+    "source": 1479
+  },
+  {
+    "start": 50,
+    "end": 56,
+    "heading": "Patient records, protected.",
+    "narration": "Sensitive patient details and uploaded files are encrypted to help keep records secure.",
+    "source": null
+  },
+  {
+    "start": 56,
+    "end": 60,
+    "heading": "See DenClick in action.",
+    "narration": "Message us for a free demo. Discover Den Click today!",
+    "source": null
+  }
+]

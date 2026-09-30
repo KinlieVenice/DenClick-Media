@@ -1,0 +1,38 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 875000,
+    "duration": 5125000,
+    "text": "Sensitive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6125000,
+    "duration": 6625000,
+    "text": "details"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13375000,
+    "duration": 1750000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15250000,
+    "duration": 5375000,
+    "text": "files"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20750000,
+    "duration": 1250000,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22125000,
+    "duration": 5875000,
+    "text": "encrypted"
+  }
+]

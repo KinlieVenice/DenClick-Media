@@ -1,0 +1,110 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 875000,
+    "duration": 2875000,
+    "text": "Check"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5000000,
+    "duration": 4625000,
+    "text": "HMO"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9750000,
+    "duration": 4000000,
+    "text": "claims"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13875000,
+    "duration": 2750000,
+    "text": "still"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16625000,
+    "duration": 3500000,
+    "text": "awaiting"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20125000,
+    "duration": 4500000,
+    "text": "payment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26875000,
+    "duration": 4250000,
+    "text": "including"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31250000,
+    "duration": 5500000,
+    "text": "pending"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36875000,
+    "duration": 1625000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38625000,
+    "duration": 3875000,
+    "text": "submitted"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42625000,
+    "duration": 5125000,
+    "text": "claims"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50500000,
+    "duration": 1750000,
+    "text": "so"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54000000,
+    "duration": 1125000,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55250000,
+    "duration": 1375000,
+    "text": "know"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56625000,
+    "duration": 1125000,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57875000,
+    "duration": 2250000,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60125000,
+    "duration": 4250000,
+    "text": "following"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64500000,
+    "duration": 2375000,
+    "text": "up"
+  }
+]

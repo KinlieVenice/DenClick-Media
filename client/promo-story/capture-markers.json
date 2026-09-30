@@ -1,0 +1,74 @@
+{
+  "marks": [
+    {
+      "name": "search-start",
+      "time": 2.694
+    },
+    {
+      "name": "search-result",
+      "time": 4.582
+    },
+    {
+      "name": "profile",
+      "time": 6.1
+    },
+    {
+      "name": "history",
+      "time": 9.715
+    },
+    {
+      "name": "attachments",
+      "time": 13.988
+    },
+    {
+      "name": "security",
+      "time": 17.284
+    },
+    {
+      "name": "chart",
+      "time": 22.134
+    },
+    {
+      "name": "tooth",
+      "time": 24.699
+    },
+    {
+      "name": "appointments",
+      "time": 31.166
+    },
+    {
+      "name": "calendar",
+      "time": 35.163
+    },
+    {
+      "name": "appointment-detail",
+      "time": 38.192
+    },
+    {
+      "name": "balance-before",
+      "time": 46.076
+    },
+    {
+      "name": "payment-form",
+      "time": 48.678
+    },
+    {
+      "name": "payment-filled",
+      "time": 50.637
+    },
+    {
+      "name": "payment-confirm",
+      "time": 53.386
+    },
+    {
+      "name": "balance-after",
+      "time": 56.397
+    },
+    {
+      "name": "dashboard",
+      "time": 61.123
+    }
+  ],
+  "patientId": "6dd44665-0b3d-4cd0-95f1-3404cddf94e0",
+  "treatmentId": "7e9a7646-0d99-4768-9d10-80afeb01e4c4"
+}

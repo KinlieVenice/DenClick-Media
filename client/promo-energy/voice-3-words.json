@@ -1,0 +1,74 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 750000,
+    "duration": 3625000,
+    "text": "Before"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4500000,
+    "duration": 3375000,
+    "text": "treatment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8000000,
+    "duration": 5250000,
+    "text": "begins"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15875000,
+    "duration": 2500000,
+    "text": "check"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18500000,
+    "duration": 1875000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20500000,
+    "duration": 3000000,
+    "text": "dental"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23625000,
+    "duration": 3500000,
+    "text": "chart"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27250000,
+    "duration": 750000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28125000,
+    "duration": 2750000,
+    "text": "see"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30875000,
+    "duration": 1500000,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32500000,
+    "duration": 2375000,
+    "text": "needs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34875000,
+    "duration": 6000000,
+    "text": "attention"
+  }
+]

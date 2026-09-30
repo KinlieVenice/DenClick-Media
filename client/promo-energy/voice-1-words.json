@@ -1,0 +1,140 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 750000,
+    "duration": 2125000,
+    "text": "With"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2875000,
+    "duration": 3375000,
+    "text": "Den"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6375000,
+    "duration": 4625000,
+    "text": "Click"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13125000,
+    "duration": 1875000,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15125000,
+    "duration": 3375000,
+    "text": "visit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18625000,
+    "duration": 3500000,
+    "text": "starts"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22250000,
+    "duration": 5750000,
+    "text": "differently"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31750000,
+    "duration": 2625000,
+    "text": "Type"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34500000,
+    "duration": 1375000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36000000,
+    "duration": 2875000,
+    "text": "name"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38875000,
+    "duration": 1000000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39875000,
+    "duration": 1875000,
+    "text": "bring"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41875000,
+    "duration": 1000000,
+    "text": "up"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43000000,
+    "duration": 1375000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44500000,
+    "duration": 5750000,
+    "text": "profile"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53125000,
+    "duration": 1750000,
+    "text": "ready"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55000000,
+    "duration": 750000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55875000,
+    "duration": 2250000,
+    "text": "pick"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58125000,
+    "duration": 2000000,
+    "text": "up"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61625000,
+    "duration": 1000000,
+    "text": "where"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62750000,
+    "duration": 750000,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63625000,
+    "duration": 2500000,
+    "text": "left"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66250000,
+    "duration": 3875000,
+    "text": "off"
+  }
+]

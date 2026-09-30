@@ -1,0 +1,1267 @@
+[
+  {
+    "seconds": 2.524,
+    "text": "0. DenClick Tutorial",
+    "sub": "Gabay kung paano gamitin ang bawat bahagi ng system — mula Dashboard hanggang Settings."
+  },
+  {
+    "seconds": 6.36,
+    "text": "Sample na pangalan at record lang ang gamit sa tutorial. Puwedeng i-pause ang video at ulitin ang bawat hakbang.",
+    "sub": ""
+  },
+  {
+    "seconds": 14.592,
+    "text": "Magsimula tayo sa pag-login. Ilagay ang email at password na ibinigay sa inyo ng Admin.",
+    "sub": ""
+  },
+  {
+    "seconds": 28.912,
+    "text": "Pwedeng pindutin ang \"mata\" para makita ang tinype na password.",
+    "sub": ""
+  },
+  {
+    "seconds": 35.552,
+    "text": "Pindutin ang Login.",
+    "sub": ""
+  },
+  {
+    "seconds": 39.528,
+    "text": "Naka-login tayo bilang Admin, kaya makikita natin ang lahat ng module sa kaliwa.",
+    "sub": ""
+  },
+  {
+    "seconds": 45.42,
+    "text": "1. Dashboard",
+    "sub": "Buod ng takbo ng clinic — kita, gastos, pasyente at schedule."
+  },
+  {
+    "seconds": 50.644,
+    "text": "Ito ang date filter: Today, Week, Month at Year. Pinapalitan nito ang saklaw ng mga numero sa ibaba.",
+    "sub": ""
+  },
+  {
+    "seconds": 59.824,
+    "text": "Today — ngayong araw lang.",
+    "sub": ""
+  },
+  {
+    "seconds": 65.224,
+    "text": "Week — nakaraang 7 araw.",
+    "sub": ""
+  },
+  {
+    "seconds": 70.568,
+    "text": "Year — nakaraang isang taon.",
+    "sub": ""
+  },
+  {
+    "seconds": 75.904,
+    "text": "Month — nakaraang isang buwan. Balik tayo sa Month.",
+    "sub": ""
+  },
+  {
+    "seconds": 82.088,
+    "text": "Revenue — lahat ng perang natanggap sa napiling panahon.",
+    "sub": ""
+  },
+  {
+    "seconds": 87.44,
+    "text": "Expenses — lahat ng gastos sa parehong panahon.",
+    "sub": ""
+  },
+  {
+    "seconds": 92.376,
+    "text": "Profit — Revenue bawas Expenses.",
+    "sub": ""
+  },
+  {
+    "seconds": 96.88,
+    "text": "Lahat ng card ay pwedeng i-click. Halimbawa, ang Revenue ay dadalhin tayo sa Finance.",
+    "sub": ""
+  },
+  {
+    "seconds": 103.864,
+    "text": "Dito makikita ang bawat bayad na bumubuo sa Revenue. Babalikan natin ang Finance mamaya.",
+    "sub": ""
+  },
+  {
+    "seconds": 111.684,
+    "text": "Receivables (all time) — lahat ng balanse na hindi pa bayad ng mga pasyente.",
+    "sub": "Ang may \"(all time)\" ay hindi apektado ng date filter."
+  },
+  {
+    "seconds": 123.024,
+    "text": "HMO claims to follow up — mga HMO claim na hindi pa nababayaran ng HMO. Pwede ring i-click.",
+    "sub": ""
+  },
+  {
+    "seconds": 132.212,
+    "text": "No-Show Rate — ilang porsyento ng appointments ang hindi sinipot.",
+    "sub": ""
+  },
+  {
+    "seconds": 138.008,
+    "text": "Total Patients — lahat ng pasyente. New Patients — mga bago sa napiling panahon.",
+    "sub": ""
+  },
+  {
+    "seconds": 145.58,
+    "text": "Today's Appointments — ilang appointment ngayong araw. I-click para makita sa calendar.",
+    "sub": ""
+  },
+  {
+    "seconds": 152.304,
+    "text": "Revenue Trend — graph ng kita kada araw. May \"View all\" para sa detalye.",
+    "sub": ""
+  },
+  {
+    "seconds": 159.684,
+    "text": "Hati-hati rito ang gastos ayon sa category, tulad ng supplies at laboratory.",
+    "sub": ""
+  },
+  {
+    "seconds": 166.28,
+    "text": "By Dentist — bilang ng appointment at kita kada dentista. Unassigned ang lumang bayad na wala pang nakatalagang dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 176.02,
+    "text": "Today's Schedule — mga pasyente at oras nila ngayong araw.",
+    "sub": ""
+  },
+  {
+    "seconds": 180.616,
+    "text": "2. Appointments",
+    "sub": "Pag-book, pag-schedule at status ng mga appointment."
+  },
+  {
+    "seconds": 185.88,
+    "text": "Ito ang calendar. May Month, Week at Day view, at mga arrow para lumipat ng linggo.",
+    "sub": ""
+  },
+  {
+    "seconds": 194.304,
+    "text": "Unang paraan ng pag-book: pindutin ang \"New Appointment\".",
+    "sub": ""
+  },
+  {
+    "seconds": 201.032,
+    "text": "Piliin ang pasyente. Kung bago siya at wala pa sa system, piliin ang \"+ New patient...\" sa pinakataas.",
+    "sub": ""
+  },
+  {
+    "seconds": 217.068,
+    "text": "Pangalan lang ang kailangan muna. Ang contact, HMO at iba pa ay idadagdag mamaya sa Edit ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 230.5,
+    "text": "Piliin ang dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 243.272,
+    "text": "Piliin ang petsa at oras.",
+    "sub": ""
+  },
+  {
+    "seconds": 258.972,
+    "text": "Itakda ang oras, minuto at AM/PM.",
+    "sub": ""
+  },
+  {
+    "seconds": 265.704,
+    "text": "Duration — gaano katagal ang appointment, sa minuto.",
+    "sub": ""
+  },
+  {
+    "seconds": 271.184,
+    "text": "Pindutin ang Create.",
+    "sub": ""
+  },
+  {
+    "seconds": 278.96,
+    "text": "Magkukumpirma muna ang system. Pindutin ang \"Yes\".",
+    "sub": ""
+  },
+  {
+    "seconds": 283.028,
+    "text": "Nagawa ang appointment, at naidagdag na rin si Liza Mendoza bilang bagong pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 293.628,
+    "text": "Pumunta tayo sa susunod na linggo para makita ang appointment.",
+    "sub": ""
+  },
+  {
+    "seconds": 298.892,
+    "text": "Ikalawang paraan: i-click ang isang oras sa mismong calendar, o i-drag pababa para sa mas mahabang oras. Bubukas ang parehong form na naka-set na ang oras.",
+    "sub": ""
+  },
+  {
+    "seconds": 311.42,
+    "text": "I-click ang appointment para makita ang detalye at palitan ang status.",
+    "sub": ""
+  },
+  {
+    "seconds": 319.468,
+    "text": "Bawat bagong appointment ay SCHEDULED. Pwede itong gawing NO SHOW kung hindi sumipot, o CANCELLED kung kinansela.",
+    "sub": ""
+  },
+  {
+    "seconds": 326.864,
+    "text": "Ang COMPLETED ay awtomatiko: kapag may bayad na naitala para sa appointment, magiging Completed ito. Makikita natin iyan sa Billing.",
+    "sub": ""
+  },
+  {
+    "seconds": 337.584,
+    "text": "Isara muna natin.",
+    "sub": ""
+  },
+  {
+    "seconds": 341.62,
+    "text": "Subukan nating ilipat ang appointment nang kalahating oras. I-drag ang kahon pababa.",
+    "sub": ""
+  },
+  {
+    "seconds": 351.192,
+    "text": "Suriin ang luma at bagong oras, saka Confirm.",
+    "sub": ""
+  },
+  {
+    "seconds": 360.964,
+    "text": "Halimbawa, hindi dumating ang pasyente. Piliin ang NO SHOW.",
+    "sub": ""
+  },
+  {
+    "seconds": 374.94,
+    "text": "Save Changes para itala ang status.",
+    "sub": ""
+  },
+  {
+    "seconds": 378.996,
+    "text": "Kung kinansela ang booking, CANCELLED naman ang piliin.",
+    "sub": ""
+  },
+  {
+    "seconds": 383.752,
+    "text": "Day para isang araw lang ang makita.",
+    "sub": ""
+  },
+  {
+    "seconds": 389.264,
+    "text": "I-click ang bakanteng oras para mag-book mula sa calendar.",
+    "sub": ""
+  },
+  {
+    "seconds": 394.14,
+    "text": "Nakalagay na ang petsa at oras. Piliin na lang ang pasyente at dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 403.684,
+    "text": "3. Patients",
+    "sub": "Paggawa at pag-edit ng pasyente."
+  },
+  {
+    "seconds": 409.072,
+    "text": "Dito makikita ang lahat ng pasyente. Pwedeng maghanap ayon sa pangalan o contact number.",
+    "sub": ""
+  },
+  {
+    "seconds": 416.484,
+    "text": "Para gumawa ng bagong pasyente, pindutin ang \"New Patient\".",
+    "sub": ""
+  },
+  {
+    "seconds": 421.356,
+    "text": "May mga tab ang form: Personal, Insurance, Medical, Attachments at Appointment. Punan lang ang alam ninyo.",
+    "sub": ""
+  },
+  {
+    "seconds": 440.132,
+    "text": "Full name lang ang required. Pwede ring maglagay ng litrato sa \"Click to add a photo\".",
+    "sub": ""
+  },
+  {
+    "seconds": 448.968,
+    "text": "Sa Insurance tab ilalagay ang HMO ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 455.716,
+    "text": "Piliin ang HMO provider. Kung wala pa sa listahan, piliin ang \"+ Custom HMO provider...\" at i-type.",
+    "sub": ""
+  },
+  {
+    "seconds": 477.904,
+    "text": "Mahalaga ito: lalabas lang ang HMO bilang mode of payment kung may HMO ang pasyente sa profile niya.",
+    "sub": ""
+  },
+  {
+    "seconds": 487.56,
+    "text": "Sa Medical tab ilalagay ang allergies at medical history.",
+    "sub": ""
+  },
+  {
+    "seconds": 498.116,
+    "text": "I-type ang allergy tapos pindutin ang \"+\" para idagdag sa listahan.",
+    "sub": ""
+  },
+  {
+    "seconds": 509.2,
+    "text": "Ulitin para sa bawat allergy. Bawat isa ay hiwalay na linya.",
+    "sub": ""
+  },
+  {
+    "seconds": 518.452,
+    "text": "Pareho sa Medical history. Kahit hindi mapindot ang \"+\", masasave pa rin ang huling tinype pagka-save.",
+    "sub": ""
+  },
+  {
+    "seconds": 527.432,
+    "text": "Pindutin ang \"Create Patient\".",
+    "sub": ""
+  },
+  {
+    "seconds": 534.708,
+    "text": "Kumpirmahin gamit ang \"Yes\".",
+    "sub": ""
+  },
+  {
+    "seconds": 538.684,
+    "text": "Nagawa na ang pasyente. Kung may kapareho nang pangalan at contact, magbababala muna ang system para hindi madoble.",
+    "sub": ""
+  },
+  {
+    "seconds": 553.948,
+    "text": "Tingnan natin ang babala kapag may kaparehong pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 574.792,
+    "text": "May kaparehong pangalan at contact. Suriin muna. Create Anyway lang kung talagang magkaibang tao. Cancel muna tayo.",
+    "sub": ""
+  },
+  {
+    "seconds": 590.66,
+    "text": "Paano naman ang pasyenteng ginawa sa Appointments na pangalan lang ang nilagay? I-edit natin si Liza Mendoza.",
+    "sub": ""
+  },
+  {
+    "seconds": 607.416,
+    "text": "Wala pa siyang contact number. Pindutin ang \"Edit\" para punan.",
+    "sub": ""
+  },
+  {
+    "seconds": 620.432,
+    "text": "Ilagay ang kulang na detalye at pindutin ang \"Save\".",
+    "sub": ""
+  },
+  {
+    "seconds": 628.616,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 632.612,
+    "text": "Na-update na ang pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 645.12,
+    "text": "4. Patient Record at Billing",
+    "sub": "Appointments, billing, bayad, HMO, attachments, tooth chart at printing."
+  },
+  {
+    "seconds": 650.268,
+    "text": "May mga tab: Overview, Medical Info, Appointments, Treatments, Odontogram at Attachments.",
+    "sub": ""
+  },
+  {
+    "seconds": 656.54,
+    "text": "Medical Info — nandito ang allergies at medical history na nilagay natin.",
+    "sub": ""
+  },
+  {
+    "seconds": 664,
+    "text": "Appointments — naka-compile dito ang lahat ng appointment ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 669.264,
+    "text": "Pwedeng gumawa ng appointment dito mismo gamit ang \"Add\" o \"Add Appointment\" sa itaas — naka-set na ang pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 678.816,
+    "text": "Treatments — dito ang mga treatment at bayad ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 685.46,
+    "text": "Para magdagdag ng treatment o mag-record ng bayad, pindutin ang \"New Billing\".",
+    "sub": ""
+  },
+  {
+    "seconds": 693.796,
+    "text": "Dalawa ang pagpipilian: \"Existing treatment\" para magbayad ng balanse, o \"Start new treatment(s)\" para sa bagong treatment.",
+    "sub": ""
+  },
+  {
+    "seconds": 703.316,
+    "text": "Piliin ang treatment. Searchable ito — i-type lang ang pangalan.",
+    "sub": ""
+  },
+  {
+    "seconds": 718.484,
+    "text": "Ito ang presyo para sa kasong ito. Default ito sa base price, pero pwedeng baguhin — halimbawa may discount — nang hindi ginagalaw ang Treatments module.",
+    "sub": ""
+  },
+  {
+    "seconds": 731.716,
+    "text": "Kung dalawa o higit pa ang ginawa sa isang visit, pindutin ang \"Add another treatment\".",
+    "sub": ""
+  },
+  {
+    "seconds": 752.02,
+    "text": "Walang appointment ang pasyente ngayong araw, kaya kailangang piliin kung sinong dentista ang gumawa. Kapag may appointment, awtomatiko na ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 773.52,
+    "text": "Amount received today — magkano ang ibinayad ngayon. Pwedeng buo gamit ang \"Use full balance\", o bahagi lang; maiiwan ang balanse.",
+    "sub": ""
+  },
+  {
+    "seconds": 784.6,
+    "text": "Mode of payment — Cash, GCash, card, atbp.",
+    "sub": ""
+  },
+  {
+    "seconds": 791.184,
+    "text": "Kung wala sa listahan, piliin ang \"+ Custom mode of payment...\" — masasave ito para sa susunod.",
+    "sub": ""
+  },
+  {
+    "seconds": 800.712,
+    "text": "Dahil may HMO si Paolo, lumalabas ang HMO bilang option. Piliin natin ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 809.92,
+    "text": "Kapag HMO, may Claim status: Pending, Submitted o Paid. Pending muna ito dahil hindi pa nagbabayad ang HMO.",
+    "sub": ""
+  },
+  {
+    "seconds": 824.816,
+    "text": "Note — isulat kung ano ang ginawa ng dentista, para malinaw kung ano ang ginawa sa pagbisitang ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 834.608,
+    "text": "Pindutin ang \"Save Billing\".",
+    "sub": ""
+  },
+  {
+    "seconds": 841.948,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 846.008,
+    "text": "Naitala ang dalawang treatment at ang bayad. Kapag may appointment na naka-link, awtomatiko ring magiging COMPLETED ang appointment.",
+    "sub": ""
+  },
+  {
+    "seconds": 858.808,
+    "text": "Buksan natin ang treatment para makita ang detalye.",
+    "sub": ""
+  },
+  {
+    "seconds": 864.54,
+    "text": "Makikita ang balanse at ang kabuuang presyo ng treatment.",
+    "sub": ""
+  },
+  {
+    "seconds": 869.852,
+    "text": "Kapag mali ang presyo na nailagay, pindutin ang lapis para i-edit.",
+    "sub": ""
+  },
+  {
+    "seconds": 882.556,
+    "text": "Kailangan ng dahilan. Makikita agad ang magiging bagong balanse.",
+    "sub": ""
+  },
+  {
+    "seconds": 891.196,
+    "text": "Naitatala ang bawat pagbabago ng presyo: luma at bagong presyo, dahilan, sino at kailan.",
+    "sub": ""
+  },
+  {
+    "seconds": 898.652,
+    "text": "Para magbayad ng balanse, \"New Billing\" ulit. Naka-select na ang treatment at ang dentista nito.",
+    "sub": ""
+  },
+  {
+    "seconds": 925.752,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 929.736,
+    "text": "Nabawasan ang balanse. Pwedeng hulugan — ilang beses magbayad hanggang maubos.",
+    "sub": ""
+  },
+  {
+    "seconds": 939.256,
+    "text": "Kung may maling bayad na naitala, pindutin ang icon na \"Void payment\".",
+    "sub": ""
+  },
+  {
+    "seconds": 952.004,
+    "text": "Kailangan ng dahilan. Hindi ito nabubura — may tatak na VOIDED at hindi na binibilang.",
+    "sub": ""
+  },
+  {
+    "seconds": 960.86,
+    "text": "Babalik ang balanse, at makikita pa rin kung sino at bakit nag-void.",
+    "sub": ""
+  },
+  {
+    "seconds": 967.496,
+    "text": "Pindutin ang printer icon para mag-print ng resibo ng isang bayad.",
+    "sub": ""
+  },
+  {
+    "seconds": 973.236,
+    "text": "Ito ang itsura ng resibo. Sa inyong browser, piliin ang printer o Save as PDF, saka Print.",
+    "sub": ""
+  },
+  {
+    "seconds": 981.98,
+    "text": "Ito ang HMO na bayad. Hangga't hindi pa \"Paid\", HINDI pa ito kasama sa Revenue at Profit — pero hindi na rin ito utang ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 993.324,
+    "text": "Kapag naipasa na ang claim sa HMO, gawing \"Submitted\". Magkukumpirma muna ang system.",
+    "sub": ""
+  },
+  {
+    "seconds": 1000.248,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1004.252,
+    "text": "Submitted na ang claim.",
+    "sub": ""
+  },
+  {
+    "seconds": 1010.048,
+    "text": "Kapag tinanggihan ng HMO, piliin ang \"Denied\" at ilagay ang dahilan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1022.28,
+    "text": "Babalik ang halagang iyon sa balanse para ang pasyente ang magbayad.",
+    "sub": ""
+  },
+  {
+    "seconds": 1029.744,
+    "text": "Kapag naaprubahan ulit o nabayaran na ng HMO, gawing \"Paid\". Doon pa lang ito mabibilang sa Revenue, sa araw na minarkahang Paid.",
+    "sub": ""
+  },
+  {
+    "seconds": 1040.52,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1044.512,
+    "text": "Paid na ang claim.",
+    "sub": ""
+  },
+  {
+    "seconds": 1051.652,
+    "text": "Sa \"Claim history\" makikita ang lahat ng pagbabago ng status, kasama ang dahilan, sino at kailan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1063.252,
+    "text": "Tapusin natin ang hulog. Pindutin ang New Billing.",
+    "sub": ""
+  },
+  {
+    "seconds": 1069.992,
+    "text": "Use full balance — awtomatikong ilalagay ang natitira pang babayaran.",
+    "sub": ""
+  },
+  {
+    "seconds": 1092.364,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1096.328,
+    "text": "Bayad na lahat. Tingnan ang CLOSED at ang balance na zero.",
+    "sub": ""
+  },
+  {
+    "seconds": 1105.98,
+    "text": "Halimbawa: bayad na ang isang libo, pero dapat walong daan lang ang presyo.",
+    "sub": ""
+  },
+  {
+    "seconds": 1125.712,
+    "text": "Keep as extra — mananatiling dagdag na kita ang sobrang dalawang daan. Piliin lang kung iyon ang napagkasunduan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1135.524,
+    "text": "Refund — ibabalik ang sobrang dalawang daan. Piliin natin ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 1140.852,
+    "text": "Naitala ang Refund sa history. Kailangang ibalik din ng staff ang aktuwal na pera sa pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 1149.264,
+    "text": "Attachments — dito ang X-ray, consent form at iba pang file ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 1164.86,
+    "text": "Lagyan ng Title at Notes, piliin ang file (litrato, PDF o Word), at pindutin ang \"Upload\". Sinusubukang paliitin ang file kung kaya; hanggang 4 MB ang puwedeng i-upload.",
+    "sub": ""
+  },
+  {
+    "seconds": 1179.664,
+    "text": "Na-upload na. I-click para tingnan; ang Word file ay ida-download.",
+    "sub": ""
+  },
+  {
+    "seconds": 1185.332,
+    "text": "Odontogram — ang tooth chart ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 1191.056,
+    "text": "I-click ang numero ng ngipin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1197.576,
+    "text": "Piliin ang status ng ngipin. Pwede ring markahan ang bahagi ng ngipin sa larawan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1222.14,
+    "text": "Buksan ulit ang ngipin...",
+    "sub": ""
+  },
+  {
+    "seconds": 1226.3,
+    "text": "...makikita ang history ng ngipin na ito — bawat pagbabago ay naitatala kung sino at kailan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1238.272,
+    "text": "\"Print Chart\" — pang-print ng tooth chart lang.",
+    "sub": ""
+  },
+  {
+    "seconds": 1242.792,
+    "text": "Ito ang kopya ng tooth chart na puwedeng i-print.",
+    "sub": ""
+  },
+  {
+    "seconds": 1248.176,
+    "text": "\"Print Summary\" — kopya para sa pasyente: detalye niya at lahat ng bukas na treatment at kung magkano pa ang babayaran.",
+    "sub": ""
+  },
+  {
+    "seconds": 1258.316,
+    "text": "Tingnan ang detalye ng pasyente at ang Total balance due — ang natitira niyang babayaran.",
+    "sub": ""
+  },
+  {
+    "seconds": 1266.248,
+    "text": "\"Export Record\" — buong record ng pasyente para sa request niya sa ilalim ng Data Privacy Act. Ang paggamit ng Print at Export buttons ay naitatala sa Activity Log.",
+    "sub": ""
+  },
+  {
+    "seconds": 1279.828,
+    "text": "Na-download ang buong record. Ibigay lang ito sa awtorisadong tatanggap.",
+    "sub": ""
+  },
+  {
+    "seconds": 1290.836,
+    "text": "Isa pang halimbawa: dumating si Liza matapos mamarkahang No Show. Itala natin ang natuloy na visit.",
+    "sub": ""
+  },
+  {
+    "seconds": 1302.644,
+    "text": "Buksan ang appointment ng pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 1322.38,
+    "text": "Naka-link na ang billing sa appointment na ito. Ang dentista ng appointment ang gagamitin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1338.992,
+    "text": "Kumpirmahin ang bayad.",
+    "sub": ""
+  },
+  {
+    "seconds": 1343.048,
+    "text": "Naitala ang bayad para sa appointment.",
+    "sub": ""
+  },
+  {
+    "seconds": 1350.968,
+    "text": "Awtomatikong naging COMPLETED ang appointment. Hindi na kailangan pang baguhin nang mano-mano.",
+    "sub": ""
+  },
+  {
+    "seconds": 1356.5,
+    "text": "5. Treatments",
+    "sub": "Listahan ng mga serbisyo at base price."
+  },
+  {
+    "seconds": 1360.32,
+    "text": "Ito ang catalog ng mga treatment. Ang presyo dito ay BASE PRICE lang — sa billing, pwede itong baguhin kada pasyente.",
+    "sub": ""
+  },
+  {
+    "seconds": 1370.776,
+    "text": "Para i-edit ang isang treatment, i-click lang ang card nito.",
+    "sub": ""
+  },
+  {
+    "seconds": 1376.108,
+    "text": "Dito mapapalitan ang pangalan, presyo, description at icon. May \"Archive\" din para alisin ito sa pagpipilian nang hindi nawawala sa lumang record.",
+    "sub": ""
+  },
+  {
+    "seconds": 1387.82,
+    "text": "Hindi muna natin babaguhin — Cancel.",
+    "sub": ""
+  },
+  {
+    "seconds": 1393.356,
+    "text": "New Treatment para magdagdag ng bagong serbisyo.",
+    "sub": ""
+  },
+  {
+    "seconds": 1409.308,
+    "text": "Name ang pangalan ng serbisyo. Price ang karaniwang presyo. Description ang maikling paliwanag. Puwede ring pumili ng Icon.",
+    "sub": ""
+  },
+  {
+    "seconds": 1423.688,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1427.696,
+    "text": "Nadagdag ang serbisyo sa catalog.",
+    "sub": ""
+  },
+  {
+    "seconds": 1447.02,
+    "text": "Kumpirmahin ang pagbabago.",
+    "sub": ""
+  },
+  {
+    "seconds": 1451.032,
+    "text": "Na-update ang base price.",
+    "sub": ""
+  },
+  {
+    "seconds": 1468.004,
+    "text": "Archive kapag hindi na iniaalok ang serbisyo. Mananatili ang mga lumang record.",
+    "sub": ""
+  },
+  {
+    "seconds": 1474.572,
+    "text": "6. Finance",
+    "sub": "Report, Ledger, Outstanding Balance at HMO Claims."
+  },
+  {
+    "seconds": 1479.776,
+    "text": "Date filter: Today, Week, Month, Year, at \"Custom\" para pumili ng sariling simula at katapusan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1487.628,
+    "text": "Report — buod ng Total Income, Total Expenses at Net Profit sa napiling panahon.",
+    "sub": ""
+  },
+  {
+    "seconds": 1495.096,
+    "text": "Ledger — bawat pumasok at lumabas na pera, isa-isa.",
+    "sub": ""
+  },
+  {
+    "seconds": 1501.372,
+    "text": "Pwedeng i-filter: All, Income o Expense, at ayon sa mode of payment.",
+    "sub": ""
+  },
+  {
+    "seconds": 1507.988,
+    "text": "I-click ang pangalan ng column para ayusin (sort) pataas o pababa.",
+    "sub": ""
+  },
+  {
+    "seconds": 1515.028,
+    "text": "\"View\" — piliin kung aling column ang ipapakita at ayusin ang pagkakasunod gamit ang mga arrow.",
+    "sub": ""
+  },
+  {
+    "seconds": 1529.496,
+    "text": "Sa ibaba: ilang row kada page, at \"Previous / Next\" para lumipat ng page.",
+    "sub": ""
+  },
+  {
+    "seconds": 1537.108,
+    "text": "\"Export CSV\" — i-download para sa Excel. Makikita rin ang mga tool na ito sa ibang listahan. Maaaring iba ang mga button sa Activity Log at Settings.",
+    "sub": ""
+  },
+  {
+    "seconds": 1549.676,
+    "text": "Na-download na ang CSV. Puwede itong buksan sa Excel.",
+    "sub": ""
+  },
+  {
+    "seconds": 1554.964,
+    "text": "Outstanding Balance — lahat ng pasyenteng may balanse pa. Hindi apektado ng date filter.",
+    "sub": ""
+  },
+  {
+    "seconds": 1563.364,
+    "text": "HMO Claims — lahat ng HMO claim. Default ang \"Needs follow-up\": mga Pending at Submitted.",
+    "sub": ""
+  },
+  {
+    "seconds": 1572.176,
+    "text": "Pwedeng i-filter: Pending, Submitted, Paid, Denied o All.",
+    "sub": ""
+  },
+  {
+    "seconds": 1577.072,
+    "text": "Pwedeng palitan ang status dito mismo — hindi na kailangang pumunta sa patient record. Pareho ang patakaran: may kumpirmasyon, at ang Denied ay may dahilan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1589.36,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1593.212,
+    "text": "Submitted na ang claim na ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 1599.1,
+    "text": "7. Expenses",
+    "sub": "Pagtala ng gastos, custom category at archive."
+  },
+  {
+    "seconds": 1604.32,
+    "text": "Para magtala ng gastos, pindutin ang \"New Expense\".",
+    "sub": ""
+  },
+  {
+    "seconds": 1610.956,
+    "text": "Piliin ang category. Kung wala pa, piliin ang \"+ Custom category...\" at i-type.",
+    "sub": ""
+  },
+  {
+    "seconds": 1634.908,
+    "text": "Ilagay ang halaga at note. Pwedeng mag-attach ng resibo (litrato o PDF).",
+    "sub": ""
+  },
+  {
+    "seconds": 1646.696,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1650.788,
+    "text": "Naitala ang gastos. Masasave na rin ang bagong category para sa susunod.",
+    "sub": ""
+  },
+  {
+    "seconds": 1660.78,
+    "text": "Para i-edit, i-click ang expense sa table.",
+    "sub": ""
+  },
+  {
+    "seconds": 1674.476,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1678.492,
+    "text": "Na-update ang gastos.",
+    "sub": ""
+  },
+  {
+    "seconds": 1686.556,
+    "text": "Para alisin, gamitin ang \"Archive\".",
+    "sub": ""
+  },
+  {
+    "seconds": 1697.8,
+    "text": "Magkukumpirma muna. Hindi binubura ang record — ina-archive lang para manatili ang kasaysayan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1705.908,
+    "text": "Admin lang ang may \"Show archived\" para makita at ma-Restore ang mga na-archive. Pareho ito sa Patients, Treatments, Inventory, Dentists at Users.",
+    "sub": ""
+  },
+  {
+    "seconds": 1718.644,
+    "text": "Buksan ang na-archive na gastos.",
+    "sub": ""
+  },
+  {
+    "seconds": 1725.04,
+    "text": "Restore para ibalik ito sa aktibong listahan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1729.7,
+    "text": "8. Inventory",
+    "sub": "Stock in, stock out at low-stock na babala."
+  },
+  {
+    "seconds": 1733.532,
+    "text": "Makikita ang lahat ng supply at ang kasalukuyang stock. May babala sa itaas kung ilan ang low on stock.",
+    "sub": ""
+  },
+  {
+    "seconds": 1743.184,
+    "text": "Para mag-record ng dumating na supply, pindutin ang \"Log Stock\".",
+    "sub": ""
+  },
+  {
+    "seconds": 1750.58,
+    "text": "\"Stock In\" kapag dumating, \"Stock Out\" kapag nagamit, nasira o expired.",
+    "sub": ""
+  },
+  {
+    "seconds": 1758.48,
+    "text": "Piliin ang item, o \"+ Custom supply item...\" para sa bago.",
+    "sub": ""
+  },
+  {
+    "seconds": 1787.452,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1791.432,
+    "text": "Tapos na — pindutin ang OK.",
+    "sub": ""
+  },
+  {
+    "seconds": 1802.892,
+    "text": "Ngayon, \"Stock Out\" para sa nagamit.",
+    "sub": ""
+  },
+  {
+    "seconds": 1827.352,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1831.356,
+    "text": "Tapos na — pindutin ang OK.",
+    "sub": ""
+  },
+  {
+    "seconds": 1839.7,
+    "text": "I-click ang item para makita ang detalye.",
+    "sub": ""
+  },
+  {
+    "seconds": 1844.948,
+    "text": "Movement History — bawat pasok at labas ng stock, sino at kailan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1851.484,
+    "text": "\"Edit\" para palitan ang pangalan, unit, at ang Low Stock Threshold.",
+    "sub": ""
+  },
+  {
+    "seconds": 1859.988,
+    "text": "Low Stock Threshold — magbababala ang system kapag umabot o bumaba ang stock dito.",
+    "sub": ""
+  },
+  {
+    "seconds": 1872.644,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1876.608,
+    "text": "Naitakda ang babala kapag tatlo o mas kaunti na lang ang natitira.",
+    "sub": ""
+  },
+  {
+    "seconds": 1890.368,
+    "text": "Ngayon, \"Stock Out\" para sa nagamit.",
+    "sub": ""
+  },
+  {
+    "seconds": 1914.84,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 1918.888,
+    "text": "Tapos na — pindutin ang OK.",
+    "sub": ""
+  },
+  {
+    "seconds": 1926.984,
+    "text": "Low stock para makita ang mga kailangang dagdagan.",
+    "sub": ""
+  },
+  {
+    "seconds": 1936.544,
+    "text": "Tatlong box na lang ang natitira, kaya kasama na ito sa Low stock. May Medium at High din na pagpipilian.",
+    "sub": ""
+  },
+  {
+    "seconds": 1953.08,
+    "text": "Archive kapag hindi na ginagamit ang supply item. Nananatili ang history.",
+    "sub": ""
+  },
+  {
+    "seconds": 1961.828,
+    "text": "9. Dentists",
+    "sub": "Account, working hours at mga natapos na appointment."
+  },
+  {
+    "seconds": 1967.012,
+    "text": "Para magdagdag ng dentista, pindutin ang \"Add Dentist\".",
+    "sub": ""
+  },
+  {
+    "seconds": 1991.236,
+    "text": "Branch access — lagyan ng check ang branch na puwedeng gamitin ng staff.",
+    "sub": ""
+  },
+  {
+    "seconds": 1996.892,
+    "text": "Ilagay ang pangalan, title, email at pansamantalang password. Ang email at password ang gagamitin niya sa pag-login.",
+    "sub": ""
+  },
+  {
+    "seconds": 2010.796,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 2014.804,
+    "text": "Nagawa ang account ng dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 2022.672,
+    "text": "I-click ang dentista para sa detalye.",
+    "sub": ""
+  },
+  {
+    "seconds": 2027.94,
+    "text": "Working Hours — itakda ang araw at oras ng trabaho. Magbababala ang booking kapag labas dito.",
+    "sub": ""
+  },
+  {
+    "seconds": 2037.232,
+    "text": "Lagyan ng check ang araw na may pasok ang dentista. Alisin ang check kapag walang pasok.",
+    "sub": ""
+  },
+  {
+    "seconds": 2045.612,
+    "text": "Itinakda natin ang simula sa 10 AM. Pindutin ang Save Hours.",
+    "sub": ""
+  },
+  {
+    "seconds": 2052.716,
+    "text": "Appointments Completed — mga natapos niyang appointment.",
+    "sub": ""
+  },
+  {
+    "seconds": 2058.016,
+    "text": "Sa \"Edit\" pwedeng i-\"Reset Password\" (lalabas ang bagong password nang isang beses lang) o i-\"Archive\" ang dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 2068.584,
+    "text": "Reset Password kapag kailangan ng bagong password ang dentista.",
+    "sub": ""
+  },
+  {
+    "seconds": 2073.468,
+    "text": "Isang beses lang ipapakita ang bagong password. Ibigay ito nang pribado sa may-ari ng account. Demo account lang ang ipinapakita rito.",
+    "sub": ""
+  },
+  {
+    "seconds": 2091.408,
+    "text": "10. Users",
+    "sub": "Mga account ng staff at ang kanilang role."
+  },
+  {
+    "seconds": 2096.612,
+    "text": "Para sa ibang staff (hal. Front Desk), pindutin ang \"Add User\".",
+    "sub": ""
+  },
+  {
+    "seconds": 2104.484,
+    "text": "Piliin ang Role. \"Admin\" — may access sa lahat. \"Front Desk\" — ayon sa permissions sa Settings. Ang Dentist ay sa Dentists module.",
+    "sub": ""
+  },
+  {
+    "seconds": 2135.408,
+    "text": "Branch access — lagyan ng check ang branch na puwedeng gamitin ng staff.",
+    "sub": ""
+  },
+  {
+    "seconds": 2147.836,
+    "text": "Kumpirmahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 2151.796,
+    "text": "Nagawa ang account. Sa pag-click sa user, pwedeng i-edit, i-Reset Password o i-Archive (mawawalan agad siya ng access).",
+    "sub": ""
+  },
+  {
+    "seconds": 2163.612,
+    "text": "11. Activity Log",
+    "sub": "Talaan ng lahat ng ginawa sa system."
+  },
+  {
+    "seconds": 2167.444,
+    "text": "Nandito ang lahat: sino ang nag-login, sino ang tumingin sa aling pasyente, sino ang gumawa, nag-edit, nag-print o nag-export.",
+    "sub": ""
+  },
+  {
+    "seconds": 2177.004,
+    "text": "Bawat entry: oras, sino, action, detalye at IP address. Hindi ito mae-edit o mabubura.",
+    "sub": ""
+  },
+  {
+    "seconds": 2184.576,
+    "text": "Pwedeng i-filter ayon sa tao, action, area at petsa.",
+    "sub": ""
+  },
+  {
+    "seconds": 2190.872,
+    "text": "Halimbawa, tingnan ang mga pag-archive.",
+    "sub": ""
+  },
+  {
+    "seconds": 2197.384,
+    "text": "Admin lang ang nakakakita nito bilang default. Pwedeng ibigay ang \"logs → read\" sa ibang role sa Settings.",
+    "sub": ""
+  },
+  {
+    "seconds": 2205.532,
+    "text": "12. Settings — Roles & Permissions",
+    "sub": "Kailangang Admin ang naka-login."
+  },
+  {
+    "seconds": 2210.692,
+    "text": "Hiwalay ang pahintulot ng Dentist at Front Desk. Create: gumawa. Read: tumingin. Update: mag-edit. Delete: mag-archive.",
+    "sub": ""
+  },
+  {
+    "seconds": 2219.012,
+    "text": "Halimbawa: walang \"Delete\" ang Front Desk sa Expenses — kaya hindi niya ma-a-archive ang expense. Admin (o role na may Delete) ang kailangang naka-login para gawin iyon.",
+    "sub": ""
+  },
+  {
+    "seconds": 2232.004,
+    "text": "Subukan nating bigyan ang Front Desk ng access sa Activity Log.",
+    "sub": ""
+  },
+  {
+    "seconds": 2239.068,
+    "text": "Pindutin ang \"Save Changes\"...",
+    "sub": ""
+  },
+  {
+    "seconds": 2245.264,
+    "text": "...at kumpirmahin. Epektibo agad ito sa lahat ng may role na iyon.",
+    "sub": ""
+  },
+  {
+    "seconds": 2252.748,
+    "text": "Permission Change Log — lahat ng pagbabago sa permissions: sino, kailan at ano ang binago.",
+    "sub": ""
+  },
+  {
+    "seconds": 2260.704,
+    "text": "Ang dami ng puwedeng branch ay ayon sa plan. Naka-enable na ang multi-branch sa demo na ito.",
+    "sub": ""
+  },
+  {
+    "seconds": 2272.812,
+    "text": "Add para gumawa ng branch, basta pasok sa limit.",
+    "sub": ""
+  },
+  {
+    "seconds": 2279.02,
+    "text": "Edit para palitan ang pangalan.",
+    "sub": ""
+  },
+  {
+    "seconds": 2289.712,
+    "text": "Admin ang nag-aayos kung aling branch ang makikita ng bawat staff. Ang Admin mismo ay may access sa lahat.",
+    "sub": ""
+  },
+  {
+    "seconds": 2298.2,
+    "text": "13. Seguridad ng Datos",
+    "sub": "Paano pinoprotektahan ang impormasyon ng pasyente."
+  },
+  {
+    "seconds": 2302.032,
+    "text": "Pinoprotektahan ang sensitibong impormasyon gamit ang encryption. Para itong nakakandadong kahon para sa pangalan, contact, birthday, address, HMO, allergies, medical history at notes.",
+    "sub": ""
+  },
+  {
+    "seconds": 2311.976,
+    "text": "Kasama sa proteksiyon ang mga file at litrato. Kailangan ang hiwalay na digital na susi para mabasa ang nakaimbak na kopya.",
+    "sub": ""
+  },
+  {
+    "seconds": 2321.072,
+    "text": "Ang file ay nakikita lang ng naka-login na may tamang permission, at naitatala sa Activity Log ang mga pagtingin at pagbabago. Ang paulit-ulit na pagtingin sa loob ng limang minuto ay maaaring pagsamahin.",
+    "sub": ""
+  },
+  {
+    "seconds": 2335.3,
+    "text": "Pansamantalang hinaharang ang pag-login kapag sunud-sunod ang maling password, at ang na-archive na user ay nawawalan agad ng access.",
+    "sub": ""
+  },
+  {
+    "seconds": 2343.54,
+    "text": "14. Salamat!",
+    "sub": "Tapos na ang tutorial. Para sa tanong, makipag-ugnayan sa inyong DenClick administrator."
+  }
+]

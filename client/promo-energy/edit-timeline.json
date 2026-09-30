@@ -1,0 +1,615 @@
+[
+  {
+    "a": 0,
+    "b": 3.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/clinic-opening.png",
+    "start": 0,
+    "length": 3.5,
+    "c0": [
+      0,
+      0,
+      1600
+    ],
+    "c1": [
+      40,
+      22,
+      1500
+    ],
+    "graphic": "problem-cards",
+    "label": null
+  },
+  {
+    "a": 3.5,
+    "b": 5.8,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/clinic-opening.png",
+    "start": 0,
+    "length": 2.3,
+    "c0": [
+      550,
+      170,
+      1050
+    ],
+    "c1": [
+      580,
+      190,
+      990
+    ],
+    "graphic": "problem-search",
+    "label": null
+  },
+  {
+    "a": 5.8,
+    "b": 7.566666666666666,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/patient-card.png",
+    "start": 0,
+    "length": 2.0,
+    "c0": [
+      0,
+      0,
+      1600
+    ],
+    "c1": [
+      65,
+      35,
+      1470
+    ],
+    "graphic": "problem-missing",
+    "label": null
+  },
+  {
+    "a": 7.566666666666666,
+    "b": 12,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/notebook.png",
+    "start": 0,
+    "length": 4.2,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      0,
+      0,
+      1920
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 12,
+    "b": 14.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/reveal.png",
+    "start": 0,
+    "length": 2.5,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      35,
+      20,
+      1850
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 14.5,
+    "b": 16.433333333333334,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 3.8909999999999996,
+    "length": 3.8,
+    "c0": [
+      265,
+      30,
+      1290
+    ],
+    "c1": [
+      282,
+      65,
+      920
+    ],
+    "graphic": null,
+    "label": "Search a name."
+  },
+  {
+    "a": 16.433333333333334,
+    "b": 21.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 8.69,
+    "length": 5.066666666666666,
+    "c0": [
+      280,
+      40,
+      1240
+    ],
+    "c1": [
+      285,
+      125,
+      1170
+    ],
+    "graphic": null,
+    "label": "Their history. Right here."
+  },
+  {
+    "a": 21.5,
+    "b": 25.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 18.359,
+    "length": 4.56845070422535,
+    "c0": [
+      275,
+      25,
+      1320
+    ],
+    "c1": [
+      275,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Treatment history",
+    "continuous": true
+  },
+  {
+    "a": 25.5,
+    "b": 29.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 22.92745070422535,
+    "length": 4.56845070422535,
+    "c0": [
+      275,
+      25,
+      1320
+    ],
+    "c1": [
+      275,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Treatment history",
+    "continuous": true
+  },
+  {
+    "a": 29.5,
+    "b": 33.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 27.495901408450703,
+    "length": 4.56845070422535,
+    "c0": [
+      275,
+      25,
+      1320
+    ],
+    "c1": [
+      275,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Treatment history",
+    "continuous": true
+  },
+  {
+    "a": 33.5,
+    "b": 35.7,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 32.064352112676055,
+    "length": 2.5126478873239457,
+    "c0": [
+      275,
+      25,
+      1320
+    ],
+    "c1": [
+      275,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Treatment history",
+    "continuous": true
+  },
+  {
+    "a": 35.7,
+    "b": 39,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 34.577,
+    "length": 3.299999999999997,
+    "c0": [
+      275,
+      25,
+      1320
+    ],
+    "c1": [
+      275,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Supporting records",
+    "continuous": true
+  },
+  {
+    "a": 39,
+    "b": 41.5,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 42.949,
+    "length": 2.5,
+    "c0": [
+      275,
+      90,
+      1250
+    ],
+    "c1": [
+      400,
+      255,
+      1080
+    ],
+    "graphic": null,
+    "label": "See the treatment history."
+  },
+  {
+    "a": 41.5,
+    "b": 45,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 45.733000000000004,
+    "length": 3.5,
+    "c0": [
+      400,
+      220,
+      1080
+    ],
+    "c1": [
+      390,
+      40,
+      870
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 45,
+    "b": 48,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 53.461999999999996,
+    "length": 3,
+    "c0": [
+      275,
+      85,
+      1270
+    ],
+    "c1": [
+      275,
+      85,
+      1270
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 48,
+    "b": 49,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 60.907000000000004,
+    "length": 1,
+    "c0": [
+      285,
+      85,
+      1220
+    ],
+    "c1": [
+      365,
+      180,
+      1000
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 49,
+    "b": 50.766666666666666,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 73.465,
+    "length": 2,
+    "c0": [
+      280,
+      80,
+      1270
+    ],
+    "c1": [
+      275,
+      65,
+      1320
+    ],
+    "graphic": null,
+    "label": "Installments, made clear."
+  },
+  {
+    "a": 50.766666666666666,
+    "b": 52.13333333333333,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 75.303,
+    "length": 2.2,
+    "c0": [
+      425,
+      360,
+      760
+    ],
+    "c1": [
+      420,
+      395,
+      800
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 52.13333333333333,
+    "b": 52.833333333333336,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 80.09,
+    "length": 1.3,
+    "c0": [
+      405,
+      425,
+      820
+    ],
+    "c1": [
+      405,
+      425,
+      820
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 52.833333333333336,
+    "b": 53.63333333333333,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 83.649,
+    "length": 0.8,
+    "c0": [
+      415,
+      425,
+      800
+    ],
+    "c1": [
+      415,
+      425,
+      800
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 53.63333333333333,
+    "b": 55.1,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 86.156,
+    "length": 1.2,
+    "c0": [
+      420,
+      235,
+      800
+    ],
+    "c1": [
+      420,
+      235,
+      800
+    ],
+    "graphic": null,
+    "label": null
+  },
+  {
+    "a": 55.1,
+    "b": 59,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 90.394,
+    "length": 3.8999999999999986,
+    "c0": [
+      650,
+      90,
+      900
+    ],
+    "c1": [
+      880,
+      65,
+      720
+    ],
+    "graphic": null,
+    "label": "Remaining balance: \u20b124,000"
+  },
+  {
+    "a": 59,
+    "b": 62,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 95.482,
+    "length": 3,
+    "c0": [
+      270,
+      20,
+      1290
+    ],
+    "c1": [
+      285,
+      35,
+      1250
+    ],
+    "graphic": null,
+    "label": "Sensitive details & files, encrypted."
+  },
+  {
+    "a": 62,
+    "b": 70,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 105.93900000000001,
+    "length": 8,
+    "c0": [
+      265,
+      25,
+      1320
+    ],
+    "c1": [
+      265,
+      25,
+      1320
+    ],
+    "graphic": null,
+    "label": "Receivables \u00b7 all time"
+  },
+  {
+    "a": 70,
+    "b": 78,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 116.515,
+    "length": 8,
+    "c0": [
+      265,
+      35,
+      1320
+    ],
+    "c1": [
+      265,
+      35,
+      1320
+    ],
+    "graphic": null,
+    "label": "\u20b18,000 in HMO claims awaiting payment"
+  },
+  {
+    "a": 78,
+    "b": 82,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 127.09700000000001,
+    "length": 4,
+    "c0": [
+      265,
+      30,
+      1320
+    ],
+    "c1": [
+      265,
+      30,
+      1320
+    ],
+    "graphic": null,
+    "label": "Clinic expenses"
+  },
+  {
+    "a": 82,
+    "b": 86,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 134.15200000000002,
+    "length": 4,
+    "c0": [
+      265,
+      30,
+      1320
+    ],
+    "c1": [
+      265,
+      30,
+      1320
+    ],
+    "graphic": null,
+    "label": "Supplies & stock levels"
+  },
+  {
+    "a": 86,
+    "b": 97,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "start": 141.306,
+    "length": 11,
+    "c0": [
+      260,
+      20,
+      1330
+    ],
+    "c1": [
+      275,
+      45,
+      1270
+    ],
+    "graphic": null,
+    "label": "Who viewed, created, or changed records"
+  },
+  {
+    "a": 97,
+    "b": 99.3,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/closing-base.png",
+    "start": 0,
+    "length": 2.5999999999999943,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      0,
+      0,
+      1920
+    ],
+    "graphic": "offer-words",
+    "label": null
+  },
+  {
+    "a": 99.3,
+    "b": 101.7,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/closing-base.png",
+    "start": 0,
+    "length": 2.4000000000000057,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      0,
+      0,
+      1920
+    ],
+    "graphic": "monthly-words",
+    "label": null
+  },
+  {
+    "a": 101.7,
+    "b": 103.56666666666666,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/closing-base.png",
+    "start": 0,
+    "length": 2.4000000000000057,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      0,
+      0,
+      1920
+    ],
+    "graphic": "payoff-words",
+    "label": null
+  },
+  {
+    "a": 103.56666666666666,
+    "b": 107,
+    "source": "/home/kinlie/AbadTorre-Dental/client/promo-energy/closing-base.png",
+    "start": 0,
+    "length": 2.5999999999999943,
+    "c0": [
+      0,
+      0,
+      1920
+    ],
+    "c1": [
+      0,
+      0,
+      1920
+    ],
+    "graphic": "cta-words",
+    "label": null
+  }
+]

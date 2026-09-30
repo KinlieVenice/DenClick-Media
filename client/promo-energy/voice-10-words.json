@@ -1,0 +1,50 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 625000,
+    "duration": 3500000,
+    "text": "Monitor"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4250000,
+    "duration": 6375000,
+    "text": "supplies"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11750000,
+    "duration": 2875000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14750000,
+    "duration": 2750000,
+    "text": "see"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17625000,
+    "duration": 1875000,
+    "text": "when"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19625000,
+    "duration": 3250000,
+    "text": "stock"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23000000,
+    "duration": 2250000,
+    "text": "runs"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25375000,
+    "duration": 3625000,
+    "text": "low"
+  }
+]

@@ -1,0 +1,64 @@
+Final 107-second MP4: complete decoding passed.
+Capture test passed: 10 treatments, six appointments, three working thumbnails, and 24000 balance.
+Four historical braces visits have dated notes and linked appointments.
+All 14 voice passages fit at original playback speed.
+Save click aligned at 53.33s; remaining balance appears at 55.10s.
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'client/promo-energy/DenClick-Energetic-107s.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Duration: 00:01:47.00, start: 0.000000, bitrate: 1115 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 848 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 258 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+  Stream #0:1(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+frame=  374 fps=0.0 q=-0.0 size=N/A time=00:00:09.50 bitrate=N/A speed=  19x    
+[vf#0:0 @ 0x100381c0] Reconfiguring filter graph because video parameters changed to yuv420p(tv, bt470bg), 1920x1080
+frame=  795 fps=795 q=-0.0 size=N/A time=00:00:23.50 bitrate=N/A speed=23.5x    
+frame= 1200 fps=800 q=-0.0 size=N/A time=00:00:37.00 bitrate=N/A speed=24.7x    
+frame= 1617 fps=808 q=-0.0 size=N/A time=00:00:50.90 bitrate=N/A speed=25.4x    
+frame= 2040 fps=816 q=-0.0 size=N/A time=00:01:05.00 bitrate=N/A speed=  26x    
+frame= 2466 fps=822 q=-0.0 size=N/A time=00:01:19.20 bitrate=N/A speed=26.4x    
+frame= 2895 fps=827 q=-0.0 size=N/A time=00:01:33.50 bitrate=N/A speed=26.7x    
+[Parsed_loudnorm_0 @ 0x792cb0003040] 
+{
+	"input_i" : "-15.24",
+	"input_tp" : "-0.92",
+	"input_lra" : "4.20",
+	"input_thresh" : "-25.59",
+	"output_i" : "-15.03",
+	"output_tp" : "-1.00",
+	"output_lra" : "4.10",
+	"output_thresh" : "-25.37",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.03"
+}
+[out#0/null @ 0xfed9740] video:1379KiB audio:80256KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 3209 fps=823 q=-0.0 Lsize=N/A time=00:01:46.96 bitrate=N/A speed=27.4x    

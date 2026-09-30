@@ -1,0 +1,61 @@
+Date,Type,Party,Detail,Method,Claim Status,Amount
+9/26/2026,Income,Liza Mendoza,Oral Prophylaxis (Cleaning),Cash,,800
+9/26/2026,Expense,Paolo Cruz,Dental Filling (Composite),Refund,,'-200
+9/26/2026,Income,Paolo Cruz,Dental Filling (Composite),GCash,,700
+9/26/2026,Income,Paolo Cruz,Dental Filling (Composite),HMO/Insurance,Paid,300
+9/26/2026,Expense,Dental Supplies,Demo expense 1,,,'-300
+9/25/2026,Income,Patricia Lim,Oral Prophylaxis (Cleaning),Cash,,311
+9/25/2026,Income,Enrico Bautista,Night Guard,Cash,,4000
+9/25/2026,Income,Samantha Reyes,Gum Treatment (Periodontal Scaling),Cash,,3500
+9/24/2026,Income,Bianca Aquino,Fluoride Treatment,Cash,,600
+9/24/2026,Income,Miguel Torres,Emergency Toothache Consultation,Cash,,500
+9/23/2026,Income,Grace Ocampo,Dental X-Ray (Periapical),Cash,,161
+9/23/2026,Income,Roberto Villanueva,Dental X-Ray (Panoramic),Cash,,1200
+9/22/2026,Expense,Equipment Maintenance,Demo expense 2,,,'-1150
+9/22/2026,Income,Ana Garcia,Dental Veneer (Porcelain),Cash,,15000
+9/21/2026,Income,Maria Santos,Dental Implant,Cash,,60000
+9/21/2026,Income,Pedro Reyes,Dental Sealant,Cash,,700
+9/18/2026,Income,Patricia Lim,Dental Filling (Amalgam),Cash,,900
+9/18/2026,Income,Enrico Bautista,Dental Crown (Porcelain),Cash,,3933
+9/18/2026,Expense,Utilities,Demo expense 3,,,'-2000
+9/18/2026,Income,Jerome Santiago,Dental Filling (Composite),Cash,,493
+9/18/2026,Income,Samantha Reyes,Dental Bridge,Cash,,25000
+9/17/2026,Income,Ferdinand Cruz,Complete Denture,Cash,,6347
+9/17/2026,Income,Bianca Aquino,Braces Installation (Metal),Cash,,45000
+9/17/2026,Income,Miguel Torres,Braces Installation (Ceramic),Cash,,44605
+9/16/2026,Income,Grace Ocampo,Braces Consultation,Cash,,500
+9/16/2026,Income,Roberto Villanueva,Braces Adjustment,Cash,,1000
+9/15/2026,Income,Ana Garcia,Tooth Extraction (Surgical),Cash,,4500
+9/15/2026,Income,Carlos Mendoza,Wisdom Tooth Extraction,Cash,,2667
+9/14/2026,Income,Maria Santos,Teeth Whitening,Cash,,3500
+9/14/2026,Income,Juan Dela Cruz,Space Maintainer,Cash,,1323
+9/14/2026,Income,Jerome Santiago,Root Canal Treatment,Cash,,8000
+9/14/2026,Expense,Salaries,Demo expense 4,,,'-2850
+9/14/2026,Income,Pedro Reyes,Tooth Extraction (Simple),Cash,,966
+9/11/2026,Income,Enrico Bautista,Pediatric Pulpotomy,Cash,,1713
+9/11/2026,Income,Patricia Lim,Retainer,Cash,,3500
+9/11/2026,Income,Samantha Reyes,Pediatric Cleaning,Cash,,600
+9/10/2026,Income,Bianca Aquino,Oral Prophylaxis (Cleaning),Cash,,469
+9/10/2026,Income,Miguel Torres,Night Guard,Cash,,4000
+9/10/2026,Expense,Sterilization & PPE,Demo expense 5,,,'-3700
+9/10/2026,Income,Ferdinand Cruz,Partial Denture,Cash,,12000
+9/9/2026,Income,Carlos Mendoza,Emergency Toothache Consultation,Cash,,194
+9/9/2026,Income,Roberto Villanueva,Fluoride Treatment,Cash,,227
+9/9/2026,Income,Grace Ocampo,Gum Treatment (Periodontal Scaling),Cash,,2156
+9/8/2026,Income,Ana Garcia,Dental X-Ray (Periapical),Cash,,300
+9/8/2026,Income,Pedro Reyes,Dental X-Ray (Panoramic),Cash,,1200
+9/7/2026,Income,Juan Dela Cruz,Dental Veneer (Porcelain),Cash,,15000
+9/7/2026,Income,Patricia Lim,Dental Sealant,Cash,,700
+9/5/2026,Expense,Lab Fees,Demo expense 6,,,'-4550
+9/4/2026,Income,Samantha Reyes,Dental Filling (Composite),Cash,,1200
+9/4/2026,Income,Enrico Bautista,Dental Implant,Cash,,18726
+9/4/2026,Income,Ferdinand Cruz,Dental Filling (Amalgam),Cash,,447
+9/3/2026,Income,Miguel Torres,Dental Bridge,Cash,,25000
+9/3/2026,Income,Bianca Aquino,Dental Crown (Porcelain),Cash,,6149
+9/2/2026,Income,Roberto Villanueva,Complete Denture,Cash,,11101
+9/2/2026,Income,Carlos Mendoza,Braces Installation (Metal),Cash,,45000
+9/1/2026,Income,Ana Garcia,Braces Installation (Ceramic),Cash,,65000
+9/1/2026,Income,Pedro Reyes,Braces Consultation,Cash,,500
+9/1/2026,Expense,Rent,Demo expense 7,,,'-5400
+9/1/2026,Income,Juan Dela Cruz,Braces Adjustment,Cash,,640
+8/28/2026,Expense,Marketing,Demo expense 8,,,'-300

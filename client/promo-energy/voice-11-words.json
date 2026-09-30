@@ -1,0 +1,122 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1250000,
+    "duration": 875000,
+    "text": "For"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2125000,
+    "duration": 7375000,
+    "text": "accountability"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11875000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12625000,
+    "duration": 4625000,
+    "text": "activity"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17375000,
+    "duration": 2375000,
+    "text": "log"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19875000,
+    "duration": 4000000,
+    "text": "shows"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24000000,
+    "duration": 1375000,
+    "text": "who"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25375000,
+    "duration": 3625000,
+    "text": "viewed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29125000,
+    "duration": 3625000,
+    "text": "patient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32875000,
+    "duration": 4500000,
+    "text": "records"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39875000,
+    "duration": 3750000,
+    "text": "created"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43750000,
+    "duration": 6125000,
+    "text": "entries"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52125000,
+    "duration": 2125000,
+    "text": "or"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54375000,
+    "duration": 2500000,
+    "text": "made"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57000000,
+    "duration": 5875000,
+    "text": "changes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65250000,
+    "duration": 2000000,
+    "text": "with"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67375000,
+    "duration": 6875000,
+    "text": "timestamps"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74250000,
+    "duration": 750000,
+    "text": "you"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75125000,
+    "duration": 1250000,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76500000,
+    "duration": 4875000,
+    "text": "review"
+  }
+]

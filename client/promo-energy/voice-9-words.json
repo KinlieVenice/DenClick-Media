@@ -1,0 +1,38 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 875000,
+    "duration": 2250000,
+    "text": "Keep"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4375000,
+    "duration": 4750000,
+    "text": "everyday"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9250000,
+    "duration": 3750000,
+    "text": "clinic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13125000,
+    "duration": 7000000,
+    "text": "expenses"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20250000,
+    "duration": 7125000,
+    "text": "organized"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27625000,
+    "duration": 4125000,
+    "text": "too"
+  }
+]

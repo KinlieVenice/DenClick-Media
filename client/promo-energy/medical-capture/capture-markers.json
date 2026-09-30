@@ -1,0 +1,25 @@
+{
+  "marks": [
+    {
+      "name": "search-start",
+      "time": 3.501
+    },
+    {
+      "name": "search-result",
+      "time": 6.411
+    },
+    {
+      "name": "profile",
+      "time": 8.137
+    },
+    {
+      "name": "medical-info",
+      "time": 10.113
+    },
+    {
+      "name": "medical-to-treatments",
+      "time": 15.667
+    }
+  ],
+  "patientId": "f9a49d6c-a410-41dd-8b56-51c1368e8305"
+}

@@ -1,0 +1,15 @@
+00:03 0. DenClick Tutorial
+00:45 1. Dashboard
+03:01 2. Appointments
+06:44 3. Patients
+10:45 4. Patient Record at Billing
+22:36 5. Treatments
+24:35 6. Finance
+26:39 7. Expenses
+28:50 8. Inventory
+32:42 9. Dentists
+34:51 10. Users
+36:04 11. Activity Log
+36:46 12. Settings — Roles & Permissions
+38:18 13. Seguridad ng Datos
+39:04 14. Salamat!

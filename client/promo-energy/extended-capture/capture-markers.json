@@ -1,0 +1,94 @@
+{
+  "marks": [
+    {
+      "name": "search-start",
+      "time": 3.392
+    },
+    {
+      "name": "search-result",
+      "time": 6.264
+    },
+    {
+      "name": "profile",
+      "time": 8.135
+    },
+    {
+      "name": "history",
+      "time": 14.827
+    },
+    {
+      "name": "attachments",
+      "time": 29.817
+    },
+    {
+      "name": "security",
+      "time": 38.354
+    },
+    {
+      "name": "chart",
+      "time": 47.946
+    },
+    {
+      "name": "tooth",
+      "time": 53.1
+    },
+    {
+      "name": "appointments",
+      "time": 61.384
+    },
+    {
+      "name": "calendar",
+      "time": 66.688
+    },
+    {
+      "name": "appointment-detail",
+      "time": 71.43
+    },
+    {
+      "name": "balance-before",
+      "time": 84.323
+    },
+    {
+      "name": "payment-form",
+      "time": 88.307
+    },
+    {
+      "name": "payment-filled",
+      "time": 94.942
+    },
+    {
+      "name": "payment-confirm",
+      "time": 98.567
+    },
+    {
+      "name": "balance-after",
+      "time": 103.373
+    },
+    {
+      "name": "dashboard",
+      "time": 108.891
+    },
+    {
+      "name": "receivables",
+      "time": 119.116
+    },
+    {
+      "name": "hmo-claims",
+      "time": 129.682
+    },
+    {
+      "name": "expenses",
+      "time": 140.269
+    },
+    {
+      "name": "inventory",
+      "time": 147.314
+    },
+    {
+      "name": "activity-log",
+      "time": 154.465
+    }
+  ],
+  "patientId": "b4b26742-6075-4ec4-86a5-fb11fc880d13",
+  "treatmentId": "d7fb25f6-8551-4823-942d-9aeb19813ab1"
+}

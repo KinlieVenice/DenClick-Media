@@ -1,0 +1,147 @@
+[
+  {
+    "type": "click",
+    "time": 14.642456140350877,
+    "sourceTime": 4.171
+  },
+  {
+    "type": "key",
+    "time": 14.877508771929826,
+    "sourceTime": 4.633
+  },
+  {
+    "type": "key",
+    "time": 14.947719298245614,
+    "sourceTime": 4.771
+  },
+  {
+    "type": "key",
+    "time": 15.013859649122807,
+    "sourceTime": 4.901
+  },
+  {
+    "type": "key",
+    "time": 15.08101754385965,
+    "sourceTime": 5.033
+  },
+  {
+    "type": "key",
+    "time": 15.146649122807018,
+    "sourceTime": 5.162
+  },
+  {
+    "type": "key",
+    "time": 15.212280701754386,
+    "sourceTime": 5.291
+  },
+  {
+    "type": "key",
+    "time": 15.278421052631579,
+    "sourceTime": 5.421
+  },
+  {
+    "type": "key",
+    "time": 15.344561403508772,
+    "sourceTime": 5.551
+  },
+  {
+    "type": "key",
+    "time": 15.411719298245615,
+    "sourceTime": 5.683
+  },
+  {
+    "type": "key",
+    "time": 15.47938596491228,
+    "sourceTime": 5.816
+  },
+  {
+    "type": "click",
+    "time": 16.107719298245616,
+    "sourceTime": 7.051
+  },
+  {
+    "type": "click",
+    "time": 17.449333333333335,
+    "sourceTime": 9.706
+  },
+  {
+    "type": "click",
+    "time": 22.807226538414106,
+    "sourceTime": 19.852
+  },
+  {
+    "type": "click",
+    "time": 35.82600000000001,
+    "sourceTime": 34.703
+  },
+  {
+    "type": "click",
+    "time": 39.519000000000005,
+    "sourceTime": 43.468
+  },
+  {
+    "type": "click",
+    "time": 42.117,
+    "sourceTime": 46.35
+  },
+  {
+    "type": "click",
+    "time": 45.404,
+    "sourceTime": 53.866
+  },
+  {
+    "type": "click",
+    "time": 48.486999999999995,
+    "sourceTime": 61.394
+  },
+  {
+    "type": "click",
+    "time": 49.50084999999999,
+    "sourceTime": 74.032
+  },
+  {
+    "type": "click",
+    "time": 51.20027272727273,
+    "sourceTime": 76.001
+  },
+  {
+    "type": "key",
+    "time": 51.53759090909091,
+    "sourceTime": 76.544
+  },
+  {
+    "type": "key",
+    "time": 51.66369696969697,
+    "sourceTime": 76.747
+  },
+  {
+    "type": "key",
+    "time": 51.78545454545454,
+    "sourceTime": 76.943
+  },
+  {
+    "type": "key",
+    "time": 51.908454545454546,
+    "sourceTime": 77.141
+  },
+  {
+    "type": "click",
+    "time": 52.33202564102564,
+    "sourceTime": 80.459
+  },
+  {
+    "type": "click",
+    "time": 53.333333333333336,
+    "sourceTime": 84.149
+  },
+  {
+    "type": "click",
+    "time": 54.27377777777778,
+    "sourceTime": 86.68
+  },
+  {
+    "type": "click",
+    "time": 58.95799999999999,
+    "sourceTime": 94.252
+  }
+]

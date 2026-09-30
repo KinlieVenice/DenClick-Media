@@ -1,0 +1,2279 @@
+[
+  {
+    "index": 0,
+    "start": 2.524,
+    "end": 6.11,
+    "text": "Den Click Tutorial",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/000-c3c310bc95fd.mp3",
+    "naturalDuration": 1.2130833333333333,
+    "speed": 1
+  },
+  {
+    "index": 1,
+    "start": 6.36,
+    "end": 14.342,
+    "text": "Sample na pangalan at record lang ang gamit sa tutorial. Puwedeng i-pause ang video at ulitin ang bawat hakbang.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/001-ae0f5bd67309.mp3",
+    "naturalDuration": 7.020708333333333,
+    "speed": 1
+  },
+  {
+    "index": 2,
+    "start": 14.592,
+    "end": 28.662,
+    "text": "Magsimula tayo sa pag-login. Ilagay ang email at password na ibinigay sa inyo ng Admin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/002-ca0ed4aee27b.mp3",
+    "naturalDuration": 5.824083333333333,
+    "speed": 1
+  },
+  {
+    "index": 3,
+    "start": 28.912,
+    "end": 35.302,
+    "text": "Pwedeng pindutin ang mata para makita ang tinype na password.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/003-1d3846cbdf59.mp3",
+    "naturalDuration": 3.126916666666667,
+    "speed": 1
+  },
+  {
+    "index": 4,
+    "start": 35.552,
+    "end": 39.278,
+    "text": "Pindutin ang Login.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/004-3477fbd7dda5.mp3",
+    "naturalDuration": 1.325375,
+    "speed": 1
+  },
+  {
+    "index": 5,
+    "start": 39.528,
+    "end": 45.17,
+    "text": "Naka-login tayo bilang Admin, kaya makikita natin ang lahat ng module sa kaliwa.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/005-28ef07e589a0.mp3",
+    "naturalDuration": 4.5605416666666665,
+    "speed": 1
+  },
+  {
+    "index": 6,
+    "start": 45.42,
+    "end": 50.394,
+    "text": "Dashboard",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/006-67b696468610.mp3",
+    "naturalDuration": 0.7362083333333334,
+    "speed": 1
+  },
+  {
+    "index": 7,
+    "start": 50.644,
+    "end": 59.574,
+    "text": "Ito ang date filter: Today, Week, Month at Year. Pinapalitan nito ang saklaw ng mga numero sa ibaba.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/007-49437810dac0.mp3",
+    "naturalDuration": 6.39825,
+    "speed": 1
+  },
+  {
+    "index": 8,
+    "start": 59.824,
+    "end": 64.974,
+    "text": "Today — ngayong araw lang.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/008-34d91edece4a.mp3",
+    "naturalDuration": 1.5590833333333334,
+    "speed": 1
+  },
+  {
+    "index": 9,
+    "start": 65.224,
+    "end": 70.318,
+    "text": "Week — nakaraang 7 araw.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/009-59f0a2c1b3ec.mp3",
+    "naturalDuration": 1.6985416666666666,
+    "speed": 1
+  },
+  {
+    "index": 10,
+    "start": 70.568,
+    "end": 75.654,
+    "text": "Year — nakaraang isang taon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/010-f5659ebf295f.mp3",
+    "naturalDuration": 1.7235833333333332,
+    "speed": 1
+  },
+  {
+    "index": 11,
+    "start": 75.904,
+    "end": 81.838,
+    "text": "Month — nakaraang isang buwan. Balik tayo sa Month.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/011-6ee9f8400cc2.mp3",
+    "naturalDuration": 3.56875,
+    "speed": 1
+  },
+  {
+    "index": 12,
+    "start": 82.088,
+    "end": 87.19,
+    "text": "Revenue — lahat ng perang natanggap sa napiling panahon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/012-ec8a6527ad13.mp3",
+    "naturalDuration": 3.2794166666666666,
+    "speed": 1
+  },
+  {
+    "index": 13,
+    "start": 87.44,
+    "end": 92.126,
+    "text": "Expenses — lahat ng gastos sa parehong panahon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/013-f06d5b9ace8f.mp3",
+    "naturalDuration": 2.8753333333333333,
+    "speed": 1
+  },
+  {
+    "index": 14,
+    "start": 92.376,
+    "end": 96.63,
+    "text": "Profit — Revenue bawas Expenses.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/014-aab96d60f669.mp3",
+    "naturalDuration": 2.3215,
+    "speed": 1
+  },
+  {
+    "index": 15,
+    "start": 96.88,
+    "end": 103.614,
+    "text": "Lahat ng card ay pwedeng i-click. Halimbawa, ang Revenue ay dadalhin tayo sa Finance.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/015-a68ab7162f72.mp3",
+    "naturalDuration": 5.617791666666666,
+    "speed": 1
+  },
+  {
+    "index": 16,
+    "start": 103.864,
+    "end": 111.434,
+    "text": "Dito makikita ang bawat bayad na bumubuo sa Revenue. Babalikan natin ang Finance mamaya.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/016-5f5e06f7cd3b.mp3",
+    "naturalDuration": 5.8959166666666665,
+    "speed": 1
+  },
+  {
+    "index": 17,
+    "start": 111.684,
+    "end": 122.774,
+    "text": "Receivables (all time) — lahat ng balanse na hindi pa bayad ng mga pasyente. Ang may (all time) ay hindi apektado ng date filter.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/017-7d89211eda0f.mp3",
+    "naturalDuration": 8.129375,
+    "speed": 1
+  },
+  {
+    "index": 18,
+    "start": 123.024,
+    "end": 131.962,
+    "text": "H M O claims to follow up — mga H M O claim na hindi pa nababayaran ng H M O. Pwede ring i-click.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/018-9430b058c5bf.mp3",
+    "naturalDuration": 6.29625,
+    "speed": 1
+  },
+  {
+    "index": 19,
+    "start": 132.212,
+    "end": 137.758,
+    "text": "No-Show Rate — ilang porsyento ng appointments ang hindi sinipot.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/019-f230f03e6b53.mp3",
+    "naturalDuration": 3.405291666666667,
+    "speed": 1
+  },
+  {
+    "index": 20,
+    "start": 138.008,
+    "end": 145.33,
+    "text": "Total Patients — lahat ng pasyente. New Patients — mga bago sa napiling panahon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/020-63f4b4cc7990.mp3",
+    "naturalDuration": 5.547375,
+    "speed": 1
+  },
+  {
+    "index": 21,
+    "start": 145.58,
+    "end": 152.054,
+    "text": "Today's Appointments — ilang appointment ngayong araw. I-click para makita sa calendar.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/021-8350e7ef57b2.mp3",
+    "naturalDuration": 5.585166666666667,
+    "speed": 1
+  },
+  {
+    "index": 22,
+    "start": 152.304,
+    "end": 159.434,
+    "text": "Revenue Trend — graph ng kita kada araw. May View all para sa detalye.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/022-a7609ff5be2a.mp3",
+    "naturalDuration": 5.105416666666667,
+    "speed": 1
+  },
+  {
+    "index": 23,
+    "start": 159.684,
+    "end": 166.03,
+    "text": "Hati-hati rito ang gastos ayon sa category, tulad ng supplies at laboratory.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/023-c1dac9e43d98.mp3",
+    "naturalDuration": 4.628625,
+    "speed": 1
+  },
+  {
+    "index": 24,
+    "start": 166.28,
+    "end": 175.77,
+    "text": "By Dentist — bilang ng appointment at kita kada dentista. Unassigned ang lumang bayad na wala pang nakatalagang dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/024-76de14bfc30d.mp3",
+    "naturalDuration": 7.723125,
+    "speed": 1
+  },
+  {
+    "index": 25,
+    "start": 176.02,
+    "end": 180.366,
+    "text": "Today's Schedule — mga pasyente at oras nila ngayong araw.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/025-9919b3009436.mp3",
+    "naturalDuration": 3.34275,
+    "speed": 1
+  },
+  {
+    "index": 26,
+    "start": 180.616,
+    "end": 185.63,
+    "text": "Appointments",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/026-f2e46531202a.mp3",
+    "naturalDuration": 0.9928333333333333,
+    "speed": 1
+  },
+  {
+    "index": 27,
+    "start": 185.88,
+    "end": 194.054,
+    "text": "Ito ang calendar. May Month, Week at Day view, at mga arrow para lumipat ng linggo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/027-1fc55581834d.mp3",
+    "naturalDuration": 5.766791666666666,
+    "speed": 1
+  },
+  {
+    "index": 28,
+    "start": 194.304,
+    "end": 200.782,
+    "text": "Unang paraan ng pag-book: pindutin ang New Appointment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/028-c0ba3811cafa.mp3",
+    "naturalDuration": 3.04625,
+    "speed": 1
+  },
+  {
+    "index": 29,
+    "start": 201.032,
+    "end": 216.818,
+    "text": "Piliin ang pasyente. Kung bago siya at wala pa sa system, piliin ang + New patient... sa pinakataas.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/029-fa301f093b5d.mp3",
+    "naturalDuration": 7.388333333333334,
+    "speed": 1
+  },
+  {
+    "index": 30,
+    "start": 217.068,
+    "end": 230.25,
+    "text": "Pangalan lang ang kailangan muna. Ang contact, H M O at iba pa ay idadagdag mamaya sa Edit ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/030-81f3a7026ffb.mp3",
+    "naturalDuration": 7.0830416666666665,
+    "speed": 1
+  },
+  {
+    "index": 31,
+    "start": 230.5,
+    "end": 243.022,
+    "text": "Piliin ang dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/031-9aa2bdabb81a.mp3",
+    "naturalDuration": 1.40775,
+    "speed": 1
+  },
+  {
+    "index": 32,
+    "start": 243.272,
+    "end": 258.722,
+    "text": "Piliin ang petsa at oras.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/032-73c2909c27ee.mp3",
+    "naturalDuration": 1.8009583333333334,
+    "speed": 1
+  },
+  {
+    "index": 33,
+    "start": 258.972,
+    "end": 265.454,
+    "text": "Itakda ang oras, minuto at A M o P M.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/033-9267f9c248e6.mp3",
+    "naturalDuration": 3.4412083333333334,
+    "speed": 1
+  },
+  {
+    "index": 34,
+    "start": 265.704,
+    "end": 270.934,
+    "text": "Duration — gaano katagal ang appointment, sa minuto.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/034-f81c60edaddc.mp3",
+    "naturalDuration": 3.1082083333333332,
+    "speed": 1
+  },
+  {
+    "index": 35,
+    "start": 271.184,
+    "end": 278.71,
+    "text": "Pindutin ang Create.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/035-b68f48c6f465.mp3",
+    "naturalDuration": 1.19025,
+    "speed": 1
+  },
+  {
+    "index": 36,
+    "start": 278.96,
+    "end": 282.778,
+    "text": "Magkukumpirma muna ang system. Pindutin ang Yes.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/036-4deaff7f80bc.mp3",
+    "naturalDuration": 3.8108333333333335,
+    "speed": 1
+  },
+  {
+    "index": 37,
+    "start": 283.028,
+    "end": 293.378,
+    "text": "Nagawa ang appointment, at naidagdag na rin si Liza Mendoza bilang bagong pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/037-cb88ba23c27b.mp3",
+    "naturalDuration": 4.759541666666666,
+    "speed": 1
+  },
+  {
+    "index": 38,
+    "start": 293.628,
+    "end": 298.642,
+    "text": "Pumunta tayo sa susunod na linggo para makita ang appointment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/038-3c28c53f5089.mp3",
+    "naturalDuration": 3.226541666666667,
+    "speed": 1
+  },
+  {
+    "index": 39,
+    "start": 298.892,
+    "end": 311.17,
+    "text": "Ikalawang paraan: i-click ang isang oras sa mismong calendar, o i-drag pababa para sa mas mahabang oras. Bubukas ang parehong form na naka-set na ang oras.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/039-f6065ac12366.mp3",
+    "naturalDuration": 10.250333333333334,
+    "speed": 1
+  },
+  {
+    "index": 40,
+    "start": 311.42,
+    "end": 319.218,
+    "text": "I-click ang appointment para makita ang detalye at palitan ang status.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/040-7f355bfc16d9.mp3",
+    "naturalDuration": 4.001291666666667,
+    "speed": 1
+  },
+  {
+    "index": 41,
+    "start": 319.468,
+    "end": 326.614,
+    "text": "Bawat bagong appointment ay SCHEDULED. Pwede itong gawing NO SHOW kung hindi sumipot, o CANCELLED kung kinansela.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/041-38ee6911e613.mp3",
+    "naturalDuration": 6.95725,
+    "speed": 1
+  },
+  {
+    "index": 42,
+    "start": 326.864,
+    "end": 337.334,
+    "text": "Ang COMPLETED ay awtomatiko: kapag may bayad na naitala para sa appointment, magiging Completed ito. Makikita natin iyan sa Billing.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/042-248deef80f7a.mp3",
+    "naturalDuration": 8.325625,
+    "speed": 1
+  },
+  {
+    "index": 43,
+    "start": 337.584,
+    "end": 341.37,
+    "text": "Isara muna natin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/043-f7a12ba56cc3.mp3",
+    "naturalDuration": 1.3405416666666667,
+    "speed": 1
+  },
+  {
+    "index": 44,
+    "start": 341.62,
+    "end": 350.942,
+    "text": "Subukan nating ilipat ang appointment nang kalahating oras. I-drag ang kahon pababa.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/044-3ad679446a4c.mp3",
+    "naturalDuration": 5.672958333333334,
+    "speed": 1
+  },
+  {
+    "index": 45,
+    "start": 351.192,
+    "end": 360.714,
+    "text": "Suriin ang luma at bagong oras, saka Confirm.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/045-3c02a5cfb1d4.mp3",
+    "naturalDuration": 2.898125,
+    "speed": 1
+  },
+  {
+    "index": 46,
+    "start": 360.964,
+    "end": 374.69,
+    "text": "Halimbawa, hindi dumating ang pasyente. Piliin ang NO SHOW.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/046-f01bd888e6d7.mp3",
+    "naturalDuration": 4.404333333333334,
+    "speed": 1
+  },
+  {
+    "index": 47,
+    "start": 374.94,
+    "end": 378.746,
+    "text": "Save Changes para itala ang status.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/047-1c53be9c8f83.mp3",
+    "naturalDuration": 2.369125,
+    "speed": 1
+  },
+  {
+    "index": 48,
+    "start": 378.996,
+    "end": 383.502,
+    "text": "Kung kinansela ang booking, CANCELLED naman ang piliin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/048-71e5d58de1b0.mp3",
+    "naturalDuration": 2.971875,
+    "speed": 1
+  },
+  {
+    "index": 49,
+    "start": 383.752,
+    "end": 389.014,
+    "text": "Day para isang araw lang ang makita.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/049-3d262bbdabce.mp3",
+    "naturalDuration": 2.0395416666666666,
+    "speed": 1
+  },
+  {
+    "index": 50,
+    "start": 389.264,
+    "end": 393.89,
+    "text": "I-click ang bakanteng oras para mag-book mula sa calendar.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/050-49bc5f5851e3.mp3",
+    "naturalDuration": 3.2327083333333335,
+    "speed": 1
+  },
+  {
+    "index": 51,
+    "start": 394.14,
+    "end": 403.434,
+    "text": "Nakalagay na ang petsa at oras. Piliin na lang ang pasyente at dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/051-a13b435b475c.mp3",
+    "naturalDuration": 4.880208333333333,
+    "speed": 1
+  },
+  {
+    "index": 52,
+    "start": 403.684,
+    "end": 408.822,
+    "text": "Patients",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/052-bdfd3f2381fc.mp3",
+    "naturalDuration": 0.7569166666666667,
+    "speed": 1
+  },
+  {
+    "index": 53,
+    "start": 409.072,
+    "end": 416.234,
+    "text": "Dito makikita ang lahat ng pasyente. Pwedeng maghanap ayon sa pangalan o contact number.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/053-074bbe1bb180.mp3",
+    "naturalDuration": 5.606125,
+    "speed": 1
+  },
+  {
+    "index": 54,
+    "start": 416.484,
+    "end": 421.106,
+    "text": "Para gumawa ng bagong pasyente, pindutin ang New Patient.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/054-49b8927a5474.mp3",
+    "naturalDuration": 3.2830416666666666,
+    "speed": 1
+  },
+  {
+    "index": 55,
+    "start": 421.356,
+    "end": 439.882,
+    "text": "May mga tab ang form: Personal, Insurance, Medical, Attachments at Appointment. Punan lang ang alam ninyo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/055-d1ba96b59b9d.mp3",
+    "naturalDuration": 7.2035833333333334,
+    "speed": 1
+  },
+  {
+    "index": 56,
+    "start": 440.132,
+    "end": 448.718,
+    "text": "Full name lang ang required. Pwede ring maglagay ng litrato sa Click to add a photo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/056-2bb9e6c4da00.mp3",
+    "naturalDuration": 5.133375,
+    "speed": 1
+  },
+  {
+    "index": 57,
+    "start": 448.968,
+    "end": 455.466,
+    "text": "Sa Insurance tab ilalagay ang H M O ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/057-868e77ebca79.mp3",
+    "naturalDuration": 2.9948333333333332,
+    "speed": 1
+  },
+  {
+    "index": 58,
+    "start": 455.716,
+    "end": 477.654,
+    "text": "Piliin ang H M O provider. Kung wala pa sa listahan, piliin ang + Custom H M O provider... at i-type.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/058-bb80b3112d1b.mp3",
+    "naturalDuration": 8.036625,
+    "speed": 1
+  },
+  {
+    "index": 59,
+    "start": 477.904,
+    "end": 487.31,
+    "text": "Mahalaga ito: lalabas lang ang H M O bilang mode of payment kung may H M O ang pasyente sa profile niya.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/059-cd288671816c.mp3",
+    "naturalDuration": 6.287416666666667,
+    "speed": 1
+  },
+  {
+    "index": 60,
+    "start": 487.56,
+    "end": 497.866,
+    "text": "Sa Medical tab ilalagay ang allergies at medical history.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/060-034eb98f0b45.mp3",
+    "naturalDuration": 3.240375,
+    "speed": 1
+  },
+  {
+    "index": 61,
+    "start": 498.116,
+    "end": 508.95,
+    "text": "I-type ang allergy tapos pindutin ang + para idagdag sa listahan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/061-b32d64fde38b.mp3",
+    "naturalDuration": 4.755583333333333,
+    "speed": 1
+  },
+  {
+    "index": 62,
+    "start": 509.2,
+    "end": 518.202,
+    "text": "Ulitin para sa bawat allergy. Bawat isa ay hiwalay na linya.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/062-778ca0fc7da0.mp3",
+    "naturalDuration": 4.507875,
+    "speed": 1
+  },
+  {
+    "index": 63,
+    "start": 518.452,
+    "end": 527.182,
+    "text": "Pareho sa Medical history. Kahit hindi mapindot ang +, masasave pa rin ang huling tinype pagka-save.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/063-d543650e40b3.mp3",
+    "naturalDuration": 6.961041666666667,
+    "speed": 1
+  },
+  {
+    "index": 64,
+    "start": 527.432,
+    "end": 534.458,
+    "text": "Pindutin ang Create Patient.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/064-60b209ef0c28.mp3",
+    "naturalDuration": 1.56825,
+    "speed": 1
+  },
+  {
+    "index": 65,
+    "start": 534.708,
+    "end": 538.434,
+    "text": "Kumpirmahin gamit ang Yes.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/065-341ed3e8717b.mp3",
+    "naturalDuration": 1.644625,
+    "speed": 1
+  },
+  {
+    "index": 66,
+    "start": 538.684,
+    "end": 553.698,
+    "text": "Nagawa na ang pasyente. Kung may kapareho nang pangalan at contact, magbababala muna ang system para hindi madoble.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/066-e9bc95c89256.mp3",
+    "naturalDuration": 7.141416666666666,
+    "speed": 1
+  },
+  {
+    "index": 67,
+    "start": 553.948,
+    "end": 574.542,
+    "text": "Tingnan natin ang babala kapag may kaparehong pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/067-266787f91ebe.mp3",
+    "naturalDuration": 2.9482916666666665,
+    "speed": 1
+  },
+  {
+    "index": 68,
+    "start": 574.792,
+    "end": 590.41,
+    "text": "May kaparehong pangalan at contact. Suriin muna. Create Anyway lang kung talagang magkaibang tao. Cancel muna tayo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/068-d1ae7f8ddaf6.mp3",
+    "naturalDuration": 9.161416666666666,
+    "speed": 1
+  },
+  {
+    "index": 69,
+    "start": 590.66,
+    "end": 607.166,
+    "text": "Paano naman ang pasyenteng ginawa sa Appointments na pangalan lang ang nilagay? I-edit natin si Liza Mendoza.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/069-c17c2c6f27dd.mp3",
+    "naturalDuration": 6.715333333333334,
+    "speed": 1
+  },
+  {
+    "index": 70,
+    "start": 607.416,
+    "end": 620.182,
+    "text": "Wala pa siyang contact number. Pindutin ang Edit para punan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/070-dcb966deb25e.mp3",
+    "naturalDuration": 4.1462916666666665,
+    "speed": 1
+  },
+  {
+    "index": 71,
+    "start": 620.432,
+    "end": 628.366,
+    "text": "Ilagay ang kulang na detalye at pindutin ang Save.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/071-916f86f1a132.mp3",
+    "naturalDuration": 2.7360416666666665,
+    "speed": 1
+  },
+  {
+    "index": 72,
+    "start": 628.616,
+    "end": 632.362,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/072-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 73,
+    "start": 632.612,
+    "end": 644.87,
+    "text": "Na-update na ang pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/073-8fa79c97660e.mp3",
+    "naturalDuration": 1.5210833333333333,
+    "speed": 1
+  },
+  {
+    "index": 74,
+    "start": 645.12,
+    "end": 650.018,
+    "text": "Patient Record at Billing",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/074-520105167b3b.mp3",
+    "naturalDuration": 1.5055,
+    "speed": 1
+  },
+  {
+    "index": 75,
+    "start": 650.268,
+    "end": 656.29,
+    "text": "May mga tab: Overview, Medical Info, Appointments, Treatments, Odontogram at Attachments.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/075-d79efdecdf57.mp3",
+    "naturalDuration": 5.941041666666667,
+    "speed": 1
+  },
+  {
+    "index": 76,
+    "start": 656.54,
+    "end": 663.75,
+    "text": "Medical Info — nandito ang allergies at medical history na nilagay natin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/076-78564e2dc534.mp3",
+    "naturalDuration": 4.269708333333333,
+    "speed": 1
+  },
+  {
+    "index": 77,
+    "start": 664,
+    "end": 669.014,
+    "text": "Appointments — naka-compile dito ang lahat ng appointment ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/077-a3319c090e0c.mp3",
+    "naturalDuration": 3.766875,
+    "speed": 1
+  },
+  {
+    "index": 78,
+    "start": 669.264,
+    "end": 678.566,
+    "text": "Pwedeng gumawa ng appointment dito mismo gamit ang Add o Add Appointment sa itaas — naka-set na ang pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/078-c8d6e4ba2bbe.mp3",
+    "naturalDuration": 6.351208333333333,
+    "speed": 1
+  },
+  {
+    "index": 79,
+    "start": 678.816,
+    "end": 685.21,
+    "text": "Treatments — dito ang mga treatment at bayad ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/079-3c6bdae78e7c.mp3",
+    "naturalDuration": 3.2080416666666665,
+    "speed": 1
+  },
+  {
+    "index": 80,
+    "start": 685.46,
+    "end": 693.546,
+    "text": "Para magdagdag ng treatment o mag-record ng bayad, pindutin ang New Billing.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/080-bedd00e0fdb3.mp3",
+    "naturalDuration": 4.2235,
+    "speed": 1
+  },
+  {
+    "index": 81,
+    "start": 693.796,
+    "end": 703.066,
+    "text": "Dalawa ang pagpipilian: Existing treatment para magbayad ng balanse, o Start new treatment(s) para sa bagong treatment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/081-6a72ef7aba52.mp3",
+    "naturalDuration": 7.585041666666666,
+    "speed": 1
+  },
+  {
+    "index": 82,
+    "start": 703.316,
+    "end": 718.234,
+    "text": "Piliin ang treatment. Searchable ito — i-type lang ang pangalan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/082-a13ad47d3422.mp3",
+    "naturalDuration": 4.570083333333334,
+    "speed": 1
+  },
+  {
+    "index": 83,
+    "start": 718.484,
+    "end": 731.466,
+    "text": "Ito ang presyo para sa kasong ito. Default ito sa base price, pero pwedeng baguhin — halimbawa may discount — nang hindi ginagalaw ang Treatments module.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/083-370b23ab8208.mp3",
+    "naturalDuration": 9.584375,
+    "speed": 1
+  },
+  {
+    "index": 84,
+    "start": 731.716,
+    "end": 751.77,
+    "text": "Kung dalawa o higit pa ang ginawa sa isang visit, pindutin ang Add another treatment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/084-13dd4b056307.mp3",
+    "naturalDuration": 4.646791666666667,
+    "speed": 1
+  },
+  {
+    "index": 85,
+    "start": 752.02,
+    "end": 773.27,
+    "text": "Walang appointment ang pasyente ngayong araw, kaya kailangang piliin kung sinong dentista ang gumawa. Kapag may appointment, awtomatiko na ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/085-5583fae896a5.mp3",
+    "naturalDuration": 8.241416666666666,
+    "speed": 1
+  },
+  {
+    "index": 86,
+    "start": 773.52,
+    "end": 784.35,
+    "text": "Amount received today — magkano ang ibinayad ngayon. Pwedeng buo gamit ang Use full balance, o bahagi lang; maiiwan ang balanse.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/086-ee0e290c994a.mp3",
+    "naturalDuration": 8.229375,
+    "speed": 1
+  },
+  {
+    "index": 87,
+    "start": 784.6,
+    "end": 790.934,
+    "text": "Mode of payment — Cash, GCash, card, at iba pa",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/087-ce6ef580b388.mp3",
+    "naturalDuration": 3.292125,
+    "speed": 1
+  },
+  {
+    "index": 88,
+    "start": 791.184,
+    "end": 800.462,
+    "text": "Kung wala sa listahan, piliin ang + Custom mode of payment... — masasave ito para sa susunod.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/088-8ab6f02d3ac6.mp3",
+    "naturalDuration": 6.140833333333333,
+    "speed": 1
+  },
+  {
+    "index": 89,
+    "start": 800.712,
+    "end": 809.67,
+    "text": "Dahil may H M O si Paolo, lumalabas ang H M O bilang option. Piliin natin ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/089-13ddf17a7caa.mp3",
+    "naturalDuration": 6.462791666666667,
+    "speed": 1
+  },
+  {
+    "index": 90,
+    "start": 809.92,
+    "end": 824.566,
+    "text": "Kapag H M O, may Claim status: Pending, Submitted o Paid. Pending muna ito dahil hindi pa nagbabayad ang H M O.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/090-7d40f8f47e5e.mp3",
+    "naturalDuration": 7.600958333333334,
+    "speed": 1
+  },
+  {
+    "index": 91,
+    "start": 824.816,
+    "end": 834.358,
+    "text": "Note — isulat kung ano ang ginawa ng dentista, para malinaw kung ano ang ginawa sa pagbisitang ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/091-f457eb6756f5.mp3",
+    "naturalDuration": 5.779083333333333,
+    "speed": 1
+  },
+  {
+    "index": 92,
+    "start": 834.608,
+    "end": 841.698,
+    "text": "Pindutin ang Save Billing.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/092-05600e7b1bbc.mp3",
+    "naturalDuration": 1.5705416666666667,
+    "speed": 1
+  },
+  {
+    "index": 93,
+    "start": 841.948,
+    "end": 845.758,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/093-36433031d5f9.mp3",
+    "naturalDuration": 0.9917916666666666,
+    "speed": 1
+  },
+  {
+    "index": 94,
+    "start": 846.008,
+    "end": 858.558,
+    "text": "Naitala ang dalawang treatment at ang bayad. Kapag may appointment na naka-link, awtomatiko ring magiging COMPLETED ang appointment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/094-86c79bfa2470.mp3",
+    "naturalDuration": 7.612708333333333,
+    "speed": 1
+  },
+  {
+    "index": 95,
+    "start": 858.808,
+    "end": 864.29,
+    "text": "Buksan natin ang treatment para makita ang detalye.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/095-83ac529ecc22.mp3",
+    "naturalDuration": 2.8077083333333333,
+    "speed": 1
+  },
+  {
+    "index": 96,
+    "start": 864.54,
+    "end": 869.602,
+    "text": "Makikita ang balanse at ang kabuuang presyo ng treatment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/096-30ae8204c694.mp3",
+    "naturalDuration": 2.96475,
+    "speed": 1
+  },
+  {
+    "index": 97,
+    "start": 869.852,
+    "end": 882.306,
+    "text": "Kapag mali ang presyo na nailagay, pindutin ang lapis para i-edit.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/097-2c85552e0a0c.mp3",
+    "naturalDuration": 3.554125,
+    "speed": 1
+  },
+  {
+    "index": 98,
+    "start": 882.556,
+    "end": 890.946,
+    "text": "Kailangan ng dahilan. Makikita agad ang magiging bagong balanse.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/098-4c6adb5a683c.mp3",
+    "naturalDuration": 4.49375,
+    "speed": 1
+  },
+  {
+    "index": 99,
+    "start": 891.196,
+    "end": 898.402,
+    "text": "Naitatala ang bawat pagbabago ng presyo: luma at bagong presyo, dahilan, sino at kailan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/099-ef58e8cf13e4.mp3",
+    "naturalDuration": 5.783166666666666,
+    "speed": 1
+  },
+  {
+    "index": 100,
+    "start": 898.652,
+    "end": 925.502,
+    "text": "Para magbayad ng balanse, New Billing ulit. Naka-select na ang treatment at ang dentista nito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/100-d005e89d40dd.mp3",
+    "naturalDuration": 5.667458333333333,
+    "speed": 1
+  },
+  {
+    "index": 101,
+    "start": 925.752,
+    "end": 929.486,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/101-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 102,
+    "start": 929.736,
+    "end": 939.006,
+    "text": "Nabawasan ang balanse. Pwedeng hulugan — ilang beses magbayad hanggang maubos.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/102-7919a5275ce9.mp3",
+    "naturalDuration": 5.236208333333333,
+    "speed": 1
+  },
+  {
+    "index": 103,
+    "start": 939.256,
+    "end": 951.754,
+    "text": "Kung may maling bayad na naitala, pindutin ang icon na Void payment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/103-c6c589825688.mp3",
+    "naturalDuration": 3.720375,
+    "speed": 1
+  },
+  {
+    "index": 104,
+    "start": 952.004,
+    "end": 960.61,
+    "text": "Kailangan ng dahilan. Hindi ito nabubura — may tatak na VOIDED at hindi na binibilang.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/104-aeaf9e4d9eae.mp3",
+    "naturalDuration": 5.661666666666667,
+    "speed": 1
+  },
+  {
+    "index": 105,
+    "start": 960.86,
+    "end": 967.246,
+    "text": "Babalik ang balanse, at makikita pa rin kung sino at bakit nag-void.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/105-435216c9880a.mp3",
+    "naturalDuration": 3.81375,
+    "speed": 1
+  },
+  {
+    "index": 106,
+    "start": 967.496,
+    "end": 972.986,
+    "text": "Pindutin ang printer icon para mag-print ng resibo ng isang bayad.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/106-267db83de5d5.mp3",
+    "naturalDuration": 3.497333333333333,
+    "speed": 1
+  },
+  {
+    "index": 107,
+    "start": 973.236,
+    "end": 981.73,
+    "text": "Ito ang itsura ng resibo. Sa inyong browser, piliin ang printer o Save as P D F, saka Print.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/107-79146c444ebc.mp3",
+    "naturalDuration": 6.533541666666666,
+    "speed": 1
+  },
+  {
+    "index": 108,
+    "start": 981.98,
+    "end": 993.074,
+    "text": "Ito ang H M O na bayad. Hangga't hindi pa Paid, HINDI pa ito kasama sa Revenue at Profit — pero hindi na rin ito utang ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/108-47f9d4e664ec.mp3",
+    "naturalDuration": 8.531958333333334,
+    "speed": 1
+  },
+  {
+    "index": 109,
+    "start": 993.324,
+    "end": 999.998,
+    "text": "Kapag naipasa na ang claim sa H M O, gawing Submitted. Magkukumpirma muna ang system.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/109-31b5aa9417ee.mp3",
+    "naturalDuration": 5.7740833333333335,
+    "speed": 1
+  },
+  {
+    "index": 110,
+    "start": 1000.248,
+    "end": 1004.002,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/110-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 111,
+    "start": 1004.252,
+    "end": 1009.798,
+    "text": "Submitted na ang claim.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/111-4ca41e083f77.mp3",
+    "naturalDuration": 1.4075,
+    "speed": 1
+  },
+  {
+    "index": 112,
+    "start": 1010.048,
+    "end": 1022.03,
+    "text": "Kapag tinanggihan ng H M O, piliin ang Denied at ilagay ang dahilan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/112-a21c7c9bbb8b.mp3",
+    "naturalDuration": 4.285583333333333,
+    "speed": 1
+  },
+  {
+    "index": 113,
+    "start": 1022.28,
+    "end": 1029.494,
+    "text": "Babalik ang halagang iyon sa balanse para ang pasyente ang magbayad.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/113-b46ae3d4cd5d.mp3",
+    "naturalDuration": 3.561958333333333,
+    "speed": 1
+  },
+  {
+    "index": 114,
+    "start": 1029.744,
+    "end": 1040.27,
+    "text": "Kapag naaprubahan ulit o nabayaran na ng H M O, gawing Paid. Doon pa lang ito mabibilang sa Revenue, sa araw na minarkahang Paid.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/114-edd68a012ec7.mp3",
+    "naturalDuration": 7.911666666666667,
+    "speed": 1
+  },
+  {
+    "index": 115,
+    "start": 1040.52,
+    "end": 1044.262,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/115-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 116,
+    "start": 1044.512,
+    "end": 1051.402,
+    "text": "Paid na ang claim.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/116-de7104713902.mp3",
+    "naturalDuration": 1.0806666666666667,
+    "speed": 1
+  },
+  {
+    "index": 117,
+    "start": 1051.652,
+    "end": 1063.002,
+    "text": "Sa Claim history makikita ang lahat ng pagbabago ng status, kasama ang dahilan, sino at kailan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/117-1bbd13e23a70.mp3",
+    "naturalDuration": 5.922541666666667,
+    "speed": 1
+  },
+  {
+    "index": 118,
+    "start": 1063.252,
+    "end": 1069.742,
+    "text": "Tapusin natin ang hulog. Pindutin ang New Billing.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/118-95c8e775adaf.mp3",
+    "naturalDuration": 3.710875,
+    "speed": 1
+  },
+  {
+    "index": 119,
+    "start": 1069.992,
+    "end": 1092.114,
+    "text": "Use full balance — awtomatikong ilalagay ang natitira pang babayaran.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/119-0d3b24f01d38.mp3",
+    "naturalDuration": 4.129208333333334,
+    "speed": 1
+  },
+  {
+    "index": 120,
+    "start": 1092.364,
+    "end": 1096.078,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/120-36433031d5f9.mp3",
+    "naturalDuration": 0.9917916666666666,
+    "speed": 1
+  },
+  {
+    "index": 121,
+    "start": 1096.328,
+    "end": 1105.73,
+    "text": "Bayad na lahat. Tingnan ang CLOSED at ang balance na zero.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/121-f2face668857.mp3",
+    "naturalDuration": 3.901666666666667,
+    "speed": 1
+  },
+  {
+    "index": 122,
+    "start": 1105.98,
+    "end": 1125.462,
+    "text": "Halimbawa: bayad na ang isang libo, pero dapat walong daan lang ang presyo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/122-eedba8b28e90.mp3",
+    "naturalDuration": 4.400458333333333,
+    "speed": 1
+  },
+  {
+    "index": 123,
+    "start": 1125.712,
+    "end": 1135.274,
+    "text": "Keep as extra — mananatiling dagdag na kita ang sobrang dalawang daan. Piliin lang kung iyon ang napagkasunduan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/123-8d8a599ac2fb.mp3",
+    "naturalDuration": 7.2195,
+    "speed": 1
+  },
+  {
+    "index": 124,
+    "start": 1135.524,
+    "end": 1140.602,
+    "text": "Refund — ibabalik ang sobrang dalawang daan. Piliin natin ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/124-871de85dcb79.mp3",
+    "naturalDuration": 4.685291666666667,
+    "speed": 1
+  },
+  {
+    "index": 125,
+    "start": 1140.852,
+    "end": 1149.014,
+    "text": "Naitala ang Refund sa history. Kailangang ibalik din ng staff ang aktuwal na pera sa pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/125-93c9b6317565.mp3",
+    "naturalDuration": 6.050416666666667,
+    "speed": 1
+  },
+  {
+    "index": 126,
+    "start": 1149.264,
+    "end": 1164.61,
+    "text": "Attachments — dito ang X-ray, consent form at iba pang file ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/126-8a9d1bd91240.mp3",
+    "naturalDuration": 4.689208333333333,
+    "speed": 1
+  },
+  {
+    "index": 127,
+    "start": 1164.86,
+    "end": 1179.414,
+    "text": "Lagyan ng Title at Notes, piliin ang file (litrato, P D F o Word), at pindutin ang Upload. Sinusubukang paliitin ang file kung kaya; hanggang 4 MB ang puwedeng i-upload.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/127-ce9f44826f3f.mp3",
+    "naturalDuration": 11.732625,
+    "speed": 1
+  },
+  {
+    "index": 128,
+    "start": 1179.664,
+    "end": 1185.082,
+    "text": "Na-upload na. I-click para tingnan; ang Word file ay ida-download.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/128-a6187b23175e.mp3",
+    "naturalDuration": 4.859708333333334,
+    "speed": 1
+  },
+  {
+    "index": 129,
+    "start": 1185.332,
+    "end": 1190.806,
+    "text": "Odontogram — ang tooth chart ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/129-063aae5efcb0.mp3",
+    "naturalDuration": 2.325375,
+    "speed": 1
+  },
+  {
+    "index": 130,
+    "start": 1191.056,
+    "end": 1197.326,
+    "text": "I-click ang numero ng ngipin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/130-6719d450f6a5.mp3",
+    "naturalDuration": 1.7109166666666666,
+    "speed": 1
+  },
+  {
+    "index": 131,
+    "start": 1197.576,
+    "end": 1221.89,
+    "text": "Piliin ang status ng ngipin. Pwede ring markahan ang bahagi ng ngipin sa larawan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/131-c6a924e44910.mp3",
+    "naturalDuration": 5.345416666666667,
+    "speed": 1
+  },
+  {
+    "index": 132,
+    "start": 1222.14,
+    "end": 1226.05,
+    "text": "Buksan ulit ang ngipin...",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/132-00235af4c576.mp3",
+    "naturalDuration": 1.452375,
+    "speed": 1
+  },
+  {
+    "index": 133,
+    "start": 1226.3,
+    "end": 1238.022,
+    "text": "...makikita ang history ng ngipin na ito — bawat pagbabago ay naitatala kung sino at kailan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/133-1d8be907103c.mp3",
+    "naturalDuration": 5.2592083333333335,
+    "speed": 1
+  },
+  {
+    "index": 134,
+    "start": 1238.272,
+    "end": 1242.542,
+    "text": "Print Chart — pang-print ng tooth chart lang.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/134-ef6029ee12c8.mp3",
+    "naturalDuration": 2.3537083333333335,
+    "speed": 1
+  },
+  {
+    "index": 135,
+    "start": 1242.792,
+    "end": 1247.926,
+    "text": "Ito ang kopya ng tooth chart na puwedeng i-print.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/135-c600fbb2677b.mp3",
+    "naturalDuration": 2.5504166666666666,
+    "speed": 1
+  },
+  {
+    "index": 136,
+    "start": 1248.176,
+    "end": 1258.066,
+    "text": "Print Summary — kopya para sa pasyente: detalye niya at lahat ng bukas na treatment at kung magkano pa ang babayaran.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/136-7ec284f8b177.mp3",
+    "naturalDuration": 6.890625,
+    "speed": 1
+  },
+  {
+    "index": 137,
+    "start": 1258.316,
+    "end": 1265.998,
+    "text": "Tingnan ang detalye ng pasyente at ang Total balance due — ang natitira niyang babayaran.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/137-b7f415ba3a87.mp3",
+    "naturalDuration": 4.948333333333333,
+    "speed": 1
+  },
+  {
+    "index": 138,
+    "start": 1266.248,
+    "end": 1279.578,
+    "text": "Export Record — buong record ng pasyente para sa request niya sa ilalim ng Data Privacy Act. Ang paggamit ng Print at Export buttons ay naitatala sa Activity Log.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/138-babff6afd454.mp3",
+    "naturalDuration": 10.338916666666666,
+    "speed": 1
+  },
+  {
+    "index": 139,
+    "start": 1279.828,
+    "end": 1290.586,
+    "text": "Na-download ang buong record. Ibigay lang ito sa awtorisadong tatanggap.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/139-edfe37087c75.mp3",
+    "naturalDuration": 4.605666666666667,
+    "speed": 1
+  },
+  {
+    "index": 140,
+    "start": 1290.836,
+    "end": 1302.394,
+    "text": "Isa pang halimbawa: dumating si Liza matapos mamarkahang No Show. Itala natin ang natuloy na visit.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/140-e32ab617165c.mp3",
+    "naturalDuration": 6.672166666666667,
+    "speed": 1
+  },
+  {
+    "index": 141,
+    "start": 1302.644,
+    "end": 1322.13,
+    "text": "Buksan ang appointment ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/141-b9371ffb9594.mp3",
+    "naturalDuration": 1.9145416666666666,
+    "speed": 1
+  },
+  {
+    "index": 142,
+    "start": 1322.38,
+    "end": 1338.742,
+    "text": "Naka-link na ang billing sa appointment na ito. Ang dentista ng appointment ang gagamitin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/142-20d3cca225db.mp3",
+    "naturalDuration": 5.381625,
+    "speed": 1
+  },
+  {
+    "index": 143,
+    "start": 1338.992,
+    "end": 1342.798,
+    "text": "Kumpirmahin ang bayad.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/143-398b3d115eb2.mp3",
+    "naturalDuration": 1.239,
+    "speed": 1
+  },
+  {
+    "index": 144,
+    "start": 1343.048,
+    "end": 1350.718,
+    "text": "Naitala ang bayad para sa appointment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/144-004de6528af1.mp3",
+    "naturalDuration": 2.138875,
+    "speed": 1
+  },
+  {
+    "index": 145,
+    "start": 1350.968,
+    "end": 1356.25,
+    "text": "Awtomatikong naging COMPLETED ang appointment. Hindi na kailangan pang baguhin nang mano-mano.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/145-a3473d3152f9.mp3",
+    "naturalDuration": 5.5165,
+    "speed": 1.0548400227186818
+  },
+  {
+    "index": 146,
+    "start": 1356.5,
+    "end": 1360.07,
+    "text": "Treatments",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/146-e2c27349de55.mp3",
+    "naturalDuration": 0.897125,
+    "speed": 1
+  },
+  {
+    "index": 147,
+    "start": 1360.32,
+    "end": 1370.526,
+    "text": "Ito ang catalog ng mga treatment. Ang presyo dito ay BASE PRICE lang — sa billing, pwede itong baguhin kada pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/147-0d0315ca127b.mp3",
+    "naturalDuration": 7.254375,
+    "speed": 1
+  },
+  {
+    "index": 148,
+    "start": 1370.776,
+    "end": 1375.858,
+    "text": "Para i-edit ang isang treatment, i-click lang ang card nito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/148-15183438e6dd.mp3",
+    "naturalDuration": 3.391958333333333,
+    "speed": 1
+  },
+  {
+    "index": 149,
+    "start": 1376.108,
+    "end": 1387.57,
+    "text": "Dito mapapalitan ang pangalan, presyo, description at icon. May Archive din para alisin ito sa pagpipilian nang hindi nawawala sa lumang record.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/149-ca4d11e9ef55.mp3",
+    "naturalDuration": 8.887625,
+    "speed": 1
+  },
+  {
+    "index": 150,
+    "start": 1387.82,
+    "end": 1393.106,
+    "text": "Hindi muna natin babaguhin — Cancel.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/150-6ce9d1c3da23.mp3",
+    "naturalDuration": 2.2499166666666666,
+    "speed": 1
+  },
+  {
+    "index": 151,
+    "start": 1393.356,
+    "end": 1409.058,
+    "text": "New Treatment para magdagdag ng bagong serbisyo.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/151-ff61bb5f1df6.mp3",
+    "naturalDuration": 2.684625,
+    "speed": 1
+  },
+  {
+    "index": 152,
+    "start": 1409.308,
+    "end": 1423.438,
+    "text": "Name ang pangalan ng serbisyo. Price ang karaniwang presyo. Description ang maikling paliwanag. Puwede ring pumili ng Icon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/152-cfea6b7f6a7c.mp3",
+    "naturalDuration": 9.151291666666667,
+    "speed": 1
+  },
+  {
+    "index": 153,
+    "start": 1423.688,
+    "end": 1427.446,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/153-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 154,
+    "start": 1427.696,
+    "end": 1446.77,
+    "text": "Nadagdag ang serbisyo sa catalog.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/154-ef8472e1e3f8.mp3",
+    "naturalDuration": 1.8785416666666668,
+    "speed": 1
+  },
+  {
+    "index": 155,
+    "start": 1447.02,
+    "end": 1450.782,
+    "text": "Kumpirmahin ang pagbabago.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/155-6945c2230b37.mp3",
+    "naturalDuration": 1.61475,
+    "speed": 1
+  },
+  {
+    "index": 156,
+    "start": 1451.032,
+    "end": 1467.754,
+    "text": "Na-update ang base price.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/156-520374c46eaa.mp3",
+    "naturalDuration": 1.594375,
+    "speed": 1
+  },
+  {
+    "index": 157,
+    "start": 1468.004,
+    "end": 1474.322,
+    "text": "Archive kapag hindi na iniaalok ang serbisyo. Mananatili ang mga lumang record.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/157-bb653c7bbc56.mp3",
+    "naturalDuration": 5.2472916666666665,
+    "speed": 1
+  },
+  {
+    "index": 158,
+    "start": 1474.572,
+    "end": 1479.526,
+    "text": "Finance",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/158-b696d75511dc.mp3",
+    "naturalDuration": 0.7722083333333334,
+    "speed": 1
+  },
+  {
+    "index": 159,
+    "start": 1479.776,
+    "end": 1487.378,
+    "text": "Date filter: Today, Week, Month, Year, at Custom para pumili ng sariling simula at katapusan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/159-671d175a4dec.mp3",
+    "naturalDuration": 5.8245,
+    "speed": 1
+  },
+  {
+    "index": 160,
+    "start": 1487.628,
+    "end": 1494.846,
+    "text": "Report — buod ng Total Income, Total Expenses at Net Profit sa napiling panahon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/160-ab72ed252fa7.mp3",
+    "naturalDuration": 5.048958333333333,
+    "speed": 1
+  },
+  {
+    "index": 161,
+    "start": 1495.096,
+    "end": 1501.122,
+    "text": "Ledger — bawat pumasok at lumabas na pera, isa-isa.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/161-4fdedaf350a1.mp3",
+    "naturalDuration": 3.2815,
+    "speed": 1
+  },
+  {
+    "index": 162,
+    "start": 1501.372,
+    "end": 1507.738,
+    "text": "Pwedeng i-filter: All, Income o Expense, at ayon sa mode of payment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/162-0977950be9d9.mp3",
+    "naturalDuration": 4.557375,
+    "speed": 1
+  },
+  {
+    "index": 163,
+    "start": 1507.988,
+    "end": 1514.778,
+    "text": "I-click ang pangalan ng column para ayusin (sort) pataas o pababa.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/163-4598a336e4d9.mp3",
+    "naturalDuration": 4.04425,
+    "speed": 1
+  },
+  {
+    "index": 164,
+    "start": 1515.028,
+    "end": 1529.246,
+    "text": "View — piliin kung aling column ang ipapakita at ayusin ang pagkakasunod gamit ang mga arrow.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/164-bf79e9e014ed.mp3",
+    "naturalDuration": 5.51025,
+    "speed": 1
+  },
+  {
+    "index": 165,
+    "start": 1529.496,
+    "end": 1536.858,
+    "text": "Sa ibaba: ilang row kada page, at Previous / Next para lumipat ng page.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/165-705359a8d77a.mp3",
+    "naturalDuration": 4.475958333333334,
+    "speed": 1
+  },
+  {
+    "index": 166,
+    "start": 1537.108,
+    "end": 1549.426,
+    "text": "Export C S V — i-download para sa Excel. Makikita rin ang mga tool na ito sa ibang listahan. Maaaring iba ang mga button sa Activity Log at Settings.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/166-c571a085c023.mp3",
+    "naturalDuration": 10.523166666666667,
+    "speed": 1
+  },
+  {
+    "index": 167,
+    "start": 1549.676,
+    "end": 1554.714,
+    "text": "Na-download na ang C S V. Puwede itong buksan sa Excel.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/167-98da097c1ef0.mp3",
+    "naturalDuration": 3.501333333333333,
+    "speed": 1
+  },
+  {
+    "index": 168,
+    "start": 1554.964,
+    "end": 1563.114,
+    "text": "Outstanding Balance — lahat ng pasyenteng may balanse pa. Hindi apektado ng date filter.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/168-2b155e0ca59a.mp3",
+    "naturalDuration": 5.75775,
+    "speed": 1
+  },
+  {
+    "index": 169,
+    "start": 1563.364,
+    "end": 1571.926,
+    "text": "H M O Claims — lahat ng H M O claim. Default ang Needs follow-up: mga Pending at Submitted.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/169-f8aa6263b272.mp3",
+    "naturalDuration": 6.668541666666667,
+    "speed": 1
+  },
+  {
+    "index": 170,
+    "start": 1572.176,
+    "end": 1576.822,
+    "text": "Pwedeng i-filter: Pending, Submitted, Paid, Denied o All.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/170-4876e1bc20fb.mp3",
+    "naturalDuration": 3.59075,
+    "speed": 1
+  },
+  {
+    "index": 171,
+    "start": 1577.072,
+    "end": 1589.11,
+    "text": "Pwedeng palitan ang status dito mismo — hindi na kailangang pumunta sa patient record. Pareho ang patakaran: may kumpirmasyon, at ang Denied ay may dahilan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/171-dbaa3249fc97.mp3",
+    "naturalDuration": 9.540583333333334,
+    "speed": 1
+  },
+  {
+    "index": 172,
+    "start": 1589.36,
+    "end": 1592.962,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/172-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 173,
+    "start": 1593.212,
+    "end": 1598.85,
+    "text": "Submitted na ang claim na ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/173-14c85da4a5b4.mp3",
+    "naturalDuration": 1.6520833333333333,
+    "speed": 1
+  },
+  {
+    "index": 174,
+    "start": 1599.1,
+    "end": 1604.07,
+    "text": "Expenses",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/174-d311416fa3aa.mp3",
+    "naturalDuration": 0.9233333333333333,
+    "speed": 1
+  },
+  {
+    "index": 175,
+    "start": 1604.32,
+    "end": 1610.706,
+    "text": "Para magtala ng gastos, pindutin ang New Expense.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/175-04ff32cceaaa.mp3",
+    "naturalDuration": 2.9462083333333333,
+    "speed": 1
+  },
+  {
+    "index": 176,
+    "start": 1610.956,
+    "end": 1634.658,
+    "text": "Piliin ang category. Kung wala pa, piliin ang + Custom category... at i-type.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/176-e9c1c04e7a4f.mp3",
+    "naturalDuration": 6.169791666666667,
+    "speed": 1
+  },
+  {
+    "index": 177,
+    "start": 1634.908,
+    "end": 1646.446,
+    "text": "Ilagay ang halaga at note. Pwedeng mag-attach ng resibo (litrato o P D F).",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/177-01e0ff2db304.mp3",
+    "naturalDuration": 5.392541666666666,
+    "speed": 1
+  },
+  {
+    "index": 178,
+    "start": 1646.696,
+    "end": 1650.538,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/178-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 179,
+    "start": 1650.788,
+    "end": 1660.53,
+    "text": "Naitala ang gastos. Masasave na rin ang bagong category para sa susunod.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/179-33f1d844ad77.mp3",
+    "naturalDuration": 5.040666666666667,
+    "speed": 1
+  },
+  {
+    "index": 180,
+    "start": 1660.78,
+    "end": 1674.226,
+    "text": "Para i-edit, i-click ang expense sa table.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/180-fcd4f7fa02a5.mp3",
+    "naturalDuration": 2.6976666666666667,
+    "speed": 1
+  },
+  {
+    "index": 181,
+    "start": 1674.476,
+    "end": 1678.242,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/181-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 182,
+    "start": 1678.492,
+    "end": 1686.306,
+    "text": "Na-update ang gastos.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/182-11f72ef5f213.mp3",
+    "naturalDuration": 1.412625,
+    "speed": 1
+  },
+  {
+    "index": 183,
+    "start": 1686.556,
+    "end": 1697.55,
+    "text": "Para alisin, gamitin ang Archive.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/183-bc076f87793e.mp3",
+    "naturalDuration": 2.1228333333333333,
+    "speed": 1
+  },
+  {
+    "index": 184,
+    "start": 1697.8,
+    "end": 1705.658,
+    "text": "Magkukumpirma muna. Hindi binubura ang record — ina-archive lang para manatili ang kasaysayan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/184-ed754d6b0618.mp3",
+    "naturalDuration": 6.559666666666667,
+    "speed": 1
+  },
+  {
+    "index": 185,
+    "start": 1705.908,
+    "end": 1718.394,
+    "text": "Admin lang ang may Show archived para makita at ma-Restore ang mga na-archive. Pareho ito sa Patients, Treatments, Inventory, Dentists at Users.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/185-7661fdc79322.mp3",
+    "naturalDuration": 9.454416666666667,
+    "speed": 1
+  },
+  {
+    "index": 186,
+    "start": 1718.644,
+    "end": 1724.79,
+    "text": "Buksan ang na-archive na gastos.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/186-de1de8f1309d.mp3",
+    "naturalDuration": 2.0854583333333334,
+    "speed": 1
+  },
+  {
+    "index": 187,
+    "start": 1725.04,
+    "end": 1729.45,
+    "text": "Restore para ibalik ito sa aktibong listahan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/187-6a094999225a.mp3",
+    "naturalDuration": 2.695708333333333,
+    "speed": 1
+  },
+  {
+    "index": 188,
+    "start": 1729.7,
+    "end": 1733.282,
+    "text": "Inventory",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/188-758f487fe8e9.mp3",
+    "naturalDuration": 0.8530416666666667,
+    "speed": 1
+  },
+  {
+    "index": 189,
+    "start": 1733.532,
+    "end": 1742.934,
+    "text": "Makikita ang lahat ng supply at ang kasalukuyang stock. May babala sa itaas kung ilan ang low on stock.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/189-23f2de02f551.mp3",
+    "naturalDuration": 6.243708333333333,
+    "speed": 1
+  },
+  {
+    "index": 190,
+    "start": 1743.184,
+    "end": 1750.33,
+    "text": "Para mag-record ng dumating na supply, pindutin ang Log Stock.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/190-25ec2ac40228.mp3",
+    "naturalDuration": 3.400875,
+    "speed": 1
+  },
+  {
+    "index": 191,
+    "start": 1750.58,
+    "end": 1758.23,
+    "text": "Stock In kapag dumating, Stock Out kapag nagamit, nasira o expired.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/191-09cbb4635fba.mp3",
+    "naturalDuration": 4.055541666666667,
+    "speed": 1
+  },
+  {
+    "index": 192,
+    "start": 1758.48,
+    "end": 1787.202,
+    "text": "Piliin ang item, o + Custom supply item... para sa bago.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/192-e6ec70b744ef.mp3",
+    "naturalDuration": 4.229291666666667,
+    "speed": 1
+  },
+  {
+    "index": 193,
+    "start": 1787.452,
+    "end": 1791.182,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/193-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 194,
+    "start": 1791.432,
+    "end": 1802.642,
+    "text": "Tapos na — pindutin ang OK.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/194-4ac219b43eb4.mp3",
+    "naturalDuration": 1.906125,
+    "speed": 1
+  },
+  {
+    "index": 195,
+    "start": 1802.892,
+    "end": 1827.102,
+    "text": "Ngayon, Stock Out para sa nagamit.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/195-d56795f65ea6.mp3",
+    "naturalDuration": 2.0097916666666666,
+    "speed": 1
+  },
+  {
+    "index": 196,
+    "start": 1827.352,
+    "end": 1831.106,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/196-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 197,
+    "start": 1831.356,
+    "end": 1839.45,
+    "text": "Tapos na — pindutin ang OK.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/197-4ac219b43eb4.mp3",
+    "naturalDuration": 1.906125,
+    "speed": 1
+  },
+  {
+    "index": 198,
+    "start": 1839.7,
+    "end": 1844.698,
+    "text": "I-click ang item para makita ang detalye.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/198-94cddea460fc.mp3",
+    "naturalDuration": 2.413375,
+    "speed": 1
+  },
+  {
+    "index": 199,
+    "start": 1844.948,
+    "end": 1851.234,
+    "text": "Movement History — bawat pasok at labas ng stock, sino at kailan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/199-b019eb7af527.mp3",
+    "naturalDuration": 4.232958333333333,
+    "speed": 1
+  },
+  {
+    "index": 200,
+    "start": 1851.484,
+    "end": 1859.738,
+    "text": "Edit para palitan ang pangalan, unit, at ang Low Stock Threshold.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/200-c5ba04f11183.mp3",
+    "naturalDuration": 3.8488333333333333,
+    "speed": 1
+  },
+  {
+    "index": 201,
+    "start": 1859.988,
+    "end": 1872.394,
+    "text": "Low Stock Threshold — magbababala ang system kapag umabot o bumaba ang stock dito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/201-a810991f287b.mp3",
+    "naturalDuration": 4.891416666666666,
+    "speed": 1
+  },
+  {
+    "index": 202,
+    "start": 1872.644,
+    "end": 1876.358,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/202-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 203,
+    "start": 1876.608,
+    "end": 1890.118,
+    "text": "Naitakda ang babala kapag tatlo o mas kaunti na lang ang natitira.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/203-16af67580ee1.mp3",
+    "naturalDuration": 3.8080416666666665,
+    "speed": 1
+  },
+  {
+    "index": 204,
+    "start": 1890.368,
+    "end": 1914.59,
+    "text": "Ngayon, Stock Out para sa nagamit.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/204-d56795f65ea6.mp3",
+    "naturalDuration": 2.0097916666666666,
+    "speed": 1
+  },
+  {
+    "index": 205,
+    "start": 1914.84,
+    "end": 1918.638,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/205-36433031d5f9.mp3",
+    "naturalDuration": 0.99175,
+    "speed": 1
+  },
+  {
+    "index": 206,
+    "start": 1918.888,
+    "end": 1926.734,
+    "text": "Tapos na — pindutin ang OK.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/206-4ac219b43eb4.mp3",
+    "naturalDuration": 1.906125,
+    "speed": 1
+  },
+  {
+    "index": 207,
+    "start": 1926.984,
+    "end": 1936.294,
+    "text": "Low stock para makita ang mga kailangang dagdagan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/207-35fca33e76d2.mp3",
+    "naturalDuration": 2.8288333333333333,
+    "speed": 1
+  },
+  {
+    "index": 208,
+    "start": 1936.544,
+    "end": 1952.83,
+    "text": "Tatlong box na lang ang natitira, kaya kasama na ito sa Low stock. May Medium at High din na pagpipilian.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/208-fd7f0db9d58c.mp3",
+    "naturalDuration": 6.492958333333333,
+    "speed": 1
+  },
+  {
+    "index": 209,
+    "start": 1953.08,
+    "end": 1961.578,
+    "text": "Archive kapag hindi na ginagamit ang supply item. Nananatili ang history.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/209-bb69113ea48c.mp3",
+    "naturalDuration": 5.023583333333334,
+    "speed": 1
+  },
+  {
+    "index": 210,
+    "start": 1961.828,
+    "end": 1966.762,
+    "text": "Dentists",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/210-81283d93b724.mp3",
+    "naturalDuration": 0.874125,
+    "speed": 1
+  },
+  {
+    "index": 211,
+    "start": 1967.012,
+    "end": 1990.986,
+    "text": "Para magdagdag ng dentista, pindutin ang Add Dentist.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/211-e97f7fd1e60a.mp3",
+    "naturalDuration": 3.1061666666666667,
+    "speed": 1
+  },
+  {
+    "index": 212,
+    "start": 1991.236,
+    "end": 1996.642,
+    "text": "Branch access — lagyan ng check ang branch na puwedeng gamitin ng staff.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/212-647d5f3cbfe0.mp3",
+    "naturalDuration": 3.979833333333333,
+    "speed": 1
+  },
+  {
+    "index": 213,
+    "start": 1996.892,
+    "end": 2010.546,
+    "text": "Ilagay ang pangalan, title, email at pansamantalang password. Ang email at password ang gagamitin niya sa pag-login.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/213-ccbffcb7bac1.mp3",
+    "naturalDuration": 7.249875,
+    "speed": 1
+  },
+  {
+    "index": 214,
+    "start": 2010.796,
+    "end": 2014.554,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/214-36433031d5f9.mp3",
+    "naturalDuration": 0.9917916666666666,
+    "speed": 1
+  },
+  {
+    "index": 215,
+    "start": 2014.804,
+    "end": 2022.422,
+    "text": "Nagawa ang account ng dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/215-d931c5f083eb.mp3",
+    "naturalDuration": 1.817875,
+    "speed": 1
+  },
+  {
+    "index": 216,
+    "start": 2022.672,
+    "end": 2027.69,
+    "text": "I-click ang dentista para sa detalye.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/216-e0e4e85b09d2.mp3",
+    "naturalDuration": 2.223708333333333,
+    "speed": 1
+  },
+  {
+    "index": 217,
+    "start": 2027.94,
+    "end": 2036.982,
+    "text": "Working Hours — itakda ang araw at oras ng trabaho. Magbababala ang booking kapag labas dito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/217-e4005028d31c.mp3",
+    "naturalDuration": 6.375583333333333,
+    "speed": 1
+  },
+  {
+    "index": 218,
+    "start": 2037.232,
+    "end": 2045.362,
+    "text": "Lagyan ng check ang araw na may pasok ang dentista. Alisin ang check kapag walang pasok.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/218-b9ee9642bc93.mp3",
+    "naturalDuration": 5.463208333333333,
+    "speed": 1
+  },
+  {
+    "index": 219,
+    "start": 2045.612,
+    "end": 2052.466,
+    "text": "Itinakda natin ang simula sa 10 AM. Pindutin ang Save Hours.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/219-c1b9bf87f230.mp3",
+    "naturalDuration": 4.025291666666667,
+    "speed": 1
+  },
+  {
+    "index": 220,
+    "start": 2052.716,
+    "end": 2057.766,
+    "text": "Appointments Completed — mga natapos niyang appointment.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/220-bfe66ad258de.mp3",
+    "naturalDuration": 3.052875,
+    "speed": 1
+  },
+  {
+    "index": 221,
+    "start": 2058.016,
+    "end": 2068.334,
+    "text": "Sa Edit pwedeng i-Reset Password (lalabas ang bagong password nang isang beses lang) o i-Archive ang dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/221-03357fa1400a.mp3",
+    "naturalDuration": 6.555541666666667,
+    "speed": 1
+  },
+  {
+    "index": 222,
+    "start": 2068.584,
+    "end": 2073.218,
+    "text": "Reset Password kapag kailangan ng bagong password ang dentista.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/222-d2095ab72880.mp3",
+    "naturalDuration": 3.366041666666667,
+    "speed": 1
+  },
+  {
+    "index": 223,
+    "start": 2073.468,
+    "end": 2091.158,
+    "text": "Isang beses lang ipapakita ang bagong password. Ibigay ito nang pribado sa may-ari ng account. Demo account lang ang ipinapakita rito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/223-e044d84feca4.mp3",
+    "naturalDuration": 8.865958333333333,
+    "speed": 1
+  },
+  {
+    "index": 224,
+    "start": 2091.408,
+    "end": 2096.362,
+    "text": "Users",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/224-6b0cc904d081.mp3",
+    "naturalDuration": 0.788375,
+    "speed": 1
+  },
+  {
+    "index": 225,
+    "start": 2096.612,
+    "end": 2104.234,
+    "text": "Para sa ibang staff (halimbawa Front Desk), pindutin ang Add User.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/225-ca278401fb78.mp3",
+    "naturalDuration": 4.000625,
+    "speed": 1
+  },
+  {
+    "index": 226,
+    "start": 2104.484,
+    "end": 2135.158,
+    "text": "Piliin ang Role. Admin — may access sa lahat. Front Desk — ayon sa permissions sa Settings. Ang Dentist ay sa Dentists module.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/226-cd2767cef49d.mp3",
+    "naturalDuration": 9.884333333333334,
+    "speed": 1
+  },
+  {
+    "index": 227,
+    "start": 2135.408,
+    "end": 2147.586,
+    "text": "Branch access — lagyan ng check ang branch na puwedeng gamitin ng staff.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/227-647d5f3cbfe0.mp3",
+    "naturalDuration": 3.979625,
+    "speed": 1
+  },
+  {
+    "index": 228,
+    "start": 2147.836,
+    "end": 2151.546,
+    "text": "Kumpirmahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/228-36433031d5f9.mp3",
+    "naturalDuration": 0.9917916666666666,
+    "speed": 1
+  },
+  {
+    "index": 229,
+    "start": 2151.796,
+    "end": 2163.362,
+    "text": "Nagawa ang account. Sa pag-click sa user, pwedeng i-edit, i-Reset Password o i-Archive (mawawalan agad siya ng access).",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/229-f436b6e13b57.mp3",
+    "naturalDuration": 8.391416666666666,
+    "speed": 1
+  },
+  {
+    "index": 230,
+    "start": 2163.612,
+    "end": 2167.194,
+    "text": "Activity Log",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/230-315dfb75f23c.mp3",
+    "naturalDuration": 1.0569166666666667,
+    "speed": 1
+  },
+  {
+    "index": 231,
+    "start": 2167.444,
+    "end": 2176.754,
+    "text": "Nandito ang lahat: sino ang nag-login, sino ang tumingin sa aling pasyente, sino ang gumawa, nag-edit, nag-print o nag-export.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/231-7cabd132c117.mp3",
+    "naturalDuration": 7.772083333333334,
+    "speed": 1
+  },
+  {
+    "index": 232,
+    "start": 2177.004,
+    "end": 2184.326,
+    "text": "Bawat entry: oras, sino, action, detalye at IP address. Hindi ito mae-edit o mabubura.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/232-56303aa3ebbf.mp3",
+    "naturalDuration": 6.73675,
+    "speed": 1
+  },
+  {
+    "index": 233,
+    "start": 2184.576,
+    "end": 2190.622,
+    "text": "Pwedeng i-filter ayon sa tao, action, area at petsa.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/233-d8e4d7fcea36.mp3",
+    "naturalDuration": 3.3859583333333334,
+    "speed": 1
+  },
+  {
+    "index": 234,
+    "start": 2190.872,
+    "end": 2197.134,
+    "text": "Halimbawa, tingnan ang mga pag-archive.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/234-63f7ba2b8d37.mp3",
+    "naturalDuration": 2.285,
+    "speed": 1
+  },
+  {
+    "index": 235,
+    "start": 2197.384,
+    "end": 2205.282,
+    "text": "Admin lang ang nakakakita nito bilang default. Pwedeng ibigay ang logs , pagkatapos, read sa ibang role sa Settings.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/235-4dcba86cc9b5.mp3",
+    "naturalDuration": 7.488041666666667,
+    "speed": 1
+  },
+  {
+    "index": 236,
+    "start": 2205.532,
+    "end": 2210.442,
+    "text": "Settings at mga pahintulot",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/236-b37b618517da.mp3",
+    "naturalDuration": 1.6247083333333334,
+    "speed": 1
+  },
+  {
+    "index": 237,
+    "start": 2210.692,
+    "end": 2218.762,
+    "text": "Create, gumawa. Read, tumingin. Update, baguhin. Delete, i-archive.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/237-1486c55cd1a1.mp3",
+    "naturalDuration": 7.375916666666667,
+    "speed": 1
+  },
+  {
+    "index": 238,
+    "start": 2219.012,
+    "end": 2231.754,
+    "text": "Halimbawa: walang Delete ang Front Desk sa Expenses — kaya hindi niya ma-a-archive ang expense. Admin (o role na may Delete) ang kailangang naka-login para gawin iyon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/238-6eb201631d91.mp3",
+    "naturalDuration": 10.810625,
+    "speed": 1
+  },
+  {
+    "index": 239,
+    "start": 2232.004,
+    "end": 2238.818,
+    "text": "Subukan nating bigyan ang Front Desk ng access sa Activity Log.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/239-5252b087152d.mp3",
+    "naturalDuration": 3.683291666666667,
+    "speed": 1
+  },
+  {
+    "index": 240,
+    "start": 2239.068,
+    "end": 2245.014,
+    "text": "Pindutin ang Save Changes...",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/240-62b0763f0668.mp3",
+    "naturalDuration": 1.6884166666666667,
+    "speed": 1
+  },
+  {
+    "index": 241,
+    "start": 2245.264,
+    "end": 2252.498,
+    "text": "...at kumpirmahin. Epektibo agad ito sa lahat ng may role na iyon.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/241-808a4ef29965.mp3",
+    "naturalDuration": 4.530916666666666,
+    "speed": 1
+  },
+  {
+    "index": 242,
+    "start": 2252.748,
+    "end": 2260.454,
+    "text": "Permission Change Log — lahat ng pagbabago sa permissions: sino, kailan at ano ang binago.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/242-25ec28139bad.mp3",
+    "naturalDuration": 5.538541666666666,
+    "speed": 1
+  },
+  {
+    "index": 243,
+    "start": 2260.704,
+    "end": 2272.562,
+    "text": "Ang dami ng puwedeng branch ay ayon sa plan. Naka-enable na ang multi-branch sa demo na ito.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/243-fe3494da5405.mp3",
+    "naturalDuration": 5.74275,
+    "speed": 1
+  },
+  {
+    "index": 244,
+    "start": 2272.812,
+    "end": 2278.77,
+    "text": "Add para gumawa ng branch, basta pasok sa limit.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/244-ecbd72ade0e9.mp3",
+    "naturalDuration": 2.737,
+    "speed": 1
+  },
+  {
+    "index": 245,
+    "start": 2279.02,
+    "end": 2289.462,
+    "text": "Edit para palitan ang pangalan.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/245-cc1b5bc12884.mp3",
+    "naturalDuration": 1.9745416666666666,
+    "speed": 1
+  },
+  {
+    "index": 246,
+    "start": 2289.712,
+    "end": 2297.95,
+    "text": "Admin ang nag-aayos kung aling branch ang makikita ng bawat staff. Ang Admin mismo ay may access sa lahat.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/246-937d2182e435.mp3",
+    "naturalDuration": 6.647208333333333,
+    "speed": 1
+  },
+  {
+    "index": 247,
+    "start": 2298.2,
+    "end": 2301.782,
+    "text": "Seguridad ng Datos",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/247-deb90364344e.mp3",
+    "naturalDuration": 1.4385416666666666,
+    "speed": 1
+  },
+  {
+    "index": 248,
+    "start": 2302.032,
+    "end": 2311.726,
+    "text": "Encryption ang proteksiyon ng personal at medical na impormasyon. Para itong nakakandadong kahon ng mga detalye ng pasyente.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/248-38f30699c3a3.mp3",
+    "naturalDuration": 7.196416666666667,
+    "speed": 1
+  },
+  {
+    "index": 249,
+    "start": 2311.976,
+    "end": 2320.822,
+    "text": "Kasama sa proteksiyon ang mga file at litrato. Kailangan ang hiwalay na digital na susi para mabasa ang nakaimbak na kopya.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/249-6251437ce4e2.mp3",
+    "naturalDuration": 7.504333333333333,
+    "speed": 1
+  },
+  {
+    "index": 250,
+    "start": 2321.072,
+    "end": 2335.05,
+    "text": "Ang file ay nakikita lang ng naka-login na may tamang permission, at naitatala sa Activity Log ang mga pagtingin at pagbabago. Ang paulit-ulit na pagtingin sa loob ng limang minuto ay maaaring pagsamahin.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/250-15f319eadc5d.mp3",
+    "naturalDuration": 12.393791666666667,
+    "speed": 1
+  },
+  {
+    "index": 251,
+    "start": 2335.3,
+    "end": 2343.29,
+    "text": "Pansamantalang hinaharang ang pag-login kapag sunud-sunod ang maling password, at ang na-archive na user ay nawawalan agad ng access.",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/251-949df5720d93.mp3",
+    "naturalDuration": 7.769583333333333,
+    "speed": 1
+  },
+  {
+    "index": 252,
+    "start": 2343.54,
+    "end": 2354.7,
+    "text": "Salamat!",
+    "file": "/home/kinlie/AbadTorre-Dental/client/tutorial-output/audio/clips/252-cfdbac757e16.mp3",
+    "naturalDuration": 0.6940416666666667,
+    "speed": 1
+  }
+]

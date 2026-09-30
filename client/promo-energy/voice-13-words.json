@@ -1,0 +1,194 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 875000,
+    "duration": 2375000,
+    "text": "Take"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3375000,
+    "duration": 6125000,
+    "text": "Paolo's"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9500000,
+    "duration": 4375000,
+    "text": "braces"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14000000,
+    "duration": 5250000,
+    "text": "treatment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23000000,
+    "duration": 2625000,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25750000,
+    "duration": 500000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26375000,
+    "duration": 5625000,
+    "text": "history"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32125000,
+    "duration": 1625000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33875000,
+    "duration": 4250000,
+    "text": "review"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38750000,
+    "duration": 2625000,
+    "text": "each"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41500000,
+    "duration": 4250000,
+    "text": "visit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49500000,
+    "duration": 2125000,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51750000,
+    "duration": 3625000,
+    "text": "fitting"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55375000,
+    "duration": 1375000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56875000,
+    "duration": 2875000,
+    "text": "later"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59875000,
+    "duration": 7375000,
+    "text": "adjustments"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71375000,
+    "duration": 875000,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72375000,
+    "duration": 4500000,
+    "text": "dentist's"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77000000,
+    "duration": 2750000,
+    "text": "notes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79750000,
+    "duration": 2250000,
+    "text": "show"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82125000,
+    "duration": 1500000,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83750000,
+    "duration": 5375000,
+    "text": "changed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91875000,
+    "duration": 875000,
+    "text": "how"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92875000,
+    "duration": 1125000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94125000,
+    "duration": 4375000,
+    "text": "patient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98500000,
+    "duration": 3250000,
+    "text": "felt"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103500000,
+    "duration": 2250000,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108125000,
+    "duration": 1250000,
+    "text": "what"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109500000,
+    "duration": 625000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110250000,
+    "duration": 2625000,
+    "text": "check"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113000000,
+    "duration": 2375000,
+    "text": "next"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115375000,
+    "duration": 4000000,
+    "text": "time"
+  }
+]

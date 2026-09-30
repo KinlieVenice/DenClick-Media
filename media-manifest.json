@@ -1,0 +1,4152 @@
+[
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s-v2.mp4",
+    "bytes": 13855242,
+    "sha256": "b855764e47dc9797d181c2411585bed2d57786d120af8eb5aab0d78f90924f74"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s-v2.srt",
+    "bytes": 2862,
+    "sha256": "85d5415f1f17a96dd2e298e36162a0015548d7b9fbdd29eac995d8b9714bb70f"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s-v2.vtt",
+    "bytes": 2870,
+    "sha256": "6351215733675a3da3c6f50aedab0c33bc4c329264f06328575f6e99283c17da"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s.mp4",
+    "bytes": 14922558,
+    "sha256": "5d5f32bbb116d5e41bae0474afcdad93322d4b045ea6dcc4aa17be8849cacb67"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s.srt",
+    "bytes": 2862,
+    "sha256": "85d5415f1f17a96dd2e298e36162a0015548d7b9fbdd29eac995d8b9714bb70f"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-107s.vtt",
+    "bytes": 2870,
+    "sha256": "6351215733675a3da3c6f50aedab0c33bc4c329264f06328575f6e99283c17da"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-60s-before-expanded-history.mp4",
+    "bytes": 9382463,
+    "sha256": "7c40cce2a5ccd642a5153fab50eddfea56bf9a15a8f3a3cac8d79b27fb8369f3"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-60s.mp4",
+    "bytes": 9706947,
+    "sha256": "b52c27b2e75ff7aae372b5ee202b05a1f0be74fd539674e592b2da06658f9def"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-60s.srt",
+    "bytes": 1630,
+    "sha256": "fe844aaf48b200a985d90f5829f8bf6b17adbbcb0ea20afddf0c722b571f9b4c"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-60s.vtt",
+    "bytes": 1638,
+    "sha256": "dde72284df46095d4ed004f0f27d2b3260452bc4b819ccc977bd784b7bfc9861"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-95s (another copy).mp4",
+    "bytes": 12559824,
+    "sha256": "fbcaec446d3802a92754ca272f939cf6a6449dfdf0cca5472e5b7f208f710c64"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-95s (copy).mp4",
+    "bytes": 12579240,
+    "sha256": "ed1e9a558e2db8f422fed245bbf55a4602c940a3cc38a3b4e5d2c80bd85eaa08"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-95s.mp4",
+    "bytes": 12559824,
+    "sha256": "fbcaec446d3802a92754ca272f939cf6a6449dfdf0cca5472e5b7f208f710c64"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-95s.srt",
+    "bytes": 2518,
+    "sha256": "09ed73c2bf4c9bf38879b0710d7a8d92c7f902e1527718d934eed927c3a80ce4"
+  },
+  {
+    "path": "client/promo-energy/DenClick-Energetic-95s.vtt",
+    "bytes": 2526,
+    "sha256": "8630c2f7699c826d13b6e436259db3720fc6ac54cb4949108895ffa7398f2e71"
+  },
+  {
+    "path": "client/promo-energy/README.md",
+    "bytes": 4481,
+    "sha256": "fcaa03383e767184e32d3d1f54eb174ef3e266158d83fc9d2e939b83d7b49293"
+  },
+  {
+    "path": "client/promo-energy/appointment-detail.png",
+    "bytes": 178861,
+    "sha256": "f8800cde881b72d6937c0ab29037536d9c0a51e660eafc7efd19ecf0cb551239"
+  },
+  {
+    "path": "client/promo-energy/appointments.png",
+    "bytes": 71315,
+    "sha256": "c87bb8d0b0a79c516040ba0934720e8d3eb6f30cccc98721fcfa73499159f3ad"
+  },
+  {
+    "path": "client/promo-energy/assets/SOURCES.md",
+    "bytes": 1126,
+    "sha256": "d335a89c4bf400a5a2e7d9c373b96ab3cadfd6ea16bed1c820e581e9f6b1edb3"
+  },
+  {
+    "path": "client/promo-energy/assets/dental-model.jpg",
+    "bytes": 1086795,
+    "sha256": "781731bf9576bb07bd6f65e48089a0d65d60330deb64dd17ca13df2571d327f8"
+  },
+  {
+    "path": "client/promo-energy/assets/intraoral-photo.jpg",
+    "bytes": 1986767,
+    "sha256": "0a3b541dc823f93592031ab467fc3062e127121370393f7e4149934ac10da231"
+  },
+  {
+    "path": "client/promo-energy/assets/panoramic-xray.jpg",
+    "bytes": 308083,
+    "sha256": "5537c69d0cd450790350de5bf9e21e7adc690ad32b20d316bc1bac7860dc9334"
+  },
+  {
+    "path": "client/promo-energy/assets/sample-referral-form.png",
+    "bytes": 72434,
+    "sha256": "b039abbdacadc893da310bb9a946d89cc31ea087037b65e3ac82ef14fa20b5f5"
+  },
+  {
+    "path": "client/promo-energy/attachments.png",
+    "bytes": 72222,
+    "sha256": "dfb3c416ee8a9c13abbaa9aa3c327fa20ddbca721fb04fbcdad998e025726565"
+  },
+  {
+    "path": "client/promo-energy/audio-check.json",
+    "bytes": 3133,
+    "sha256": "b2c6cc8426aa154841852648e090c25ba8d13eb086f329fa9092627746c45018"
+  },
+  {
+    "path": "client/promo-energy/balance-after.png",
+    "bytes": 95410,
+    "sha256": "42f5beadf45976e7d8101fc9374bfda9fe8265ca4e9c98e1502ca2368918822c"
+  },
+  {
+    "path": "client/promo-energy/balance-before.png",
+    "bytes": 83255,
+    "sha256": "308702d665dace59f74b3de2bc05e35d9a089fcbfeaf4cc1411c5940fd24cdcb"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/activity-log.png",
+    "bytes": 189949,
+    "sha256": "9c200e17ff3ed7c875384246e3b33bddf3a035dae56cab1eeedc0d01c8ecbd1b"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/appointment-detail.png",
+    "bytes": 207515,
+    "sha256": "d001390db99d6a13fe2a6219eacbac7764fe5ddc2e3f0cae42cc32342601a265"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/appointments.png",
+    "bytes": 100406,
+    "sha256": "a8db9caf290616abd3aab9b81ca4423ac55d072a4cd2058a107294d64a2e4594"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/attachments.png",
+    "bytes": 223956,
+    "sha256": "d4eede2ca65f40ed078ce80c24b6ad2b6d8311988610689d321600d053aa6d1a"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/balance-after.png",
+    "bytes": 126760,
+    "sha256": "63a8dff3ca7054ecc0e4dd93fa076aa6da6d773e740370fa3008e222202c813e"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/balance-before.png",
+    "bytes": 128457,
+    "sha256": "80c9123b5324474bbc74e946209ada6972bc9ade362ec4fc9bd6d97328ac253e"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/braces-earlier.png",
+    "bytes": 125709,
+    "sha256": "bf45742c0946b96ab3ec3c2e5871cfbeadd36a0d52267a2c3d98b790370b9d10"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/braces-history.png",
+    "bytes": 128453,
+    "sha256": "71809c7f13ed29e01c9a18132172e0e9d99a88d1ee30fa37729899c4b9232db2"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/braces-open.png",
+    "bytes": 128453,
+    "sha256": "71809c7f13ed29e01c9a18132172e0e9d99a88d1ee30fa37729899c4b9232db2"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/calendar.png",
+    "bytes": 126974,
+    "sha256": "2dbeaebd13fe41f5f1fd94b929aa002606d366e6b864c63012e3cf2fbc3e6876"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/capture-markers.json",
+    "bytes": 1767,
+    "sha256": "2e82565051b81a121175ede08e9e37d9c9753359a4399c2b484f49dd88ec7eae"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/chart.png",
+    "bytes": 86863,
+    "sha256": "f622b0d71fc62f966dd8e37061faf9753cd6d90dee50c2188fee271189d13bcf"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/dashboard.png",
+    "bytes": 101866,
+    "sha256": "9188a01828a7a58ac6073c009b52a858a1e253bc6c11b170ad1540c2579d2963"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/expenses.png",
+    "bytes": 103033,
+    "sha256": "8ab9372d334473c0467b2d7f20b260e1a8cdea2e4797e64635f456205f7e16af"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/history.png",
+    "bytes": 120654,
+    "sha256": "c750d4f3c8343d308877fa69c1262d2a2ce5041bbe167d169e89ed1d27a47087"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/hmo-claims.png",
+    "bytes": 111257,
+    "sha256": "e5f0bf92fb239648981bbe736fc7f12f43b34b7b6e9dd33c3e012e8cb4370068"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/inventory.png",
+    "bytes": 100729,
+    "sha256": "5e60fcd0a2378c13b9089c857fba703a9bfcff168412cc7e63a8e347ccb5eca1"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/medical-info.png",
+    "bytes": 77601,
+    "sha256": "3640fa4c00c578a7ba5eba325f63c33ef385cb6d886be837811e8e6c748778d3"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/payment-confirm.png",
+    "bytes": 177871,
+    "sha256": "d4034d443a0377f1aadd8964d9f6b8e2dc94c1f3faf14549fa0f29a9bb386231"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/payment-filled.png",
+    "bytes": 200562,
+    "sha256": "bdd53429def8fd8cd6e03d0ae6e2d30f1a1cc53986a2762d1cbd50c3985bf126"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/payment-form.png",
+    "bytes": 197728,
+    "sha256": "458f09fbfdb53b81d375a6233f782c0729d2520921c28992acc1e8c8c3ba0222"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/pointer-events.json",
+    "bytes": 68268,
+    "sha256": "c355b3f7505ef12a480a4a8ae6c4fff9f31e0cf6f7dd8b4f909a29d5d166bba0"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 11874361,
+    "sha256": "bf42d8b9f6901852e9a4d98aeb3a67e4eb05a830c8e58c772641b345f50fa284"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/receivables.png",
+    "bytes": 124620,
+    "sha256": "b4b71fbd631111c4beb7401b89c732d28afe037e86514550bff9ce160cdf96d4"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/search-start.png",
+    "bytes": 105326,
+    "sha256": "5bfdb1e4d220c44fdb057450932f585a582810d59d6065742dd6852a4e2f5c7c"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/security.png",
+    "bytes": 77405,
+    "sha256": "2d0d1f41546a910c5cbcafd671325aabdcac4c95cf78dc8e35b256747b7babb8"
+  },
+  {
+    "path": "client/promo-energy/braces-capture/tooth.png",
+    "bytes": 156477,
+    "sha256": "51f284b1e98bf3c9b448ebba11247c9ac4907beb5f0704940a2f326d0800e305"
+  },
+  {
+    "path": "client/promo-energy/braces-final-history.jpg",
+    "bytes": 66154,
+    "sha256": "b02bef3f978cdb2fed51118525395d0ea8a0043f0764681bb23455d5f1a3366b"
+  },
+  {
+    "path": "client/promo-energy/braces-final-save.jpg",
+    "bytes": 57733,
+    "sha256": "4c49fece818610cb46b7540283875c0b5b1deb10a28ef4f0068e9d1ee36ac979"
+  },
+  {
+    "path": "client/promo-energy/braces-history-review.jpg",
+    "bytes": 56616,
+    "sha256": "d14cc72c47177f58b1694759df4264cee3acb6cfbeca3684a567b98173d3b9ea"
+  },
+  {
+    "path": "client/promo-energy/braces-review-6.jpg",
+    "bytes": 46627,
+    "sha256": "06c01fc48caf3f866007e4f3c24af811c453b796f035e43734fff451e9e78989"
+  },
+  {
+    "path": "client/promo-energy/braces-review-7.jpg",
+    "bytes": 67623,
+    "sha256": "93398ae470b082350a8ab344bf8b54e9c490428f35512f8a562c1f6b4264869a"
+  },
+  {
+    "path": "client/promo-energy/braces-review-8.jpg",
+    "bytes": 67655,
+    "sha256": "27934a7d34970677eaf898be02e32a76410fe50bee1920a986bd9ec5f6d3dc7d"
+  },
+  {
+    "path": "client/promo-energy/braces-review-9.jpg",
+    "bytes": 71360,
+    "sha256": "e417ebddd064996ca65e9be43144d84a1a9c2f426540133ab846a4eace403a91"
+  },
+  {
+    "path": "client/promo-energy/calendar.png",
+    "bytes": 107716,
+    "sha256": "0d9f3f3ea564e87a9fcc5b7c43e9752843ad9e64af735f4b588d18928b6b367e"
+  },
+  {
+    "path": "client/promo-energy/capture-markers.json",
+    "bytes": 1194,
+    "sha256": "8f1b64fcede60e561efc65e289b18716c2bf5bf02fbfba13d6512a659e3abec5"
+  },
+  {
+    "path": "client/promo-energy/chart.png",
+    "bytes": 86863,
+    "sha256": "f622b0d71fc62f966dd8e37061faf9753cd6d90dee50c2188fee271189d13bcf"
+  },
+  {
+    "path": "client/promo-energy/check-0.jpg",
+    "bytes": 18414,
+    "sha256": "aaf844a61e358d303efe99b1e98c0d007e500a797beffdaeaae13367dff9e596"
+  },
+  {
+    "path": "client/promo-energy/check-1.jpg",
+    "bytes": 17723,
+    "sha256": "3f346cb5c28e8116631bfee2ceaab64e078f7422f540bbd0706a6a473f0ac133"
+  },
+  {
+    "path": "client/promo-energy/check-10.jpg",
+    "bytes": 10631,
+    "sha256": "f58cd024a3d0f0bd64427081d3acb54c2ed111c1b865ddb7665e7e9b1e0b8524"
+  },
+  {
+    "path": "client/promo-energy/check-12.jpg",
+    "bytes": 12908,
+    "sha256": "3cd825f0f556918d7977d769d8faba9c88d491e2e8843b6c596aac741dc523c9"
+  },
+  {
+    "path": "client/promo-energy/check-13.jpg",
+    "bytes": 12474,
+    "sha256": "95b7133fd25e8a4b6dc7b704f77a4821686347aff748fe95a54fc1b4dd921f0d"
+  },
+  {
+    "path": "client/promo-energy/check-14.jpg",
+    "bytes": 17330,
+    "sha256": "411d0f55304680c4318a0d096558e6702c7366da7a157c7174050d0c4ad91ab1"
+  },
+  {
+    "path": "client/promo-energy/check-15.jpg",
+    "bytes": 16318,
+    "sha256": "617bc25d5705190bc554737415c1c1c02877a267f3b9c6ff5cca044ecf0380c9"
+  },
+  {
+    "path": "client/promo-energy/check-16.jpg",
+    "bytes": 14879,
+    "sha256": "af2545192cb7fda540f6ae3a441d4f455f237f2622cc2502404fdf5b53fd59f6"
+  },
+  {
+    "path": "client/promo-energy/check-17.jpg",
+    "bytes": 15276,
+    "sha256": "6215335bdb841fa896df713a9052aafc4cd74231ecbe58d6652d59aa82d9f9b7"
+  },
+  {
+    "path": "client/promo-energy/check-18.jpg",
+    "bytes": 10064,
+    "sha256": "d32334e5230b701f1d76d3ff852f5b1e0099d6886b050c73644989f481e13ae7"
+  },
+  {
+    "path": "client/promo-energy/check-19.jpg",
+    "bytes": 13389,
+    "sha256": "0408981f388065aeabc0050f5f2c2252b6fdddd2c9cf81628a37521dc216b2c8"
+  },
+  {
+    "path": "client/promo-energy/check-2.jpg",
+    "bytes": 16320,
+    "sha256": "185e3bdb4f152ab52a2040714f93d6ed189b78914d806f22ebe8758d053263a0"
+  },
+  {
+    "path": "client/promo-energy/check-20.jpg",
+    "bytes": 10322,
+    "sha256": "320f9b89e37fe86d0c86ae0da930900965b0bc0564de64388bf1160d98ab57c7"
+  },
+  {
+    "path": "client/promo-energy/check-21.jpg",
+    "bytes": 10344,
+    "sha256": "4a3193559bf5694f198dc1da02d33f748e2439f4701f3a8fa21719048b40792b"
+  },
+  {
+    "path": "client/promo-energy/check-22.jpg",
+    "bytes": 9843,
+    "sha256": "ef43f3562da110c9e4b638319c48cc15f7f452101c428d0d8406840baf20ab23"
+  },
+  {
+    "path": "client/promo-energy/check-23.jpg",
+    "bytes": 11494,
+    "sha256": "af2c94b2e9f576cdb1a510d0f8d1d3c2aa66bb842012b1a3cd1a4ebc2d03895e"
+  },
+  {
+    "path": "client/promo-energy/check-3.jpg",
+    "bytes": 15688,
+    "sha256": "988cc1e18573d225d05a05ec8b7ab4c0b989e057ca7caabf288b4482f1b8b1ff"
+  },
+  {
+    "path": "client/promo-energy/check-4.jpg",
+    "bytes": 9024,
+    "sha256": "8eaac01522b0ecc25da5d9a613aef7f5561445b7b72f5ffb0cd9f408011f8477"
+  },
+  {
+    "path": "client/promo-energy/check-5.jpg",
+    "bytes": 7381,
+    "sha256": "a6befbaf62d5bfefeaa5f457384b4c719fc4fe793b92052d96a0c70aa9b982e1"
+  },
+  {
+    "path": "client/promo-energy/check-6.jpg",
+    "bytes": 14082,
+    "sha256": "6076f7d95018c529546e34bba25b934db71712fe77cf0f3553f9aeba9d3f98c8"
+  },
+  {
+    "path": "client/promo-energy/check-7.jpg",
+    "bytes": 8803,
+    "sha256": "f395679c70548d417ac7f69494b69045296ace8344b85aaf0b4ca75b7e4a6a57"
+  },
+  {
+    "path": "client/promo-energy/check-9.jpg",
+    "bytes": 20198,
+    "sha256": "0075b6000e76245890fc3e59f03a69919a8f24131945267eea8099e4c71a8195"
+  },
+  {
+    "path": "client/promo-energy/closing-base.png",
+    "bytes": 72564,
+    "sha256": "7b26198a01581d95350ce377da2bd23a2e3498c5a3ab47ac24259807a38d9124"
+  },
+  {
+    "path": "client/promo-energy/concat.txt",
+    "bytes": 575,
+    "sha256": "f2414c339e3a82a4c85ffbbff676080433b3f0f4f8751bcb94312f40b85632dc"
+  },
+  {
+    "path": "client/promo-energy/cta-words.png",
+    "bytes": 43048,
+    "sha256": "3bdd3f54af167760993e6751c59412d86d80c709b8f3a60bbc0e56eca9968630"
+  },
+  {
+    "path": "client/promo-energy/cta.png",
+    "bytes": 104988,
+    "sha256": "53f1202612ffe3d3cd42495500dd17cda319c2f3f4479b8cbfb5bd0319eb9aed"
+  },
+  {
+    "path": "client/promo-energy/cut-00.mp4",
+    "bytes": 863520,
+    "sha256": "dfbcc4dfd62742df5d9f539af93477ea8b0300725f5fce6b0aac5065b32b99fa"
+  },
+  {
+    "path": "client/promo-energy/cut-01.mp4",
+    "bytes": 793822,
+    "sha256": "e9ae28bc41b453b9e659e255abefaa004f5574ba2b94134a937f1142a8949370"
+  },
+  {
+    "path": "client/promo-energy/cut-02.mp4",
+    "bytes": 743725,
+    "sha256": "d4791d68d32c1a5c230437ce8ecc69d9be697e0c124fd7ffa467c23b938f0b17"
+  },
+  {
+    "path": "client/promo-energy/cut-03.mp4",
+    "bytes": 66451,
+    "sha256": "b1778c0e96a3ff8bd8ca2353581a608dc1a3b5f50db229173d7ccfbdb8aeb428"
+  },
+  {
+    "path": "client/promo-energy/cut-04.mp4",
+    "bytes": 130876,
+    "sha256": "9f78c6052f31864fc1ad4b8b0622f091b9126f30c3d61cbfdb7af8238aba34c9"
+  },
+  {
+    "path": "client/promo-energy/cut-05.mp4",
+    "bytes": 323974,
+    "sha256": "a5c008bffa70b47a848b9941d43674271207b769b0b71a64377a6e953f325094"
+  },
+  {
+    "path": "client/promo-energy/cut-06.mp4",
+    "bytes": 292427,
+    "sha256": "6d6df5738b4f740acdee648f55fa34c178e0c291ba8af494ad856b5efc7bd87e"
+  },
+  {
+    "path": "client/promo-energy/cut-07.mp4",
+    "bytes": 289979,
+    "sha256": "b8439096d02db9df7154bea0d81d2df0f35ee47c025c6fdcd1e62b2c8aba11bd"
+  },
+  {
+    "path": "client/promo-energy/cut-08.mp4",
+    "bytes": 187030,
+    "sha256": "f9b9234b51f4508bcce66fe59fb70ebccc51df1240f0523ef29247464643c79d"
+  },
+  {
+    "path": "client/promo-energy/cut-09.mp4",
+    "bytes": 301386,
+    "sha256": "14e524f6370c9353dde225a095000a464242671a3c4f54577ab1577f7ed21e8d"
+  },
+  {
+    "path": "client/promo-energy/cut-10.mp4",
+    "bytes": 168098,
+    "sha256": "7f7566cc88f15d1dc075c6f181800d11291089e0100cf3403b8ac5a2fd5fbd7a"
+  },
+  {
+    "path": "client/promo-energy/cut-11.mp4",
+    "bytes": 243679,
+    "sha256": "08479630f25189eca977dd190c136f21d81577a54f8c18500c037118d39579dc"
+  },
+  {
+    "path": "client/promo-energy/cut-12.mp4",
+    "bytes": 495297,
+    "sha256": "56b5bc9aa62cb69340cfd94dbf7039f7db1848a4a7aa7dcddcaf37baadf54ed5"
+  },
+  {
+    "path": "client/promo-energy/cut-13.mp4",
+    "bytes": 621525,
+    "sha256": "bc4ae987d7b592fe3548a582a16b74d9e2b1900a2cd2c22feba595ecb30f92b4"
+  },
+  {
+    "path": "client/promo-energy/cut-14.mp4",
+    "bytes": 240481,
+    "sha256": "b7e43f97d97aa07e74b4901381f32656ffc62da15381723f79011962f28d4c0a"
+  },
+  {
+    "path": "client/promo-energy/cut-15.mp4",
+    "bytes": 394966,
+    "sha256": "6bdab0ac0c868638efdf4120fbf2e9152c885815a91453fd03794de3e3c9b78a"
+  },
+  {
+    "path": "client/promo-energy/cut-16.mp4",
+    "bytes": 353725,
+    "sha256": "6a39f4d6a4a12b8f3141fae6e62694822bb3a9392fdd2bb5cfa0d28d79310908"
+  },
+  {
+    "path": "client/promo-energy/cut-17.mp4",
+    "bytes": 315926,
+    "sha256": "3f41a8eb04efd10670cb02174c2cfb2b9a91c89b2ab9071820a111d46cba03bd"
+  },
+  {
+    "path": "client/promo-energy/cut-18.mp4",
+    "bytes": 106862,
+    "sha256": "cf186e428dd0deedd26f8948783a6870e346d7994329e9f492095b9235cd8fee"
+  },
+  {
+    "path": "client/promo-energy/cut-19.mp4",
+    "bytes": 94198,
+    "sha256": "1c98a160ca35ef9ac89a0567d066d09aa526aa685b219c14958d04383508f7b9"
+  },
+  {
+    "path": "client/promo-energy/cut-20.mp4",
+    "bytes": 390868,
+    "sha256": "ea4f81550df1a2abb5565415c48bdb0132454798cff7f69a5249337411f2b923"
+  },
+  {
+    "path": "client/promo-energy/cut-21.mp4",
+    "bytes": 304795,
+    "sha256": "0ef561f34eee7981c16e1b85bfdaef8d4373f0d3358434f108baa9a778be8dce"
+  },
+  {
+    "path": "client/promo-energy/cut-22.mp4",
+    "bytes": 351731,
+    "sha256": "130fcc6bbe48772cbded9b5613ff0b673009bc454f99a32e487d55ab82ed6318"
+  },
+  {
+    "path": "client/promo-energy/cut-23.mp4",
+    "bytes": 352968,
+    "sha256": "81e83e6dd4e5770fa076a16a63194fc9d71f3a9387a99f2fcba21806120ad3d9"
+  },
+  {
+    "path": "client/promo-energy/cut-24.mp4",
+    "bytes": 303933,
+    "sha256": "90060cbe618f66416dccf2d0c52ab1f5f456c6d1a50b998a569ac0a1cab83b96"
+  },
+  {
+    "path": "client/promo-energy/cut-25.mp4",
+    "bytes": 163442,
+    "sha256": "f2f985b37229d70fc7e9ed27150d4ed82fa5214771ffc3f7f5811a4ad97304bb"
+  },
+  {
+    "path": "client/promo-energy/cut-26.mp4",
+    "bytes": 115990,
+    "sha256": "ef854663d4e584ba13291fb902c38e940255fee83e65f564bc799927f2628e8b"
+  },
+  {
+    "path": "client/promo-energy/cut-27.mp4",
+    "bytes": 1089158,
+    "sha256": "9a915d88ba552937c67fcf90cdcfbd876e83a980ecdf6767c95f550c9d877083"
+  },
+  {
+    "path": "client/promo-energy/cut-28.mp4",
+    "bytes": 53799,
+    "sha256": "a37d7e027c94f2a20331308a21fdd4f07c491213b63f03365ab43ff840072266"
+  },
+  {
+    "path": "client/promo-energy/cut-29.mp4",
+    "bytes": 52731,
+    "sha256": "bb3a539537f2f59215a45495c9dd0f36146910303525bf4ae623419136923730"
+  },
+  {
+    "path": "client/promo-energy/cut-30.mp4",
+    "bytes": 59124,
+    "sha256": "73b00b748e45ffe976b4382080de202f9ff3cf233aa30db4f41255c7f2b42dac"
+  },
+  {
+    "path": "client/promo-energy/cut-31.mp4",
+    "bytes": 74495,
+    "sha256": "64a38aabbea630ac28edff267ef39c255e905c4eb5ba97d6ee3c0daf1043f7d0"
+  },
+  {
+    "path": "client/promo-energy/dashboard.png",
+    "bytes": 100995,
+    "sha256": "0307b51ffb781458d6a001900bb42767422ea412d65a40c6f0b6c25443cfd5c8"
+  },
+  {
+    "path": "client/promo-energy/edit-timeline.json",
+    "bytes": 11729,
+    "sha256": "ce4b717e1e7b9f9f100adcb93afa17f3445569d74d7ea2c17e38964546574b86"
+  },
+  {
+    "path": "client/promo-energy/expanded-history.jpg",
+    "bytes": 81088,
+    "sha256": "1ecb7cab50b7a5e963dea670cc24a4d3a4c5b3e56a9b4e173f5f80ffbd758496"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/activity-log.png",
+    "bytes": 188238,
+    "sha256": "d91e7c7119154c174f09a4264e264b63d056f603628193cb4272c1850e9132e0"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/appointment-detail.png",
+    "bytes": 207590,
+    "sha256": "ee64239669ba1579536e3f652414ed198a9e5632cbe676342a55f7b5d775bc7d"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/appointments.png",
+    "bytes": 97733,
+    "sha256": "7a3d76018dcaee54b22f833281ddc371d8d91d531e932834b55082d8265cec80"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/attachments.png",
+    "bytes": 223956,
+    "sha256": "b41e957bc6252ff7fc8af471e9ceee08e80dfb367759e9dba71376cdbbd7fbe9"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/balance-after.png",
+    "bytes": 96081,
+    "sha256": "281583da2301d59e489731a48a3a770414c98187386517c1432d2c675769e667"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/balance-before.png",
+    "bytes": 83591,
+    "sha256": "a56b999dd22431b647844af963580cff8e632928ef20de75baf7618c901d9ac6"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/calendar.png",
+    "bytes": 126957,
+    "sha256": "34cc00d073a0a9bcb0382faf1b2335d522581c8142b1e26cddf7311bedc03ae5"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/capture-markers.json",
+    "bytes": 1509,
+    "sha256": "74dff0bf21dce8e58dd6b15d8f4baf62594f42b4a3643f10e68770be386733d6"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/chart.png",
+    "bytes": 86863,
+    "sha256": "f622b0d71fc62f966dd8e37061faf9753cd6d90dee50c2188fee271189d13bcf"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/dashboard.png",
+    "bytes": 100929,
+    "sha256": "dac6262d6446c24be83bfaf9f6da215ba6aaa44b8fb4e4be572a8921f4485a50"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/expenses.png",
+    "bytes": 103084,
+    "sha256": "980dfdf20a34b33604bf81aefb5fc6e279bde923e1477678ed9490e3ea9dcdc0"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/history.png",
+    "bytes": 119161,
+    "sha256": "ec4d391b0f9d254547f085549b702a754930457a689acf56f3a88e62f1fdc33f"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/hmo-claims.png",
+    "bytes": 111257,
+    "sha256": "e5f0bf92fb239648981bbe736fc7f12f43b34b7b6e9dd33c3e012e8cb4370068"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/inventory.png",
+    "bytes": 100729,
+    "sha256": "5e60fcd0a2378c13b9089c857fba703a9bfcff168412cc7e63a8e347ccb5eca1"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/payment-confirm.png",
+    "bytes": 149652,
+    "sha256": "8cc008be1fa323b9c6ab6793716ef23b399977cd864e9dc307cc44cb29bdd463"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/payment-filled.png",
+    "bytes": 166733,
+    "sha256": "7bb0ae87c81ba9b8b7f25a92fa2dd6c9fcf94dc65523a6e37e88820929cd330b"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/payment-form.png",
+    "bytes": 168417,
+    "sha256": "99d98edc66de96416be33ed8101565e141ee79ac10842673a90ba9a00a588b22"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/pointer-events.json",
+    "bytes": 64380,
+    "sha256": "a6c5ae733466ff21d85781bf4615b4e04ea2f04c7cc6579a4e4d9ecf98dd7192"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 11017446,
+    "sha256": "e2c38a629bb52d92c2cc78b5c59499c52f7a1442694b04428d90e512a0db0f8a"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/receivables.png",
+    "bytes": 121823,
+    "sha256": "428dcf275edf50ccd2de3ab3c9ea1d047987b55af9b71ab66055e7119fb79a79"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/search-start.png",
+    "bytes": 105326,
+    "sha256": "5bfdb1e4d220c44fdb057450932f585a582810d59d6065742dd6852a4e2f5c7c"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/security.png",
+    "bytes": 77405,
+    "sha256": "2d0d1f41546a910c5cbcafd671325aabdcac4c95cf78dc8e35b256747b7babb8"
+  },
+  {
+    "path": "client/promo-energy/extended-capture/tooth.png",
+    "bytes": 146719,
+    "sha256": "325fcf519ba7d7f8584a2fa5c5fc91cdc523df1f12fb039fe64ae67cd9b4d72a"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-0.jpg",
+    "bytes": 17926,
+    "sha256": "6bfd616982d74d590ad79141c75981111655b0da8bcac444491855d4e56a61ce"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-1.jpg",
+    "bytes": 18836,
+    "sha256": "28125ca5266d88f38194a3f0991ac69145ace334d417a18fe445b6397aa4277c"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-2.jpg",
+    "bytes": 9425,
+    "sha256": "5ee550fae61c01da5579fc8912f045fd29b8321fa07004c0aa89830465212a0c"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-3.jpg",
+    "bytes": 18751,
+    "sha256": "33caae0136821135b6bb709eddda79c8a6b381a75c2e0002c65fc12b96a7791a"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-4.jpg",
+    "bytes": 18754,
+    "sha256": "c04681f10fb0aa50437e9eeb7200adcf436acdf53383a61afbc46c95d36bd017"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-5.jpg",
+    "bytes": 15677,
+    "sha256": "a41c6d63785cd1e4f8c77cf0f52b791657e781a2e4b565a2a0b1ce124716fe94"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-6.jpg",
+    "bytes": 14539,
+    "sha256": "afc55ac854e7887a220cb6abb69c4798d04de8732c7a5725bc3c136b5b40ec16"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-7.jpg",
+    "bytes": 26334,
+    "sha256": "a53be52af3139e89fc4b8d7be294afb5a990275570fdd860247da6d3d3e2891a"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-8.jpg",
+    "bytes": 11094,
+    "sha256": "6b2180a06f4b6d437317a3448c19e71f3736726abdc72526cc1a9a258e7f24f2"
+  },
+  {
+    "path": "client/promo-energy/extended-frame-9.jpg",
+    "bytes": 11310,
+    "sha256": "debec3b3a80dff6599f02e3ff4be0b57abee89efa9c917381711ec47d064c8a6"
+  },
+  {
+    "path": "client/promo-energy/extended-review.jpg",
+    "bytes": 177893,
+    "sha256": "2543ddd0df6bb370326c76c04fcf13afda00d9f4595fff10fb006861ff1fdfa2"
+  },
+  {
+    "path": "client/promo-energy/final-107-0.jpg",
+    "bytes": 45171,
+    "sha256": "692d0a4569ca8ec8b514e4552d51c43dc463477c4811667642897c19a204c827"
+  },
+  {
+    "path": "client/promo-energy/final-107-1.jpg",
+    "bytes": 67278,
+    "sha256": "332defcbb95caa0c00f6ae20105370a0a18d7255b022e240e7f53537b8335ec4"
+  },
+  {
+    "path": "client/promo-energy/final-107-2.jpg",
+    "bytes": 67627,
+    "sha256": "0267b5a616072efdec4dc0cb162640def345519955cb9c05e16893124d998368"
+  },
+  {
+    "path": "client/promo-energy/final-107-3.jpg",
+    "bytes": 71277,
+    "sha256": "7ff090910df723706102fc67276ee3188b2ecce8b6853604fb139fc0edca250a"
+  },
+  {
+    "path": "client/promo-energy/final-107-4.jpg",
+    "bytes": 56260,
+    "sha256": "6d0b85a1a85b90b50775ee780600a3d885dd6e7d183bc09b6edbf2681dcc7d19"
+  },
+  {
+    "path": "client/promo-energy/final-107-5.jpg",
+    "bytes": 58280,
+    "sha256": "d6af595b9d9bfec9b61ad3616a5a67f81a420849e120d27d87fe51b6291618f5"
+  },
+  {
+    "path": "client/promo-energy/final-107-6.jpg",
+    "bytes": 52424,
+    "sha256": "e93581a40deb0a75bef5a77b48d1195e388d177bc3acbd224e5570931aaaa539"
+  },
+  {
+    "path": "client/promo-energy/final-107-7.jpg",
+    "bytes": 38881,
+    "sha256": "61acd2d7a1606b2f48c3d8ed023d2589a6109ca292c0c81d501bcd46958abbac"
+  },
+  {
+    "path": "client/promo-energy/final-107-8.jpg",
+    "bytes": 37540,
+    "sha256": "bdb6493be5c905a43b055ab3fcea7d3104dc9aea2d2c8f64f7e4418d081225eb"
+  },
+  {
+    "path": "client/promo-energy/final-107-review.jpg",
+    "bytes": 101500,
+    "sha256": "908bff8e6b029d71ff2ff47c0a2df4e5138b7f3c586c32a38777b4498bafc929"
+  },
+  {
+    "path": "client/promo-energy/final-script.md",
+    "bytes": 1741,
+    "sha256": "153f1f1d29020ebb0cf870a7a236c9f16d484c8518e78d46ecf4d1ff76a6e5e3"
+  },
+  {
+    "path": "client/promo-energy/history.png",
+    "bytes": 71278,
+    "sha256": "4006d8bc51315532b959ccf043ba5e7fe4809f80071e68687fb435d723d63f75"
+  },
+  {
+    "path": "client/promo-energy/image-attachments.jpg",
+    "bytes": 69466,
+    "sha256": "cc3f9cabe9aa249fd04d6fcf13095c02ff40202de468ae968b719d1d342fd101"
+  },
+  {
+    "path": "client/promo-energy/index.html",
+    "bytes": 1002,
+    "sha256": "5e4336519eef150313ff985345e4633b497ce451ae7bfb959b44f1a54da324ad"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/capture-markers.json",
+    "bytes": 396,
+    "sha256": "48f16d5dd70505ef997bcb5365a14ba10b05029485fa4700956c465a27e44a51"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/medical-info.png",
+    "bytes": 77601,
+    "sha256": "3640fa4c00c578a7ba5eba325f63c33ef385cb6d886be837811e8e6c748778d3"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/medical-to-treatments.png",
+    "bytes": 119161,
+    "sha256": "ec4d391b0f9d254547f085549b702a754930457a689acf56f3a88e62f1fdc33f"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/pointer-events.json",
+    "bytes": 10476,
+    "sha256": "7fb266dbdda05d3fe43d1c7e953c6249452e0c89550175b7f3ead96050456407"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 1403880,
+    "sha256": "854fc4cbd0f59aba027c7cd0af43c7bd46bc6f82f43cf69d67bcd0afcf87f123"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/medical-capture/search-start.png",
+    "bytes": 105326,
+    "sha256": "5bfdb1e4d220c44fdb057450932f585a582810d59d6065742dd6852a4e2f5c7c"
+  },
+  {
+    "path": "client/promo-energy/medical-info-final.jpg",
+    "bytes": 46369,
+    "sha256": "210a21b08cddd5c72dff2ecee7a37e1938d1a45144ed8f6a078e8fa4d168935f"
+  },
+  {
+    "path": "client/promo-energy/mix.wav",
+    "bytes": 20544044,
+    "sha256": "3696f2ee5a2dbacd1fc7ecb76ca4855bdb16844c6b298a3b39be1b4c1b0cbe33"
+  },
+  {
+    "path": "client/promo-energy/monthly-words.png",
+    "bytes": 36722,
+    "sha256": "778f0d8c8b4ca977d054bc9ab922443e04ce76010e0f2a9763402e3971e9e32a"
+  },
+  {
+    "path": "client/promo-energy/monthly.png",
+    "bytes": 98740,
+    "sha256": "b95241d17d942853401f5c9cb85ff6dae74aecddc01f92c6bc3999e7af15338f"
+  },
+  {
+    "path": "client/promo-energy/narrate-60s.py",
+    "bytes": 1725,
+    "sha256": "e4ea05f39bae15953ede13e0d357bf26d97c4a66f4a73260295a29ffa7729e56"
+  },
+  {
+    "path": "client/promo-energy/narrate.py",
+    "bytes": 2547,
+    "sha256": "9dde62b8b3d41410cedfebd38e0fc1bef3abff013a6297ff03f6a8c354bf32d0"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/DenClick-Energetic-60s.mp4",
+    "bytes": 9797108,
+    "sha256": "79fff0d44ff7ccdfe71b6976a0ee2fc6a2a3eef043c62c4eb86ed7521f308e7f"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/narrate.py",
+    "bytes": 1291,
+    "sha256": "58d594c53fce12bbd1666c5bcc41716d0f7c20984c13533ae7175952f0c55409"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/narration.json",
+    "bytes": 1511,
+    "sha256": "9122dbac99800e4330c6b2877dfa93478cff4293d954411108a902159dba0403"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-0.mp3",
+    "bytes": 22752,
+    "sha256": "871cabf6e16eb36c85d4cf17419f78fa6562e1d36b92a1c11b9003831a417ee7"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-1.mp3",
+    "bytes": 29664,
+    "sha256": "004023834944def6e279c4f4787625bc94f0f224e49ab3a4d500930f22649cc2"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-10.mp3",
+    "bytes": 12528,
+    "sha256": "d4f4f75fa450246358c04104c531e1bd83bc6514ab398bd424755d17789b774a"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-11.mp3",
+    "bytes": 12528,
+    "sha256": "9df084ee8108eb6e9518f4f245c631c3f91232aab1984a066bcd9ba1d8297ba0"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-12.mp3",
+    "bytes": 21744,
+    "sha256": "4b433fe8e4a0dfee3bb0d5df514520d99ce73eda6a80de91c09a739623d0e4ad"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-13.mp3",
+    "bytes": 30528,
+    "sha256": "2cd8af1a7599135f3562df7a2fc25a4f9c3004d095313ebb0bea0ebedcec2c24"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-14.mp3",
+    "bytes": 34272,
+    "sha256": "c6b8102bbfafe0c2bba00366e79f5f91ad0799c08350fdb7970e437f686f3bae"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-2.mp3",
+    "bytes": 26640,
+    "sha256": "cf098acc37f92ea49b96a166fef049d6487a3b99a06116e984296649a8affbd8"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-3.mp3",
+    "bytes": 12528,
+    "sha256": "ade68d73fced66e59472f63bffc6f1feb513e13dafe96da0e5f368dc4b28b4d1"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-4.mp3",
+    "bytes": 35424,
+    "sha256": "c49c1ec533bdbf819db9629d44a05d069404419a211d6a72fb181f93583859cf"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-5.mp3",
+    "bytes": 26064,
+    "sha256": "23fb6b908eb24074273ade6f9573ebbccc83ba80901c62be04f7ca9620d5a583"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-6.mp3",
+    "bytes": 31536,
+    "sha256": "2ceee7db203318226e09f43cbba635251d048a0dc0d39b0d89c0c2b950c80e0f"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-7.mp3",
+    "bytes": 21312,
+    "sha256": "6a9562c6723dedd77cdf58f1677f82bf64b8c504ca973468c417c909d4d30f82"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-8.mp3",
+    "bytes": 12096,
+    "sha256": "3605d7cc08bdcf4911ec9dda94e1b627c716e4b504b4927230b2420dddc81ccb"
+  },
+  {
+    "path": "client/promo-energy/narration-previous/voice-9.mp3",
+    "bytes": 12816,
+    "sha256": "298765d625ce94f76a224fa54345a11481cf207cbca4a6187f9eb8d7e6dac465"
+  },
+  {
+    "path": "client/promo-energy/narration.json",
+    "bytes": 2268,
+    "sha256": "e757d31e6ed3ff05847a48d584a6f1c7c82ccec7db2c53cf8de07fe7cddc3fea"
+  },
+  {
+    "path": "client/promo-energy/notebook.png",
+    "bytes": 82252,
+    "sha256": "8dc5c7060e993cd8e5c264f8df8485c84e4c3582331865b812524d89fff543a4"
+  },
+  {
+    "path": "client/promo-energy/offer-words.png",
+    "bytes": 35438,
+    "sha256": "ce39e3fccca00631ae685bf074177fc172716d9b7c38770417f28b39d9d1a654"
+  },
+  {
+    "path": "client/promo-energy/offer.png",
+    "bytes": 97559,
+    "sha256": "e4272743fe56e37a2401cd73d929a2de1ca17638591c3ce154555e255eac1ca7"
+  },
+  {
+    "path": "client/promo-energy/overlay-0.png",
+    "bytes": 51392,
+    "sha256": "b280813acd9108b7382fc6fd381bca1ac4f9c268edf582321bba4d1a4821e59d"
+  },
+  {
+    "path": "client/promo-energy/overlay-1.png",
+    "bytes": 42342,
+    "sha256": "83ccd144964f1cb7b3f9564780e3f19cab5b4499e8f27441c1d475c1109fb8b6"
+  },
+  {
+    "path": "client/promo-energy/overlay-10.png",
+    "bytes": 12761,
+    "sha256": "3b11de1284499f382bf82f91760e36153362bd3e1c937b6ef0f858ed82d0ed5e"
+  },
+  {
+    "path": "client/promo-energy/overlay-11.png",
+    "bytes": 14287,
+    "sha256": "a8f2b606b96b336cb352510ae896f8464a0f247df8c9dce83b7708724a7faa07"
+  },
+  {
+    "path": "client/promo-energy/overlay-12.png",
+    "bytes": 13954,
+    "sha256": "c4501505e00426bc0d14307b0f91a405bec272de81d350dcdf96843494873897"
+  },
+  {
+    "path": "client/promo-energy/overlay-13.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-14.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-15.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-16.png",
+    "bytes": 12873,
+    "sha256": "906fce2002f161fa70cc08b3e21712da62f2d482635124e738a36788046ca008"
+  },
+  {
+    "path": "client/promo-energy/overlay-17.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-18.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-19.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-2.png",
+    "bytes": 51906,
+    "sha256": "39f57478b16e3e062bf00fa9ceb0a3961f9e77e369d9471fdadaad0b5c0dbae7"
+  },
+  {
+    "path": "client/promo-energy/overlay-20.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-21.png",
+    "bytes": 15645,
+    "sha256": "3c33ac01d6eb1f80c6f7a2c8e2bc1762e9a328dfb6caa87314f14746cf968d1b"
+  },
+  {
+    "path": "client/promo-energy/overlay-22.png",
+    "bytes": 16916,
+    "sha256": "e2f61f5801fae8e072bf08c8a6602136b1a64cbe75224b56d2614a64b5f5daa2"
+  },
+  {
+    "path": "client/promo-energy/overlay-23.png",
+    "bytes": 13518,
+    "sha256": "e83f7ba67ebc5e2e8c82a7396492c54af0bca39a2278c081c40e7dbdba06fe03"
+  },
+  {
+    "path": "client/promo-energy/overlay-24.png",
+    "bytes": 19043,
+    "sha256": "3f1e5505d64104c816390163f6e46c14609fe72aa9d19309e05244dc4ce662c9"
+  },
+  {
+    "path": "client/promo-energy/overlay-25.png",
+    "bytes": 12409,
+    "sha256": "2cacabc650eac772ac06a8ca7a3062e38e88dcbdc57d3fedb901681e6a8817af"
+  },
+  {
+    "path": "client/promo-energy/overlay-26.png",
+    "bytes": 14604,
+    "sha256": "648c6fd3a27ef21665f250ef662a9bede866f0e57ff3687979ed3a682ffdcd0f"
+  },
+  {
+    "path": "client/promo-energy/overlay-27.png",
+    "bytes": 17020,
+    "sha256": "8131b7685be4a3773549ee2b544f4923863e4f552e0b659e86ac3b9ccc08ae56"
+  },
+  {
+    "path": "client/promo-energy/overlay-28.png",
+    "bytes": 35438,
+    "sha256": "ce39e3fccca00631ae685bf074177fc172716d9b7c38770417f28b39d9d1a654"
+  },
+  {
+    "path": "client/promo-energy/overlay-29.png",
+    "bytes": 36722,
+    "sha256": "778f0d8c8b4ca977d054bc9ab922443e04ce76010e0f2a9763402e3971e9e32a"
+  },
+  {
+    "path": "client/promo-energy/overlay-3.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-30.png",
+    "bytes": 39446,
+    "sha256": "8d293c940d0e134627b42d78d415a92678dcf7f555ef44cb63bd7bf241991d94"
+  },
+  {
+    "path": "client/promo-energy/overlay-31.png",
+    "bytes": 43048,
+    "sha256": "3bdd3f54af167760993e6751c59412d86d80c709b8f3a60bbc0e56eca9968630"
+  },
+  {
+    "path": "client/promo-energy/overlay-4.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-energy/overlay-5.png",
+    "bytes": 11824,
+    "sha256": "12036945114ae1abd388eed50b0f074d2d98b2366fd93a7ad62bcb4183c19634"
+  },
+  {
+    "path": "client/promo-energy/overlay-6.png",
+    "bytes": 13583,
+    "sha256": "b8e26b81605a55ace7de07814610c8922d1f8a42fc02003c909cf674186025ad"
+  },
+  {
+    "path": "client/promo-energy/overlay-7.png",
+    "bytes": 12761,
+    "sha256": "3b11de1284499f382bf82f91760e36153362bd3e1c937b6ef0f858ed82d0ed5e"
+  },
+  {
+    "path": "client/promo-energy/overlay-8.png",
+    "bytes": 12761,
+    "sha256": "3b11de1284499f382bf82f91760e36153362bd3e1c937b6ef0f858ed82d0ed5e"
+  },
+  {
+    "path": "client/promo-energy/overlay-9.png",
+    "bytes": 12761,
+    "sha256": "3b11de1284499f382bf82f91760e36153362bd3e1c937b6ef0f858ed82d0ed5e"
+  },
+  {
+    "path": "client/promo-energy/payment-confirm.png",
+    "bytes": 149954,
+    "sha256": "b368939c8c053c03d7f9efffb32614864306ac58ffaa1cd9a965be9b71b419f4"
+  },
+  {
+    "path": "client/promo-energy/payment-filled.png",
+    "bytes": 166832,
+    "sha256": "24d04a0637acf9019328e3503b738b0c2db8a5ed0b81c028368ef6666aee16a5"
+  },
+  {
+    "path": "client/promo-energy/payment-form.png",
+    "bytes": 168534,
+    "sha256": "2bbc41a0a81a9cf7347973bf2f08999d9c70df358d5791f530f5471953740275"
+  },
+  {
+    "path": "client/promo-energy/payoff-words.png",
+    "bytes": 39446,
+    "sha256": "8d293c940d0e134627b42d78d415a92678dcf7f555ef44cb63bd7bf241991d94"
+  },
+  {
+    "path": "client/promo-energy/payoff.png",
+    "bytes": 101482,
+    "sha256": "f81daaeed70c823e87650294fd811faa89ccfef16a51f3accfd5d5b567c869d5"
+  },
+  {
+    "path": "client/promo-energy/pointer-events.json",
+    "bytes": 52271,
+    "sha256": "89ddf4ec16847ede766df59f5032eba3235f2f6f4e33fb3cc12e0c3fd86f4916"
+  },
+  {
+    "path": "client/promo-energy/poster.jpg",
+    "bytes": 66184,
+    "sha256": "c0a4dedbc59028f76a56b12856f327f6bb3f2a752563b7d446ba49be1c9ec8da"
+  },
+  {
+    "path": "client/promo-energy/problem-cards.png",
+    "bytes": 51392,
+    "sha256": "b280813acd9108b7382fc6fd381bca1ac4f9c268edf582321bba4d1a4821e59d"
+  },
+  {
+    "path": "client/promo-energy/problem-missing.png",
+    "bytes": 51906,
+    "sha256": "39f57478b16e3e062bf00fa9ceb0a3961f9e77e369d9471fdadaad0b5c0dbae7"
+  },
+  {
+    "path": "client/promo-energy/problem-search.png",
+    "bytes": 42342,
+    "sha256": "83ccd144964f1cb7b3f9564780e3f19cab5b4499e8f27441c1d475c1109fb8b6"
+  },
+  {
+    "path": "client/promo-energy/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 6304048,
+    "sha256": "8f686c3cc756e8049ee7e21a4b0f3c2299a11812db9bed626ba3e2b32abb08e6"
+  },
+  {
+    "path": "client/promo-energy/recapture/appointment-detail.png",
+    "bytes": 178861,
+    "sha256": "f8800cde881b72d6937c0ab29037536d9c0a51e660eafc7efd19ecf0cb551239"
+  },
+  {
+    "path": "client/promo-energy/recapture/appointments.png",
+    "bytes": 71315,
+    "sha256": "c87bb8d0b0a79c516040ba0934720e8d3eb6f30cccc98721fcfa73499159f3ad"
+  },
+  {
+    "path": "client/promo-energy/recapture/attachments.png",
+    "bytes": 380581,
+    "sha256": "ac73ed2a16c0926b178e8a9d23bec2642c01d299a4ffcdf4940dbf6319a9b2fd"
+  },
+  {
+    "path": "client/promo-energy/recapture/balance-after.png",
+    "bytes": 95338,
+    "sha256": "6b8a571159daf697553e19c0dd7ae11ee0fbd6488719753c37fc0976e218c36a"
+  },
+  {
+    "path": "client/promo-energy/recapture/balance-before.png",
+    "bytes": 83415,
+    "sha256": "41f987117bcb9369e1db8bb9fac4dbd54e6068ba0960a7099609186b43ba46e6"
+  },
+  {
+    "path": "client/promo-energy/recapture/calendar.png",
+    "bytes": 107716,
+    "sha256": "0d9f3f3ea564e87a9fcc5b7c43e9752843ad9e64af735f4b588d18928b6b367e"
+  },
+  {
+    "path": "client/promo-energy/recapture/capture-markers.json",
+    "bytes": 1193,
+    "sha256": "ce34790689905ab398fc3748940fbf9c1eebc6a1dbb4d648e63a2d90012b1181"
+  },
+  {
+    "path": "client/promo-energy/recapture/chart.png",
+    "bytes": 86863,
+    "sha256": "f622b0d71fc62f966dd8e37061faf9753cd6d90dee50c2188fee271189d13bcf"
+  },
+  {
+    "path": "client/promo-energy/recapture/dashboard.png",
+    "bytes": 100995,
+    "sha256": "0307b51ffb781458d6a001900bb42767422ea412d65a40c6f0b6c25443cfd5c8"
+  },
+  {
+    "path": "client/promo-energy/recapture/history.png",
+    "bytes": 119161,
+    "sha256": "ec4d391b0f9d254547f085549b702a754930457a689acf56f3a88e62f1fdc33f"
+  },
+  {
+    "path": "client/promo-energy/recapture/payment-confirm.png",
+    "bytes": 149954,
+    "sha256": "b368939c8c053c03d7f9efffb32614864306ac58ffaa1cd9a965be9b71b419f4"
+  },
+  {
+    "path": "client/promo-energy/recapture/payment-filled.png",
+    "bytes": 166832,
+    "sha256": "24d04a0637acf9019328e3503b738b0c2db8a5ed0b81c028368ef6666aee16a5"
+  },
+  {
+    "path": "client/promo-energy/recapture/payment-form.png",
+    "bytes": 168534,
+    "sha256": "2bbc41a0a81a9cf7347973bf2f08999d9c70df358d5791f530f5471953740275"
+  },
+  {
+    "path": "client/promo-energy/recapture/pointer-events.json",
+    "bytes": 52311,
+    "sha256": "3980ee54f41201d9c0176ef3e5044e0d9cdefcfd6911e191d32238391a129a3a"
+  },
+  {
+    "path": "client/promo-energy/recapture/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/recapture/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/recapture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 6505523,
+    "sha256": "5c54056b8933e492bf6485ba9e5d0c0e53780e393a19495549050544c41edea3"
+  },
+  {
+    "path": "client/promo-energy/recapture/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/recapture/search-start.png",
+    "bytes": 109619,
+    "sha256": "69acebf217b070bb354edba1328d1f7826461862ad326b32f5b81475d54bb895"
+  },
+  {
+    "path": "client/promo-energy/recapture/security.png",
+    "bytes": 77403,
+    "sha256": "e7ba6f2842220b22407e72084f78d1a0aa9b0444a1073a98479fe56466fdeba9"
+  },
+  {
+    "path": "client/promo-energy/recapture/tooth.png",
+    "bytes": 156589,
+    "sha256": "f6c1ac7ac8240b7b05cb128bba9a49a2961b536c559434af5cac94c0b7a55efa"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/appointment-detail.png",
+    "bytes": 178861,
+    "sha256": "f8800cde881b72d6937c0ab29037536d9c0a51e660eafc7efd19ecf0cb551239"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/appointments.png",
+    "bytes": 71315,
+    "sha256": "c87bb8d0b0a79c516040ba0934720e8d3eb6f30cccc98721fcfa73499159f3ad"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/attachments.png",
+    "bytes": 223956,
+    "sha256": "b41e957bc6252ff7fc8af471e9ceee08e80dfb367759e9dba71376cdbbd7fbe9"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/balance-after.png",
+    "bytes": 95130,
+    "sha256": "59eb1332d4e991d7c7adc95eb242f270c1e0d4386174261743ffa85a071c9c1f"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/balance-before.png",
+    "bytes": 83142,
+    "sha256": "3b967a520250e8a34a171f2527529d8a798a028471c1b38570a8bc55d1bee613"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/calendar.png",
+    "bytes": 107716,
+    "sha256": "0d9f3f3ea564e87a9fcc5b7c43e9752843ad9e64af735f4b588d18928b6b367e"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/capture-markers.json",
+    "bytes": 1194,
+    "sha256": "d740b471764197a4581c0235af9bf8f150d1b053f7429ab0e6f347b629af005d"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/chart.png",
+    "bytes": 86863,
+    "sha256": "f622b0d71fc62f966dd8e37061faf9753cd6d90dee50c2188fee271189d13bcf"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/dashboard.png",
+    "bytes": 100995,
+    "sha256": "0307b51ffb781458d6a001900bb42767422ea412d65a40c6f0b6c25443cfd5c8"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/history.png",
+    "bytes": 119161,
+    "sha256": "ec4d391b0f9d254547f085549b702a754930457a689acf56f3a88e62f1fdc33f"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/payment-confirm.png",
+    "bytes": 149788,
+    "sha256": "d1f2119ef3ea30a38b3a346ac947dfd4c3ed8b17e032084d27a86fc329543ac6"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/payment-filled.png",
+    "bytes": 166832,
+    "sha256": "24d04a0637acf9019328e3503b738b0c2db8a5ed0b81c028368ef6666aee16a5"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/payment-form.png",
+    "bytes": 168534,
+    "sha256": "2bbc41a0a81a9cf7347973bf2f08999d9c70df358d5791f530f5471953740275"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/pointer-events.json",
+    "bytes": 52304,
+    "sha256": "7a29c4d890265c5b0395dadd4378f960fc8b87c76cd5dfeb94fde880c36d6839"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/profile.png",
+    "bytes": 77286,
+    "sha256": "b5f3f5e155c7e5a01e59b9d5296d3527abd1180017e33cbb1d0f6650b59f9087"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 6313186,
+    "sha256": "c98bef5e4fb4154aa8dbdb3b06e8469c995e3380c632525524174e7a0fdf564b"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/search-start.png",
+    "bytes": 109619,
+    "sha256": "69acebf217b070bb354edba1328d1f7826461862ad326b32f5b81475d54bb895"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/security.png",
+    "bytes": 77403,
+    "sha256": "e7ba6f2842220b22407e72084f78d1a0aa9b0444a1073a98479fe56466fdeba9"
+  },
+  {
+    "path": "client/promo-energy/referral-capture/tooth.png",
+    "bytes": 156398,
+    "sha256": "1bcfac3fc58c17fb90d0dbee8cd642c675c7a14328fc0bf891bc95fb3538b203"
+  },
+  {
+    "path": "client/promo-energy/render-60s.py",
+    "bytes": 16152,
+    "sha256": "dc4f6b3818ab78147c2ed7edfb3b0947401ee4bda50bff684ed28d312b98aa1d"
+  },
+  {
+    "path": "client/promo-energy/render.py",
+    "bytes": 19538,
+    "sha256": "82daabd44b1482509bd01910e85ea133949d59d33dcc0489e884163ded65882f"
+  },
+  {
+    "path": "client/promo-energy/reveal.png",
+    "bytes": 119507,
+    "sha256": "01a7bb9c33012feb04db64836d79fdd6ccd912d5240be44f3cdc1fa6858bcb8f"
+  },
+  {
+    "path": "client/promo-energy/review-final.jpg",
+    "bytes": 344188,
+    "sha256": "94f79ebd1418a15f95da4f43d9826808f71d63476da6ea6929ba15c40a1853fd"
+  },
+  {
+    "path": "client/promo-energy/review-frame-0.jpg",
+    "bytes": 18390,
+    "sha256": "f6eb8a78bb16970eda65773da79f2c8b1fae367d2af1473f16e8b88358df62df"
+  },
+  {
+    "path": "client/promo-energy/review-frame-1.jpg",
+    "bytes": 17723,
+    "sha256": "3f346cb5c28e8116631bfee2ceaab64e078f7422f540bbd0706a6a473f0ac133"
+  },
+  {
+    "path": "client/promo-energy/review-frame-10.jpg",
+    "bytes": 10631,
+    "sha256": "f58cd024a3d0f0bd64427081d3acb54c2ed111c1b865ddb7665e7e9b1e0b8524"
+  },
+  {
+    "path": "client/promo-energy/review-frame-11.jpg",
+    "bytes": 13489,
+    "sha256": "dd9ca31819ab44b9c5baf7126956a401357997d5c4971b34bdc13fdfffbf910e"
+  },
+  {
+    "path": "client/promo-energy/review-frame-12.jpg",
+    "bytes": 13185,
+    "sha256": "2937ae3aa4ad4ba0847de40764a776ce87f13f6bbd9be04778f6e3ff4a89af73"
+  },
+  {
+    "path": "client/promo-energy/review-frame-13.jpg",
+    "bytes": 18810,
+    "sha256": "503daccc1019e5efd733a8340f31500747d83b8184b5ae4f149ef7723028407a"
+  },
+  {
+    "path": "client/promo-energy/review-frame-14.jpg",
+    "bytes": 16302,
+    "sha256": "c425ab1bbc57e8af3f5204d9976923f1425c0a89ce8419b91d4ac68b9f86c6de"
+  },
+  {
+    "path": "client/promo-energy/review-frame-15.jpg",
+    "bytes": 16457,
+    "sha256": "602767e54b80e4ded9e5a66b48c0d3a656a62d936bfe62f57d6c9a176a2ceca2"
+  },
+  {
+    "path": "client/promo-energy/review-frame-16.jpg",
+    "bytes": 20280,
+    "sha256": "3c4373f17c9edb90f17443e21f7a4b21cde061060acb7490569d4bf2b3111b4f"
+  },
+  {
+    "path": "client/promo-energy/review-frame-17.jpg",
+    "bytes": 9333,
+    "sha256": "6162152d43f44e90df70050933595d6ef9b504f8ee0d1cc332c6095baf7d4bf3"
+  },
+  {
+    "path": "client/promo-energy/review-frame-18.jpg",
+    "bytes": 13382,
+    "sha256": "8a0735cc895b341f5fac2058bd9b16e709c2726601fbe604325b5863766a9b82"
+  },
+  {
+    "path": "client/promo-energy/review-frame-19.jpg",
+    "bytes": 11094,
+    "sha256": "d47f91efe82fce2e38c5f248a957786f9b48c487c81927d1be514e1e6d1d9b4c"
+  },
+  {
+    "path": "client/promo-energy/review-frame-2.jpg",
+    "bytes": 16364,
+    "sha256": "ccf1758fc9d837b0c9d73844104b822a721ec12398fcf89413648d86c56d14b4"
+  },
+  {
+    "path": "client/promo-energy/review-frame-20.jpg",
+    "bytes": 11032,
+    "sha256": "403dd0b5a3e56d9a685987e64d94e8337588e6bfdfc9b6c3a8184644fcd99cca"
+  },
+  {
+    "path": "client/promo-energy/review-frame-21.jpg",
+    "bytes": 10268,
+    "sha256": "865434ea33f2b0b4c75bf32ad7e4ea187259b6beb351f9d1b10d9985ec3d513d"
+  },
+  {
+    "path": "client/promo-energy/review-frame-22.jpg",
+    "bytes": 11314,
+    "sha256": "3fbebe70c48bf25903d224d642a892d049fae25e865ed4704cf8d23083318a5f"
+  },
+  {
+    "path": "client/promo-energy/review-frame-3.jpg",
+    "bytes": 15682,
+    "sha256": "a73bca143cc5d976187507036b7e61f7e92bfaef013a8e22cf81a07e25eb0ed7"
+  },
+  {
+    "path": "client/promo-energy/review-frame-4.jpg",
+    "bytes": 9600,
+    "sha256": "a340bd0e09191f220c6317d172e97f9489a7beb16362b3ceac7ac528e3483614"
+  },
+  {
+    "path": "client/promo-energy/review-frame-5.jpg",
+    "bytes": 7443,
+    "sha256": "ede77bb1f295fdc3304e6b04760d99c1aa2f08378d8cf06cb7904705c2a64d8d"
+  },
+  {
+    "path": "client/promo-energy/review-frame-6.jpg",
+    "bytes": 14787,
+    "sha256": "5aa65a5c0d5cab511dc27af89de42c3ec2b1d3cf7a671cc2796684ed51e3000c"
+  },
+  {
+    "path": "client/promo-energy/review-frame-7.jpg",
+    "bytes": 8803,
+    "sha256": "f395679c70548d417ac7f69494b69045296ace8344b85aaf0b4ca75b7e4a6a57"
+  },
+  {
+    "path": "client/promo-energy/review-frame-8.jpg",
+    "bytes": 10300,
+    "sha256": "85000caffdb6039a5e0a5774cd2e3c447bf0228c56a5d0a4fc4ca7b626c1d118"
+  },
+  {
+    "path": "client/promo-energy/review-frame-9.jpg",
+    "bytes": 20198,
+    "sha256": "0075b6000e76245890fc3e59f03a69919a8f24131945267eea8099e4c71a8195"
+  },
+  {
+    "path": "client/promo-energy/review.jpg",
+    "bytes": 322557,
+    "sha256": "7260b00d71204c117e24ada3b512676fc759aeb0848f553de84dbfa5d98f822d"
+  },
+  {
+    "path": "client/promo-energy/search-result.png",
+    "bytes": 63100,
+    "sha256": "5234ce732aff50b8de50ab7b5f49e04f94e55e41f3c8f4f313866b9dfa5892b0"
+  },
+  {
+    "path": "client/promo-energy/search-start.png",
+    "bytes": 109619,
+    "sha256": "69acebf217b070bb354edba1328d1f7826461862ad326b32f5b81475d54bb895"
+  },
+  {
+    "path": "client/promo-energy/security.png",
+    "bytes": 77404,
+    "sha256": "123db27f436408d2e22d0f7aaec1189f1a7113983f3ae370cad81fba8b24212d"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/capture-markers.json",
+    "bytes": 208,
+    "sha256": "57d3221e0f54a1303f644593e850956aabc0fd8a599582ac5d37db3b482e0138"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/profile.png",
+    "bytes": 41388,
+    "sha256": "e777278a6711109a14b6a407647e6245c89d171a5aa132bf69f8cf542750d8ce"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/raw/.last-run.json",
+    "bytes": 96,
+    "sha256": "11d2e3986d730f5c2c4b87c6ed260e57da4fde70a0b6733d970c999cd7a4bed1"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/raw/story-Paolo-returning-patient-story/error-context.md",
+    "bytes": 19631,
+    "sha256": "66bbf4a00a646d38af186969158115f17d2c0af1c68a81a6b379b3d1d760744b"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/raw/story-Paolo-returning-patient-story/test-failed-1.png",
+    "bytes": 77285,
+    "sha256": "630671e6ad25e2139975bc9dc1131f0927090e125456b964eca7059dcb925d46"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/raw/story-Paolo-returning-patient-story/video.webm",
+    "bytes": 7071504,
+    "sha256": "1c7d55ff12c64e71f7b0c12b663d1f8e0b913c7785a7531da341be0f4192910a"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/search-result.png",
+    "bytes": 63098,
+    "sha256": "fe23bd0e84e94d5e8d8ad15928c91e55cf99c5462a3da81dad11f9d01d5646df"
+  },
+  {
+    "path": "client/promo-energy/smooth-treatment-capture/search-start.png",
+    "bytes": 105326,
+    "sha256": "5bfdb1e4d220c44fdb057450932f585a582810d59d6065742dd6852a4e2f5c7c"
+  },
+  {
+    "path": "client/promo-energy/sound-events.json",
+    "bytes": 2447,
+    "sha256": "dbb0f3ed69e139485f27be871834c1ada99bbe2ae2241c97dd8937f81ce762e7"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-0.jpg",
+    "bytes": 13914,
+    "sha256": "cedbf0b565c13697ba9e295c9da193b017dc351dc7b58254c73b168acbe52f03"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-1.jpg",
+    "bytes": 19941,
+    "sha256": "3533ebd62b7d16aa8d05e35892c5b415648dfa09eeede46cc107db0c2904f8b7"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-2.jpg",
+    "bytes": 14486,
+    "sha256": "2b659e1b116b48b664e558715c39020ddce30548f2b037fc290b507f2322b58c"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-3.jpg",
+    "bytes": 15278,
+    "sha256": "e7f94891dd1bf1c31987b4fd1682d53869e50de806a34e1854175cae73cdf43e"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-4.jpg",
+    "bytes": 16156,
+    "sha256": "34bfca0b8baa004041d447b4ac9fae9544706e1cc99b97a3de94ee17f9ef15ba"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-5.jpg",
+    "bytes": 9642,
+    "sha256": "bd804cb7238199a8a6f0f9a6f48807ff40b2fe60c2f8336cdb3397ea29eb5a95"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-6.jpg",
+    "bytes": 9394,
+    "sha256": "71038a01682ea2eb211773e72e9ac3aac4110fb1909cfc54171a7299b657c573"
+  },
+  {
+    "path": "client/promo-energy/sync-frame-7.jpg",
+    "bytes": 11310,
+    "sha256": "1f386807ef5931a245a8e1be0ad292a23d2b5fc83e531b164a024d84098b60ef"
+  },
+  {
+    "path": "client/promo-energy/sync-review.jpg",
+    "bytes": 126773,
+    "sha256": "d76fc53057e42c64fdcfdb4db0949e85df43aeedf4a2a6d636497ce572eac7b9"
+  },
+  {
+    "path": "client/promo-energy/sync-timing.json",
+    "bytes": 187,
+    "sha256": "b700cacab6fae36c21e493787c14afe11a262fe4f968054f930961d8eb1a652b"
+  },
+  {
+    "path": "client/promo-energy/tooth.png",
+    "bytes": 156544,
+    "sha256": "c6685628277f5cd6ec8382736cb02949f95c4dfa77e94d10ec510234ba9a5a5d"
+  },
+  {
+    "path": "client/promo-energy/updated-balance.jpg",
+    "bytes": 34674,
+    "sha256": "2241c4a62adc01c4cf7c3da8097b31177e8482b02de67ed25c86e11540bc2913"
+  },
+  {
+    "path": "client/promo-energy/v2-review-0.jpg",
+    "bytes": 65190,
+    "sha256": "987ff6b5884da2fdf3c1f96c6bf7203e46e6745745f9c045c4ea8e7dc230bdf2"
+  },
+  {
+    "path": "client/promo-energy/v2-review-1.jpg",
+    "bytes": 67516,
+    "sha256": "8c9e96e0b1537433a1e7c4b65ff8495ccb5e45294bc2d346ed4808ff74e65bfe"
+  },
+  {
+    "path": "client/promo-energy/v2-review-2.jpg",
+    "bytes": 68775,
+    "sha256": "1d91ee6b693c15f438028f2954152f0529fd24d2f3761146685b6724d856ce8b"
+  },
+  {
+    "path": "client/promo-energy/v2-review-3.jpg",
+    "bytes": 67824,
+    "sha256": "07e0729e293239cb976438895483ea3785992d876cfb0580bfde298211775929"
+  },
+  {
+    "path": "client/promo-energy/v2-review-4.jpg",
+    "bytes": 74701,
+    "sha256": "3151dce82b780a4f53605183f256cc03ba97e4687c44f3b46f31a86ef7438e2b"
+  },
+  {
+    "path": "client/promo-energy/v2-review-5.jpg",
+    "bytes": 53789,
+    "sha256": "5103c4d602eb4bffb737b3e16b2f1f4e6119d83bc24803a6f0acf9c1561fb579"
+  },
+  {
+    "path": "client/promo-energy/v2-treatment-review.jpg",
+    "bytes": 103739,
+    "sha256": "533f93de7a3422395d35b480381a38752442c0e122ad6efcde8befd1c08a70e0"
+  },
+  {
+    "path": "client/promo-energy/verification-v2.txt",
+    "bytes": 2584,
+    "sha256": "b6e209b677bab7500c034eb79bd7ddf21049002bb02ec03cbaec13bb64b50c9d"
+  },
+  {
+    "path": "client/promo-energy/verification.txt",
+    "bytes": 3189,
+    "sha256": "7eb7b08e1416dfd1a6a12680d4975cfbc1ff206706bd6ea3804c4161a25af63f"
+  },
+  {
+    "path": "client/promo-energy/voice-0-words.json",
+    "bytes": 2642,
+    "sha256": "3f1b9f6a7fb3a8a16ded4cd509f432e31f72a179fc1c9860a1b3a08b54120af2"
+  },
+  {
+    "path": "client/promo-energy/voice-0.mp3",
+    "bytes": 56736,
+    "sha256": "b5471333713286bb80c7c8e4bb8072d8ea1db300b0c8c2e6ef895af5f97e7bf8"
+  },
+  {
+    "path": "client/promo-energy/voice-1-words.json",
+    "bytes": 2419,
+    "sha256": "8fceda8ee95c3e911e1e5344a9a2ec5cd9ab423099c50fe1531c1fd013ef08b5"
+  },
+  {
+    "path": "client/promo-energy/voice-1.mp3",
+    "bytes": 44352,
+    "sha256": "3821e53a831dd6498ef3d822af49aa08a69614975850e28354385a8308ae4aa9"
+  },
+  {
+    "path": "client/promo-energy/voice-10-words.json",
+    "bytes": 844,
+    "sha256": "d61547cc7f32a923da7a6a90e46e4a8feaf9ebe6ec58fb3fb27b51e3bb4e613b"
+  },
+  {
+    "path": "client/promo-energy/voice-10.mp3",
+    "bytes": 19584,
+    "sha256": "0ae928d6fd9fdda5cfdfb3e927074b14d30d0228832851d53040f26f48f210da"
+  },
+  {
+    "path": "client/promo-energy/voice-11-words.json",
+    "bytes": 2129,
+    "sha256": "f03476f7daa631633aad788e1bbc9f112f933054371630397f6d931cf6689a2b"
+  },
+  {
+    "path": "client/promo-energy/voice-11.mp3",
+    "bytes": 50976,
+    "sha256": "04074f4b8157ca646d2f77da376c08f8ec31d8c6156d1ad9f29d042ec46151a3"
+  },
+  {
+    "path": "client/promo-energy/voice-12-words.json",
+    "bytes": 2224,
+    "sha256": "fcfcb07f8b11a9a0a723649301956f8d7e95deb7b6b781d9bc800fd6a6459e5f"
+  },
+  {
+    "path": "client/promo-energy/voice-12.mp3",
+    "bytes": 51984,
+    "sha256": "205d81b964fc5c7514a61292803c8961f228faaf649816c8a357aa14d42f7971"
+  },
+  {
+    "path": "client/promo-energy/voice-13-words.json",
+    "bytes": 3389,
+    "sha256": "febf731e471c224092e158cafaff9c8d7391b67bdf1217c972fbf540508629d2"
+  },
+  {
+    "path": "client/promo-energy/voice-13.mp3",
+    "bytes": 73728,
+    "sha256": "b9a3eed053939b9adb4599fc1d98945f68eb5eba6ba61a624dc81a944a473d71"
+  },
+  {
+    "path": "client/promo-energy/voice-14.mp3",
+    "bytes": 34272,
+    "sha256": "c6b8102bbfafe0c2bba00366e79f5f91ad0799c08350fdb7970e437f686f3bae"
+  },
+  {
+    "path": "client/promo-energy/voice-2-words.json",
+    "bytes": 1169,
+    "sha256": "5a670633d5a632ca05d7773339d6b8b271dc1eefe17f3576422f155eaf3e43f6"
+  },
+  {
+    "path": "client/promo-energy/voice-2.mp3",
+    "bytes": 30816,
+    "sha256": "c3229727554d6dc5e6d74a97682e26a1102961865e070dc928c28efaa914dafb"
+  },
+  {
+    "path": "client/promo-energy/voice-3-words.json",
+    "bytes": 1274,
+    "sha256": "7061a4ab22f906bed83122da2011694ff94fc63c533e0cff98002a85e8dd1ea3"
+  },
+  {
+    "path": "client/promo-energy/voice-3.mp3",
+    "bytes": 26640,
+    "sha256": "2900892d90b8feedb3977dafece8d00be158d499706b3d15457e5f60b7d020d2"
+  },
+  {
+    "path": "client/promo-energy/voice-4-words.json",
+    "bytes": 739,
+    "sha256": "53eb36833911ca6ee3cfa878e72b400ab6c709c96e1d96ebdc7692a00f307163"
+  },
+  {
+    "path": "client/promo-energy/voice-4.mp3",
+    "bytes": 14112,
+    "sha256": "04cd764de500f2d26a9c9d85aebb2647ea1b708ca7414fc939c212b262eb7d24"
+  },
+  {
+    "path": "client/promo-energy/voice-5-words.json",
+    "bytes": 2341,
+    "sha256": "dc3e6efab351dc03bc63f77375324ef7651d8996cc429dc25e84b00676978c4d"
+  },
+  {
+    "path": "client/promo-energy/voice-5.mp3",
+    "bytes": 53568,
+    "sha256": "a3f604758e3c5f454f969f105a6bf8b716adf26167b19b9eb8d59b71b1f0bffa"
+  },
+  {
+    "path": "client/promo-energy/voice-6-words.json",
+    "bytes": 641,
+    "sha256": "5e4987436bbb96dc7574308197d59670bd91aa3db04a6e33be6f70ad5b1dd22a"
+  },
+  {
+    "path": "client/promo-energy/voice-6.mp3",
+    "bytes": 19008,
+    "sha256": "8e39ca0355985c02c3b583a9ed773eba5685da19fb11df206b1713c385098f62"
+  },
+  {
+    "path": "client/promo-energy/voice-7-words.json",
+    "bytes": 1908,
+    "sha256": "6e8562dc5ce7bcaef3fc4e128265cd98e8625fc695cccc0c226b1e0e9d284d94"
+  },
+  {
+    "path": "client/promo-energy/voice-7.mp3",
+    "bytes": 46224,
+    "sha256": "aade4459ee09bc2f8035f3aa9fbbb78b10fa146567ac780f5989a45a0a4896cc"
+  },
+  {
+    "path": "client/promo-energy/voice-8-words.json",
+    "bytes": 1913,
+    "sha256": "ec647b526fb44a34c0983fbce7a8b9c1ac080d439b91acc1f39f1e53390e04cf"
+  },
+  {
+    "path": "client/promo-energy/voice-8.mp3",
+    "bytes": 42192,
+    "sha256": "dbe12d843507048762771a9d734f07ce760e639500d26314eb9f4ef9bb17f614"
+  },
+  {
+    "path": "client/promo-energy/voice-9-words.json",
+    "bytes": 642,
+    "sha256": "bb994fc2b7711f64d2286ce63bdfbfbe8ca2215634fc6e6d30227cd4e0bdddc1"
+  },
+  {
+    "path": "client/promo-energy/voice-9.mp3",
+    "bytes": 21168,
+    "sha256": "b3a06c47a3affa47a2907e9a9abdee0f5ed42c89f396c47f5662572109da8b18"
+  },
+  {
+    "path": "client/promo-story/DenClick-Story-60s-previous-audio.mp4",
+    "bytes": 4684765,
+    "sha256": "97a5787874b47490d0ba423f405789d1589a6f72cf386b61b591a37bd06b5aa5"
+  },
+  {
+    "path": "client/promo-story/DenClick-Story-60s.mp4",
+    "bytes": 4557180,
+    "sha256": "2d1e7b439d7080679375a4a6e8454e3cdb6cccfaa7d03ff8c4f5300c75c9a36a"
+  },
+  {
+    "path": "client/promo-story/DenClick-Story.srt",
+    "bytes": 1373,
+    "sha256": "dbac59399532114a559e91780d87670b702056245f43cf5c90d456d8f76a07ad"
+  },
+  {
+    "path": "client/promo-story/DenClick-Story.vtt",
+    "bytes": 1381,
+    "sha256": "ac962e424c128e17035b4e1a50e8ec7e9086a668681c93d7b420155cbd066bac"
+  },
+  {
+    "path": "client/promo-story/README.md",
+    "bytes": 3235,
+    "sha256": "46dd55b0f7545fefddbd12c88e77ef207d000c9bb730e7bc4149e9cfe6f7ac7e"
+  },
+  {
+    "path": "client/promo-story/appointment-detail.png",
+    "bytes": 177496,
+    "sha256": "e10dc5eb931be7de45cbb1c797c995cc6e4a876f51786d7654330c34270ffd20"
+  },
+  {
+    "path": "client/promo-story/appointments.png",
+    "bytes": 69409,
+    "sha256": "7214cccbd93ca35b02774971e7fe93ff739ab48d5f9a24a6afa9cd2bb1b3d15f"
+  },
+  {
+    "path": "client/promo-story/assets/clinic-opening.png",
+    "bytes": 1820270,
+    "sha256": "804d1d4a6a272dc9383b21034fc07f7ed98a49c4a2eaae5f73bfe422b8dda4f9"
+  },
+  {
+    "path": "client/promo-story/assets/patient-card.png",
+    "bytes": 1726750,
+    "sha256": "f4b10b40be5451dbe92efdd3f39f4d82751fdbd760a6f81a0d0b774065981285"
+  },
+  {
+    "path": "client/promo-story/assets/prompts.md",
+    "bytes": 2154,
+    "sha256": "fc82afd8e3d4483ec906bcc7b5d512f407bc2e92d70684ed454fee4ab96ca3a2"
+  },
+  {
+    "path": "client/promo-story/attachments.png",
+    "bytes": 70435,
+    "sha256": "69a3d97f60306ef208b9960548a5ff6425271eb9a8e1dff42646bcfb9dbc92ac"
+  },
+  {
+    "path": "client/promo-story/audio-check.json",
+    "bytes": 1738,
+    "sha256": "fb62d87e39a5b7c798f107d10abe585c0f3c4f2f167261e332605f5a490a0283"
+  },
+  {
+    "path": "client/promo-story/balance-after.png",
+    "bytes": 93739,
+    "sha256": "a46e0ecd8f2c3c74a80fce43cc3783421ff831f62716c7903381390a989efe1a"
+  },
+  {
+    "path": "client/promo-story/balance-before.png",
+    "bytes": 81677,
+    "sha256": "1e72e493acd0ae0255d155e13fa969727b168bf33e9f86400f7f588bd67c2672"
+  },
+  {
+    "path": "client/promo-story/calendar.png",
+    "bytes": 106009,
+    "sha256": "d9035ed48d71b8abed3fbf87463379d5110e17bfb1c26298b6c187712dd34a66"
+  },
+  {
+    "path": "client/promo-story/caption-check-0.jpg",
+    "bytes": 15919,
+    "sha256": "7161de115d728cd45f1b32047511ffc6819fbea5633b047344c57b749900a118"
+  },
+  {
+    "path": "client/promo-story/caption-check-1.jpg",
+    "bytes": 21380,
+    "sha256": "d21ab475caf486798ce35dc0b5b691f6961ea3dc913423e4816c3fc16839b57a"
+  },
+  {
+    "path": "client/promo-story/caption-check-2.jpg",
+    "bytes": 21416,
+    "sha256": "8c59d51fd0958882c2993b7e739cd38675fbdf7ecbbe88e9e2e547b3fb209ae1"
+  },
+  {
+    "path": "client/promo-story/caption-check-3.jpg",
+    "bytes": 21771,
+    "sha256": "04537fbc04755e95fe8d720a9ca5328d071771e8b3763c3517d940cd6d8d2067"
+  },
+  {
+    "path": "client/promo-story/caption-no-background.jpg",
+    "bytes": 22223,
+    "sha256": "9fef2bb10e8a886a839f9083d16f8d18ea6e02258a3ffee31545398192494bc6"
+  },
+  {
+    "path": "client/promo-story/caption-review.jpg",
+    "bytes": 106562,
+    "sha256": "616c1d01c0bd215110fc6a1c40f13084a32d12888f77dcd359e87996f3303d48"
+  },
+  {
+    "path": "client/promo-story/capture-markers.json",
+    "bytes": 1192,
+    "sha256": "2a3abb18c78166caddfce7bc16587a2098a3d3bd21390cbdbd4abd2a5190b6f2"
+  },
+  {
+    "path": "client/promo-story/chart.png",
+    "bytes": 85022,
+    "sha256": "2c6d47611141b03fcffd4c18337c9ab7664ea6228362ff7caae1e1452fe22f3a"
+  },
+  {
+    "path": "client/promo-story/concat.txt",
+    "bytes": 413,
+    "sha256": "aa0239fb73e1d4e5f23255b8a619a1ad9920708e6267c8932ff59c6de0eb34a2"
+  },
+  {
+    "path": "client/promo-story/cta.png",
+    "bytes": 194824,
+    "sha256": "98c3bc5287144958182315126b2bb1e3de352b4e02f73c19a190e9282fe5675d"
+  },
+  {
+    "path": "client/promo-story/cut-00.mp4",
+    "bytes": 565550,
+    "sha256": "9d30f6c242594aa1d74207921ebf8944766ca9d1579473a2de249f4c18c3d34b"
+  },
+  {
+    "path": "client/promo-story/cut-01.mp4",
+    "bytes": 506299,
+    "sha256": "67f173fb39d8b1427a34dbff70dfd4673ef4710de7eb140f828e7f35e230695a"
+  },
+  {
+    "path": "client/promo-story/cut-02.mp4",
+    "bytes": 347392,
+    "sha256": "fe27f9ff54609f0fa4ea2c0e65757f4750959d41bdce8fa5db4c6b54a3caafd3"
+  },
+  {
+    "path": "client/promo-story/cut-03.mp4",
+    "bytes": 122096,
+    "sha256": "db4da4d576cc9d4f497e1063baf6297f18bcf6f368fef19e60e5231f3e918a62"
+  },
+  {
+    "path": "client/promo-story/cut-04.mp4",
+    "bytes": 48592,
+    "sha256": "e08d6c5cf69929c5762d227839acd735059c939b0e0684df4cd4e12797a2b03c"
+  },
+  {
+    "path": "client/promo-story/cut-05.mp4",
+    "bytes": 108137,
+    "sha256": "e0a1b08dbb5cd4dd19d7a4a888a43d497a0fb1baeb7614e00db351d3687771ae"
+  },
+  {
+    "path": "client/promo-story/cut-06.mp4",
+    "bytes": 110192,
+    "sha256": "b9ef324c599cdb6500759c75f571eb3bbe216855bcb36d141b65ab6236557332"
+  },
+  {
+    "path": "client/promo-story/cut-07.mp4",
+    "bytes": 48144,
+    "sha256": "d01396ac499a87f66a7d6f86358c4e8eb8214a323359b304d175b63b198dd945"
+  },
+  {
+    "path": "client/promo-story/cut-08.mp4",
+    "bytes": 111510,
+    "sha256": "d762e1ff9ad01bf7c1834694f3e348e4b54cf5b2e6965c9ea5de5e80e0326688"
+  },
+  {
+    "path": "client/promo-story/cut-09.mp4",
+    "bytes": 146354,
+    "sha256": "1f58fe77286e722f674d39ba3180fb82758d92ab7996ed7db1ff23ae54b4f0a6"
+  },
+  {
+    "path": "client/promo-story/cut-10.mp4",
+    "bytes": 49902,
+    "sha256": "1f1cff44051fb308ae308ed67744a0eafdfcfb31b1c5a36ac8c2302250462727"
+  },
+  {
+    "path": "client/promo-story/cut-11.mp4",
+    "bytes": 76748,
+    "sha256": "dce649e6e69adaeb5a153f261190ef629615b6e435d72944e259f0f69a1d6419"
+  },
+  {
+    "path": "client/promo-story/cut-12.mp4",
+    "bytes": 59424,
+    "sha256": "057f9f86fc479a32d705915521215c702fe89fa99d3936299aa47b278aa4877c"
+  },
+  {
+    "path": "client/promo-story/cut-13.mp4",
+    "bytes": 44327,
+    "sha256": "25352ced7d04a728a5e434954ba183324aba8e326acef65d4502b491ba1e9c73"
+  },
+  {
+    "path": "client/promo-story/cut-14.mp4",
+    "bytes": 47818,
+    "sha256": "61d2448e02d01ffbc6778068e1bd4167de993d3b1f1ee3b45b35a360ec660963"
+  },
+  {
+    "path": "client/promo-story/cut-15.mp4",
+    "bytes": 103645,
+    "sha256": "f81bf92e087c37ba0246db5de5926c6489dbd2386e59206f1a84bcc77833fcd6"
+  },
+  {
+    "path": "client/promo-story/cut-16.mp4",
+    "bytes": 165727,
+    "sha256": "62d5830ed6db63da6d6c47d3d92aab5d569ec137e036f2dc2bad191901230569"
+  },
+  {
+    "path": "client/promo-story/cut-17.mp4",
+    "bytes": 102597,
+    "sha256": "687968980fac79af37882302707401a58ee71949c98a5df43d10a4608fbafb2f"
+  },
+  {
+    "path": "client/promo-story/cut-18.mp4",
+    "bytes": 60391,
+    "sha256": "35e20bf061dcd9a970e3889ea756e61ab694fc4e66f58ffa2ee3a95849e64a08"
+  },
+  {
+    "path": "client/promo-story/cut-19.mp4",
+    "bytes": 126314,
+    "sha256": "5dfa29d77d4c13e92a5eefd41bcd1a8763d9493220f9e0ee26e0711ef8890412"
+  },
+  {
+    "path": "client/promo-story/cut-20.mp4",
+    "bytes": 54307,
+    "sha256": "3c64ec9f6636abebfb1cbd9b73258b7ec2ab287486dd7bea8b2ade76ea682d37"
+  },
+  {
+    "path": "client/promo-story/cut-21.mp4",
+    "bytes": 53924,
+    "sha256": "b08f3a7762655903dd71e78b0569fb98442a8e2e2125467b4a3ea6503d80e151"
+  },
+  {
+    "path": "client/promo-story/cut-22.mp4",
+    "bytes": 46417,
+    "sha256": "6ea71e1044a34cb736be2cc217dbc968ef884aa74ba1613700038163280b5161"
+  },
+  {
+    "path": "client/promo-story/dashboard.png",
+    "bytes": 99867,
+    "sha256": "b3ff9bf134ac1613e2433cc18e0eb11d6a2fc0dcde34b46fe58f0e69fc377d73"
+  },
+  {
+    "path": "client/promo-story/edit-timeline.json",
+    "bytes": 6214,
+    "sha256": "3289b9cfd8b9d7cd123f1c072437743cf30c739393f8300a516ea33be0065b86"
+  },
+  {
+    "path": "client/promo-story/final-script.md",
+    "bytes": 985,
+    "sha256": "557bc82d2531c670be27d50590ffa68c98eb4f536d7ceccd765e79010f6861d1"
+  },
+  {
+    "path": "client/promo-story/history.png",
+    "bytes": 69341,
+    "sha256": "79f735db3d7c2ce9e1fb66884cd032994f1276f67ff790dc5974569c66b67e3b"
+  },
+  {
+    "path": "client/promo-story/index.html",
+    "bytes": 1080,
+    "sha256": "ab7f5c01d537fa5a73e5307f71aabd7b858022c348e39d4fb1eebf1f1ddaeef0"
+  },
+  {
+    "path": "client/promo-story/mix.wav",
+    "bytes": 11520044,
+    "sha256": "dc0442e89c42a289ae646de5d4bfeb8873944e6d1f77035bb37fd41d20252382"
+  },
+  {
+    "path": "client/promo-story/narrate.py",
+    "bytes": 1303,
+    "sha256": "1a79e89c2fcfbc23af28b3094d82e9e071a444ef31360e5c5e63971bcf40e9c5"
+  },
+  {
+    "path": "client/promo-story/narration.json",
+    "bytes": 1241,
+    "sha256": "f3fd8cd67c2ce6e5d523b7d74533deecb042c654fe3d1beea31357a0e0c180cf"
+  },
+  {
+    "path": "client/promo-story/offer.png",
+    "bytes": 203970,
+    "sha256": "3aee50ab45d527bd44b43b858248e0a12a4db6471385a7f0e3d5013bbc30a25c"
+  },
+  {
+    "path": "client/promo-story/payment-confirm.png",
+    "bytes": 148085,
+    "sha256": "aedeaff9020f811001161cfd05a951a29e6edcc0bee670f582fa989d2423c67b"
+  },
+  {
+    "path": "client/promo-story/payment-filled.png",
+    "bytes": 165809,
+    "sha256": "21426597c534f24f5d51ffed9cbdd60f316f409137f2e01e17d45dd88b56d719"
+  },
+  {
+    "path": "client/promo-story/payment-form.png",
+    "bytes": 166958,
+    "sha256": "f61028c22f853173e373418322f9e0e4aeac95a94d033a898337f5bc6b746696"
+  },
+  {
+    "path": "client/promo-story/poster.jpg",
+    "bytes": 330417,
+    "sha256": "f34b4374a9ffb57f9a91ed806f11daa063e4a7a33a6adc020e2878ad0aba0381"
+  },
+  {
+    "path": "client/promo-story/profile.png",
+    "bytes": 75570,
+    "sha256": "3b75a11e57d44f473b051fc573b33ba909ac99e12504eabf82833a24b746f208"
+  },
+  {
+    "path": "client/promo-story/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "e22df5d0991eb28c09093b1e678b3fa8cd1fab48185d38e67cf79fb6e63ad5ea"
+  },
+  {
+    "path": "client/promo-story/render.py",
+    "bytes": 10267,
+    "sha256": "1be5dbc4cd7a504d02501e3f1e20c01a0e6c23f9cf9ae48bb45c781b4f19d9a0"
+  },
+  {
+    "path": "client/promo-story/review.jpg",
+    "bytes": 584571,
+    "sha256": "9470fc3a61175d7bb883a1d0080ebe670daa1d2d7a2dd430b97645645c8289dc"
+  },
+  {
+    "path": "client/promo-story/search-result.png",
+    "bytes": 61522,
+    "sha256": "a401003fc19725ff04c9cf4649cf9bdcd784fa3b57ef1582862fda4960de2ccc"
+  },
+  {
+    "path": "client/promo-story/search-start.png",
+    "bytes": 108048,
+    "sha256": "c1e979dbea59f70d5cea2866deb562bd6a91b356b4fff24ec55f3ad9ea9c0bea"
+  },
+  {
+    "path": "client/promo-story/security.png",
+    "bytes": 75629,
+    "sha256": "82d656f28587e3d2548a505321cb5c95a59ee2770d487610337d805bd938512b"
+  },
+  {
+    "path": "client/promo-story/text-0.png",
+    "bytes": 37287,
+    "sha256": "ebd67956360bac0dc097061e44ab4687aed40599f037a127c0ad11d05e45954b"
+  },
+  {
+    "path": "client/promo-story/text-1.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-10.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-11.png",
+    "bytes": 13106,
+    "sha256": "5d23ee60b852cce994d3272132c388faa32c73516f74fe666af8a6a1c84fc275"
+  },
+  {
+    "path": "client/promo-story/text-12.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-13.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-14.png",
+    "bytes": 13913,
+    "sha256": "6dcacad8a7cb263b9f8603f986de132b9738c85245a3274d593555be6280d629"
+  },
+  {
+    "path": "client/promo-story/text-15.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-16.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-17.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-18.png",
+    "bytes": 15397,
+    "sha256": "752fe30cd9117ca65c01d9242b6b6afa2a1a4443faf5dcf988849da771a59ce3"
+  },
+  {
+    "path": "client/promo-story/text-19.png",
+    "bytes": 15102,
+    "sha256": "bac9cee595060f681b5e2eb5e13601b7e848fd72fecfba2381dc6127b62390cf"
+  },
+  {
+    "path": "client/promo-story/text-2.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-20.png",
+    "bytes": 14580,
+    "sha256": "598c6741ad98fc3efd3fcbdfa51831c1e428ed1bc63ebf35945d32b978357e26"
+  },
+  {
+    "path": "client/promo-story/text-21.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-22.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-3.png",
+    "bytes": 14145,
+    "sha256": "7ba895fd606ad8108285b741aa24537ce723c0df53d0c343649e68f70448532c"
+  },
+  {
+    "path": "client/promo-story/text-4.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-5.png",
+    "bytes": 13281,
+    "sha256": "b94481fd0f1f6b4ce73b826ff9c1c517cefb662578d35bc699a8ec28b1e7dc6b"
+  },
+  {
+    "path": "client/promo-story/text-6.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/text-7.png",
+    "bytes": 15186,
+    "sha256": "b69c26a7e3ee536446bc966d868e7c9266b6eb035fb75dc9c6440417e8269244"
+  },
+  {
+    "path": "client/promo-story/text-8.png",
+    "bytes": 13359,
+    "sha256": "74f890e3ea8e458c908fbcbdb7aa11d52fe6a23906bafc2c23e5ce98dde600f6"
+  },
+  {
+    "path": "client/promo-story/text-9.png",
+    "bytes": 8117,
+    "sha256": "fc27a0a7af07ab277c8418abc808b48dd2b70f46f23a974262b0f3d3972c1c25"
+  },
+  {
+    "path": "client/promo-story/tooth.png",
+    "bytes": 154959,
+    "sha256": "17db648346229c79feb96771f9ed449ad45432b1759b22633a9289da407a3888"
+  },
+  {
+    "path": "client/promo-story/voice-0.mp3",
+    "bytes": 33264,
+    "sha256": "4c7242420521c483d8f228cc7fc5e23ed4eae8e93f832e863c922d85cc607733"
+  },
+  {
+    "path": "client/promo-story/voice-1.mp3",
+    "bytes": 25920,
+    "sha256": "17c6d8c99b698bbe238c34023d82e16e8bc6dbe6c682d930fa100bfca8c60d5b"
+  },
+  {
+    "path": "client/promo-story/voice-2-long.mp3",
+    "bytes": 61776,
+    "sha256": "bf801999f3df79e5acfc77971f903bfaab770158808343ce7aed8653a58acdd0"
+  },
+  {
+    "path": "client/promo-story/voice-2.mp3",
+    "bytes": 50688,
+    "sha256": "e2b82270a850db474265aa50dab849ede8fa5e538bca07a1e2dc1cf8b535f441"
+  },
+  {
+    "path": "client/promo-story/voice-3.mp3",
+    "bytes": 24768,
+    "sha256": "980c0cb67e5a85fa810e35e6a913e9f9b13ecce45d9c62edaaf80fc20cc17f10"
+  },
+  {
+    "path": "client/promo-story/voice-4.mp3",
+    "bytes": 41040,
+    "sha256": "98254e93ca237f5574895376a995a37d9e66254e963f82509e4394301889e4eb"
+  },
+  {
+    "path": "client/promo-story/voice-5.mp3",
+    "bytes": 26784,
+    "sha256": "bf09f638ca7c049a7032e3156150e3640d67cb84454aa98ec38231a8fd7d884b"
+  },
+  {
+    "path": "client/promo-story/voice-6.mp3",
+    "bytes": 47376,
+    "sha256": "9cb34fd084398c46988003d088ba8066fe5cb143f36040be3d5d4779d0c3ec02"
+  },
+  {
+    "path": "client/promo-story/voice-7.mp3",
+    "bytes": 22320,
+    "sha256": "4ff09e7f41f63a71e3dfea3faacefc6b7b85bafdc8e6aaeda884c926129e6654"
+  },
+  {
+    "path": "client/promo-story/voice-8-long.mp3",
+    "bytes": 59616,
+    "sha256": "4fd312f588b56bbd62490de24445b648be00e48b31ee80d6f6fdbb076accae76"
+  },
+  {
+    "path": "client/promo-story/voice-8.mp3",
+    "bytes": 44928,
+    "sha256": "f9b54fa3f4bd6dd18f38f76a082616360e9d9ee2f371a84cec94d81bb2e5105c"
+  },
+  {
+    "path": "client/promo-output/DenClick-60s-Demo.mp4",
+    "bytes": 3509039,
+    "sha256": "a37b2f9a8d60f858e5b577aabd808b360b2ca8b3da9eefc84bf1890e342c91b8"
+  },
+  {
+    "path": "client/promo-output/DenClick-60s-script.md",
+    "bytes": 1473,
+    "sha256": "cba3ac740b802fd6e804b8876764b1117b3282091a4d9492ae4501a8709e4815"
+  },
+  {
+    "path": "client/promo-output/README.md",
+    "bytes": 1183,
+    "sha256": "e20a47295230b7eb2e3b280242941b0c738a15b15c98c5266a12fd18765b5893"
+  },
+  {
+    "path": "client/promo-output/build-promo.py",
+    "bytes": 1977,
+    "sha256": "7b6a29d5549970e6a54fde308139a2f15e34f799875db111be9158cae9c2ab32"
+  },
+  {
+    "path": "client/promo-output/concat.txt",
+    "bytes": 170,
+    "sha256": "61d81c22c24de0ac3c21597b4255e63ccaac0cbafdddc2d143093ea0ca21c50c"
+  },
+  {
+    "path": "client/promo-output/index.html",
+    "bytes": 840,
+    "sha256": "2942ad24545d2cc076f21e23810f1ae06603043c5270431b02b364478e2ab28f"
+  },
+  {
+    "path": "client/promo-output/inventory-check.png",
+    "bytes": 394075,
+    "sha256": "c1078b07daca75b7ecd54880737805e7d524a0715cecedd6a5ec3761a89a9cd0"
+  },
+  {
+    "path": "client/promo-output/overlay-0.png",
+    "bytes": 62685,
+    "sha256": "6715747e78056573983a2b25dec3e730b175471f7aa08ed00cb35cb547366fb5"
+  },
+  {
+    "path": "client/promo-output/overlay-1.png",
+    "bytes": 228860,
+    "sha256": "ec9010f41360cc8a900d9706a413559e83601353afc25319b445da26fd794b71"
+  },
+  {
+    "path": "client/promo-output/overlay-2.png",
+    "bytes": 64404,
+    "sha256": "a82d8987cf341c3b809964d6fb822bf0c09dc81833802bd69009639ac0b6db22"
+  },
+  {
+    "path": "client/promo-output/overlay-3.png",
+    "bytes": 65235,
+    "sha256": "a6a85cf2caabaef8bda195e973b63ef0033349d30d2e48be350d163ac3c7bb25"
+  },
+  {
+    "path": "client/promo-output/overlay-4.png",
+    "bytes": 59208,
+    "sha256": "4a65ea2d4022046b6a6482fa1685092de8e9af84b0ef1269b0bf065f51f91653"
+  },
+  {
+    "path": "client/promo-output/overlay-5.png",
+    "bytes": 66512,
+    "sha256": "b7a157061f0a3ded28f7458ea6e04db980f3a08a9e77d10bd08fbd639267c3c8"
+  },
+  {
+    "path": "client/promo-output/overlay-6.png",
+    "bytes": 63032,
+    "sha256": "3a60ad4cecdaac3d40e4e9a9aa3819e6105f4fbf7915e1763cba3ff7f92c11e0"
+  },
+  {
+    "path": "client/promo-output/overlay-7.png",
+    "bytes": 81868,
+    "sha256": "d70fa04f80e3375d120affb04ad0d9db05502994e76f56288b60db6813fb5f49"
+  },
+  {
+    "path": "client/promo-output/overlay-8.png",
+    "bytes": 225633,
+    "sha256": "dfa49d8b65ff55b296aea95282ff7683b7f25a839715d01efacb3d9c6389a7e2"
+  },
+  {
+    "path": "client/promo-output/poster.jpg",
+    "bytes": 143681,
+    "sha256": "b52321b8b519523cf0f0256f24a7e224c26dbd4ab7d86e9e0e444cd3f0938852"
+  },
+  {
+    "path": "client/promo-output/render-promo.py",
+    "bytes": 7767,
+    "sha256": "7fba87ada2b00731031d0e90f4606dc1ed8e148d90154e7bc3575864e9446658"
+  },
+  {
+    "path": "client/promo-output/review.jpg",
+    "bytes": 426363,
+    "sha256": "3373ce8ae54467266d31089f664333839f433410c2210b635bb2f63a79d22e90"
+  },
+  {
+    "path": "client/promo-output/scene-0.mp4",
+    "bytes": 148473,
+    "sha256": "49ac620a3ac635c2c7839d8aa1e98a517e1fcccbc36f28b90b7c7903e1a1a19e"
+  },
+  {
+    "path": "client/promo-output/scene-1.mp4",
+    "bytes": 402772,
+    "sha256": "2cabaf75176d65be2dce46ebb32e59d188baec6f193e10a3fcb9f54299412a18"
+  },
+  {
+    "path": "client/promo-output/scene-2.mp4",
+    "bytes": 269903,
+    "sha256": "3c796526c41f2acb0516a2c901f68a3fde843ffb857179abf1ba19a14b4f33bc"
+  },
+  {
+    "path": "client/promo-output/scene-3.mp4",
+    "bytes": 315322,
+    "sha256": "838c43723fbcd57dfe15bcc5ab01759fc0a01d924ab984bd17eb748592affd11"
+  },
+  {
+    "path": "client/promo-output/scene-4.mp4",
+    "bytes": 203435,
+    "sha256": "3b66ee3c538bfc12dacbe8fdb14cc068e9b1993fc735a623d49d7fc9b2b83e61"
+  },
+  {
+    "path": "client/promo-output/scene-5.mp4",
+    "bytes": 205742,
+    "sha256": "9c75c5072b4d4b39328566dbf56a9c89b8e205eecd6e3185cf63d5dc2c01f253"
+  },
+  {
+    "path": "client/promo-output/scene-6.mp4",
+    "bytes": 161955,
+    "sha256": "9dd87033a5eb1f3c05c13b8187ba15b4c0e9f42f7a69e26992d893f8273bcf21"
+  },
+  {
+    "path": "client/promo-output/scene-7.mp4",
+    "bytes": 410972,
+    "sha256": "b210a7024f65c86d44d682dd4659948ef8bf42e71a64b2d43562beead88fd8a5"
+  },
+  {
+    "path": "client/promo-output/scene-8.mp4",
+    "bytes": 298114,
+    "sha256": "7aa1e29dfcdd88e511a923ec61dd41c42adba0c608b0ad256762b110c01b8b8a"
+  },
+  {
+    "path": "client/promo-output/script.json",
+    "bytes": 1970,
+    "sha256": "afd2f78034a66c83c23e00ff39dac836bb82782b239848923cbc4bae7dd1e798"
+  },
+  {
+    "path": "client/promo-output/soundtrack.wav",
+    "bytes": 5760044,
+    "sha256": "1b873ba21dc5fb2ad30fe94b37358bfec0c342dc6c53f4f029240cef899d2f50"
+  },
+  {
+    "path": "client/promo-output/story-plan/DenClick-story-edit-plan.md",
+    "bytes": 25483,
+    "sha256": "d6aa9003dfbb490adb1c8eb20b9c9f8824081c713b1ac6ea9bdb4e0519c574c4"
+  },
+  {
+    "path": "client/promo-output/story-plan/continuity-check.jpg",
+    "bytes": 157040,
+    "sha256": "461b06959992fa65bf11f713aa9f310f08a7a24611fd13c7d1c4c976d7450efd"
+  },
+  {
+    "path": "client/promo-output/story-plan/payment-chart.jpg",
+    "bytes": 417191,
+    "sha256": "fcb5bd78b49ce10db88b61187f9afd6a1e4311ff3dbf8aa26027d3e696aee443"
+  },
+  {
+    "path": "client/promo-output/story-plan/search-history.jpg",
+    "bytes": 367154,
+    "sha256": "1137e925c071b77edf49f654e7f203a6fa6307ab7ebc584f3e27008e152d1f26"
+  },
+  {
+    "path": "client/promo-output/timing-check.json",
+    "bytes": 729,
+    "sha256": "a80306bf6aa4bd655d9a0669ff8ef65c8e69982dbaea0f2f41837a3c686b82b5"
+  },
+  {
+    "path": "client/promo-output/voice-0.mp3",
+    "bytes": 38016,
+    "sha256": "644fdd0437f4a7a830f65184c3546c8b7ac3f337002afdf59d8062f108e0e1d6"
+  },
+  {
+    "path": "client/promo-output/voice-1.mp3",
+    "bytes": 36000,
+    "sha256": "cde99c23810bd0ad14d6d613320e4c905956c1bfe2198f8736cd8b171bbe6135"
+  },
+  {
+    "path": "client/promo-output/voice-2.mp3",
+    "bytes": 50112,
+    "sha256": "6000051fe55f21de25a3f055f39c228f471e3d219eea835ba425c702cb517969"
+  },
+  {
+    "path": "client/promo-output/voice-3.mp3",
+    "bytes": 43920,
+    "sha256": "175c8b67b429de1d9446e4d5f7fcf43da5e193ef7beea0c5f4521c255669805d"
+  },
+  {
+    "path": "client/promo-output/voice-4.mp3",
+    "bytes": 32976,
+    "sha256": "89f28b976c45f07c08131c6a6952ec5faa7568375a403385226a58231df7b12e"
+  },
+  {
+    "path": "client/promo-output/voice-5.mp3",
+    "bytes": 54288,
+    "sha256": "073d1bf0309fbc544c6352e8445829cc22dfe95ed48d9ae94e5e0d37ca530d9d"
+  },
+  {
+    "path": "client/promo-output/voice-6.mp3",
+    "bytes": 43776,
+    "sha256": "3cdc00a88a7244d4d0a34ca756701e53fae72dc69be623b2cbb54041984ac5fb"
+  },
+  {
+    "path": "client/promo-output/voice-7.mp3",
+    "bytes": 34992,
+    "sha256": "f38931400262a2cdcc2ffc71c7532caae1daf2834516d207f054528484e7174a"
+  },
+  {
+    "path": "client/promo-output/voice-8.mp3",
+    "bytes": 29376,
+    "sha256": "63830180fbb1e9f9741e8aae71cb5e7bc90dfa33100691305e937bd9141307b1"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial-Voiced.mp4",
+    "bytes": 65527268,
+    "sha256": "e5a5b92d6cc06bc60f162dfb27ec83f5c70e67cfba28e3f6e0248f4c621a2fbc"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial-captions.json",
+    "bytes": 34197,
+    "sha256": "616582e519255604cd365dc062dbe7d07670713e2aeba7589d3c99485182db70"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial-chapters.txt",
+    "bytes": 343,
+    "sha256": "1a70e952472579d09f451afb05860101c0a69c4d6a45f5cd3fc36bec5fcecb0b"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial-transcript.md",
+    "bytes": 18647,
+    "sha256": "2b45a130bf52a24e16cb57cb6d78fb45b4e0670d43bbbbfffe149c693939852e"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial.mp4",
+    "bytes": 26010368,
+    "sha256": "2666afb2c51142e8e34800962da0f0d29078503181eeb950be3ddf8f85ac348a"
+  },
+  {
+    "path": "client/tutorial-output/DenClick-Tutorial.webm",
+    "bytes": 46915652,
+    "sha256": "83159ea7eb13cea46d9bb81a2fa53ceecdf6fd6e64b63b032194d027ffb174b4"
+  },
+  {
+    "path": "client/tutorial-output/audio/DenClick-background-original.wav",
+    "bytes": 8013956,
+    "sha256": "8b1b01e13552119fb6bf029c087d1068f697169c7adf7524bdc04e5f6f031156"
+  },
+  {
+    "path": "client/tutorial-output/audio/DenClick-mixed.wav",
+    "bytes": 226099244,
+    "sha256": "cf64141e19592211c30b7c158d31ae7ad62bb1415ef9219d4db0a5db3df3843c"
+  },
+  {
+    "path": "client/tutorial-output/audio/README.md",
+    "bytes": 705,
+    "sha256": "7908c674c4a75b762845a0ca207158dd28166743fe336a954fa83c6844847090"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/000-c3c310bc95fd.mp3",
+    "bytes": 12816,
+    "sha256": "7af5f0816119bb5e315990db3ec995947b28ce0f17c6179361743ee9e25472ca"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/001-ae0f5bd67309.mp3",
+    "bytes": 47520,
+    "sha256": "8492bdd0c366ca1c114eb3b9cc87d1041449c26f051662f0c0ad1b167d727521"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/002-ca0ed4aee27b.mp3",
+    "bytes": 39888,
+    "sha256": "ba09b5dc89c90a14a96a4fe4881765c3c94f1708d3a404dc78b82c9b1fb2199d"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/003-1d3846cbdf59.mp3",
+    "bytes": 23904,
+    "sha256": "748ac99cfa84a692e218344679dbcc1463eef1aa5f2612e5276c07e66b604692"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/004-3477fbd7dda5.mp3",
+    "bytes": 12960,
+    "sha256": "4f0ac5111620148d038f6ce820a025694d0de2fd4d63dc5bb4b0695c511509cb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/005-28ef07e589a0.mp3",
+    "bytes": 32544,
+    "sha256": "4594be223f06be3a879facf83d0a7b814c071e8a5b74d293034e374c4c71cee1"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/006-67b696468610.mp3",
+    "bytes": 11232,
+    "sha256": "86392de30522bb505ad91d147f7d1c93b82637cd9ae1e2833b22e43154e7844c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/007-49437810dac0.mp3",
+    "bytes": 43632,
+    "sha256": "5512b365b38de2b5bd2b3fc3ab45805cb04325be38c8d0421a119471215108d6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/008-34d91edece4a.mp3",
+    "bytes": 14400,
+    "sha256": "513e462289b34f88e9fd0a488383a12b8df16d39a6658223f08e34e43c3f9256"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/009-59f0a2c1b3ec.mp3",
+    "bytes": 15408,
+    "sha256": "1ef33ecef3c9fcf42e046e5a76d152fec3033d9e601ff5f3d9985b86febd651f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/010-f5659ebf295f.mp3",
+    "bytes": 15408,
+    "sha256": "0ce3c138b06835f34d4e585028f92730dff0ccdcb84df369212feec7cb3753db"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/011-6ee9f8400cc2.mp3",
+    "bytes": 27072,
+    "sha256": "e3a14cda11431f30d29068eebb6ee1e823d298de4e0e2dd88fc0a1d3abe1e12b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/012-ec8a6527ad13.mp3",
+    "bytes": 24768,
+    "sha256": "cb7b065374c9c219717eaaed6d75b98ae1d8db7f3f08f354f816e361180665bc"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/013-f06d5b9ace8f.mp3",
+    "bytes": 22320,
+    "sha256": "bb1e5a57dbd8590ad0b5809bde12e1a4ca52b037d12e417bd94a6fc6733f2d34"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/014-aab96d60f669.mp3",
+    "bytes": 19296,
+    "sha256": "c6eca3e5da770119b51ecdee9500382cba3cc36531557e7359062fdacd191a43"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/015-a68ab7162f72.mp3",
+    "bytes": 38880,
+    "sha256": "8ff00ba6d2db077aafa6aa31d57c9011de3061abc7813b81a4e7e05c60826e5f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/016-5f5e06f7cd3b.mp3",
+    "bytes": 40320,
+    "sha256": "be6ef535f34f89c5c1354cc331b9e9d05ca984cb57519880b7aabdc8c721b92c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/017-7d89211eda0f.mp3",
+    "bytes": 53856,
+    "sha256": "aeed339bae7352ac5ad8a2600f49a2af2d9667c4b854f1ccd81c9d392610e229"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/018-9430b058c5bf.mp3",
+    "bytes": 43344,
+    "sha256": "6575e0d44e0e3076d071fafbad70caa0314bb6f4029d9e70326d68bd7a3d14d7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/019-f230f03e6b53.mp3",
+    "bytes": 25776,
+    "sha256": "c991d67667557a67f4f71c08421f99912e6b1d4dab228b9460f4951d02404fb9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/020-63f4b4cc7990.mp3",
+    "bytes": 38304,
+    "sha256": "e7c0c1de682b15ab3d97f0ec50fb1e2deeb51d29716c8adb928e30817286f613"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/021-8350e7ef57b2.mp3",
+    "bytes": 38736,
+    "sha256": "e5b3c79e9b3521700a52fd3ed74aa28da9e391efef1d3b5c9f2dbe9cd3c03d0e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/022-a7609ff5be2a.mp3",
+    "bytes": 35856,
+    "sha256": "3ed020e59c8727e12dedc6eb7abf9c7a3440e7639eda37190e35a8754d228f90"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/023-c1dac9e43d98.mp3",
+    "bytes": 32976,
+    "sha256": "e10d997614b9f2bdc306ba17a82725ee6064d21a25683fd0908582193a8e3e12"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/024-76de14bfc30d.mp3",
+    "bytes": 51552,
+    "sha256": "38a0b4fa5197148b36d85331364a0970775085f5d87793b3e263b48b774c7a2d"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/025-9919b3009436.mp3",
+    "bytes": 25200,
+    "sha256": "5f4384022c7c4bf823809285ed6c0bb622a14fe218df62f5ae9511b1e2f2d464"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/026-f2e46531202a.mp3",
+    "bytes": 11664,
+    "sha256": "37552ae1cab3df562407ddf759fc183c5c15d32c2779d9415a7d5f7e31bd1a7a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/027-1fc55581834d.mp3",
+    "bytes": 39888,
+    "sha256": "fc5b684906ec6b6705dc52d21e3b7e8a72932cf40abe1c990c5111a883e2b1c0"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/028-c0ba3811cafa.mp3",
+    "bytes": 23472,
+    "sha256": "fd1ae873cd420d5ca49daf2db1dc8d47da4cf9de7b02567863024947d8bbd1a4"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/029-fa301f093b5d.mp3",
+    "bytes": 49536,
+    "sha256": "0e987e6d424ac266b21c14dc90d3746a4a530e40cba8f34dfda71a9e04b2c842"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/030-81f3a7026ffb.mp3",
+    "bytes": 47664,
+    "sha256": "80d492d5344b4236e79810c63d6bdcd2cae1f6dd922603dd6edf64b117020779"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/031-9aa2bdabb81a.mp3",
+    "bytes": 13680,
+    "sha256": "b634f05b5d09cb3f4abc884ae380750b6ca10e9e905520f3631bfa1b13196c13"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/032-73c2909c27ee.mp3",
+    "bytes": 15984,
+    "sha256": "37e29fa39bf7fc2eceafdbf5cd141f2773c8d271692ebb21019cd8a2c6e14a39"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/033-9267f9c248e6.mp3",
+    "bytes": 25920,
+    "sha256": "265faf5e42dde0c4d3c6df139d470fb6617e0a7ee77f3441304801be252969e2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/034-f81c60edaddc.mp3",
+    "bytes": 23616,
+    "sha256": "ed961b27e00c94ef4a1451b4cff4c9b5dbdc64e7a7f935b7f0c893b9f0cc5c2c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/035-b68f48c6f465.mp3",
+    "bytes": 12240,
+    "sha256": "fef04f0b7a04a40e07e0b4b544bfd59350804dd11c6df1a7ee98e0aff8f1c7aa"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/036-4deaff7f80bc.mp3",
+    "bytes": 28080,
+    "sha256": "9a3dcff1a872a60f27b29df9ae1011212ff3534b2024fc9c6c61b81fe83c2076"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/037-cb88ba23c27b.mp3",
+    "bytes": 33696,
+    "sha256": "258ca9516caf24337b2bdb4ab83ee65194a39af24a015dee2e30421331f5bd0c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/038-3c28c53f5089.mp3",
+    "bytes": 24768,
+    "sha256": "e7540a476dc5d88d7fd828675bab37e9c76db7f6df697e60af9a10e8236d7122"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/039-f6065ac12366.mp3",
+    "bytes": 66672,
+    "sha256": "1ae8ec0752986b0b976a54717668352c19fb8d39be8c4ee087744d96a886a40a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/040-7f355bfc16d9.mp3",
+    "bytes": 29376,
+    "sha256": "a0e9c72155404cbd6cf3af6b3e15a5da11ea9b059054e2c13c36e9b21984b6d4"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/041-38ee6911e613.mp3",
+    "bytes": 47088,
+    "sha256": "f33b3d19eb68c3f8dfb4074f33d229bf88eebfb3ee980480e1d5260a04301517"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/042-248deef80f7a.mp3",
+    "bytes": 55152,
+    "sha256": "034c1fe3302a22607163482b2a6390ba93aeea5e014198aad5eacee6c279d0bb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/043-f7a12ba56cc3.mp3",
+    "bytes": 13104,
+    "sha256": "23c033cd1cbf8e002ac33a953f775db1904c442c4dd903858f7c5e17a7443c15"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/044-3ad679446a4c.mp3",
+    "bytes": 39312,
+    "sha256": "eb623416e9182e03ac4c25dca1c500b831d3360bd14d8bda2f02fa4a6a671135"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/045-3c02a5cfb1d4.mp3",
+    "bytes": 22464,
+    "sha256": "f014ef94065d1fb6c97ab04594e3b81a782c0e80342e8fa49ca2342828eb9cd7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/046-f01bd888e6d7.mp3",
+    "bytes": 31536,
+    "sha256": "a36277c46161a3ff9fa47c03c0325ec1100c985b966f83ad8602443c97539b1f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/047-1c53be9c8f83.mp3",
+    "bytes": 19584,
+    "sha256": "1722023b48b5e30da8ac5719403ed05ef5cf96821bb0392b4b022bc1aca72cd8"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/048-71e5d58de1b0.mp3",
+    "bytes": 22896,
+    "sha256": "08af390cca5f2f9231c860e9a329d895f13151617759cda2e2729ae882ae9ed1"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/049-3d262bbdabce.mp3",
+    "bytes": 17424,
+    "sha256": "55cbc638104eaee313af3207e780d266f14350be6e4490ba6e7004adbb3d3cef"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/050-49bc5f5851e3.mp3",
+    "bytes": 24768,
+    "sha256": "fedb8d02a8aadcf2fc1d6b3836dfdd6a2c74e4c56823bf75f205fa7756de0dab"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/051-a13b435b475c.mp3",
+    "bytes": 34416,
+    "sha256": "083f53a1ec31560a025963c44f697e084cda1be4acd06f9504b4adb7f631a108"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/052-bdfd3f2381fc.mp3",
+    "bytes": 11232,
+    "sha256": "1d93c57d9badb9d9b7df5355c3e261f9019768a7bbf1691ded38add86d1e6a2f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/053-074bbe1bb180.mp3",
+    "bytes": 38736,
+    "sha256": "d3ef770475f270c92c06c2df2c0ee952483ff24adf0bd22fe141ecc3dc68b5a9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/054-49b8927a5474.mp3",
+    "bytes": 25200,
+    "sha256": "c02263b8115d798a26139493e2161dee6b72cd39981db52f6b787703747ed39a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/055-d1ba96b59b9d.mp3",
+    "bytes": 48240,
+    "sha256": "ad253a3d760cb9ded38e6bc359c50a1ae8846e64ccded9d5feae60259c7fef3c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/056-2bb9e6c4da00.mp3",
+    "bytes": 36144,
+    "sha256": "5de492465cc2074a30599baf1e2f9fda6ee1aec039792cd9e5503f7a5329da27"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/057-868e77ebca79.mp3",
+    "bytes": 23184,
+    "sha256": "e10291c930a133f18f0c75b744408f812ebb510f837c103e5341e43638a24227"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/058-bb80b3112d1b.mp3",
+    "bytes": 53712,
+    "sha256": "6e386860252a35806e797cd3431cdfbb93384eee84aa7d57824227f4e93b1ddd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/059-cd288671816c.mp3",
+    "bytes": 42912,
+    "sha256": "acce7f196b67cb583b0a040d33bfc77ae8bb52b98ecd203f4667849b5b5b6e27"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/060-034eb98f0b45.mp3",
+    "bytes": 24912,
+    "sha256": "e71c0343815f16f37dfd934060ad6cd46a97ccf4c919e6c197e867eea2930804"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/061-b32d64fde38b.mp3",
+    "bytes": 33840,
+    "sha256": "b66b34c5d6e5a814587ca3e08d859c343fbeea6bed958f522fa252374712de8a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/062-778ca0fc7da0.mp3",
+    "bytes": 32256,
+    "sha256": "df4ad419212ae75cdfe426d49da3315c29251218c1de305897fae560af1ab26e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/063-d543650e40b3.mp3",
+    "bytes": 46800,
+    "sha256": "bda2899ec8612140552b1718c802bd7d1d61637a7f48d299982af743d833f380"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/064-60b209ef0c28.mp3",
+    "bytes": 14688,
+    "sha256": "7f568e038894c495cf0c895c2c90beaf96e437e0fc849415e13507ccf2a6578c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/065-341ed3e8717b.mp3",
+    "bytes": 14976,
+    "sha256": "3bf41a2e6da2daa82a02c4b949e401859ecd575fbc7461dfca4f44a3b1aac2ba"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/066-e9bc95c89256.mp3",
+    "bytes": 48096,
+    "sha256": "299fe2ee0aadd159642c87012f31b509d569dfb7687125facd9b60dbd1c501bb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/067-266787f91ebe.mp3",
+    "bytes": 22896,
+    "sha256": "35a9be9533dc4d6debf48f380b4ae021169e1f13cdd8cb39f1ca9d227aeb4137"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/068-d1ae7f8ddaf6.mp3",
+    "bytes": 60048,
+    "sha256": "717577825218885e5e00306d61c8ba8c63e5bf679a8d5e535cd929a8ed198a3f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/069-c17c2c6f27dd.mp3",
+    "bytes": 45504,
+    "sha256": "aa1d35110d88120f5aaa6711bbc8ac72fee42d0a1031af37cb13a81b90da348e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/070-dcb966deb25e.mp3",
+    "bytes": 29952,
+    "sha256": "0bd6fd5a08c24e5e5e3f8558fc42c20e7c322e172e9bc44f453fd47f98c58e9f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/071-916f86f1a132.mp3",
+    "bytes": 21744,
+    "sha256": "39262fccb8a95ba006e563afdb07afed8fe3b159a989a0491500853470f4339a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/072-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "6cfab8b0153a99b3f6a5d8a6c19041f532121fe14dcaf5fc15aafa7a350a1f9a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/073-8fa79c97660e.mp3",
+    "bytes": 14256,
+    "sha256": "d7077d0b4cd6e012da3e37090da774f18a0c6f0a95c9332b34184dd19fd67355"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/074-520105167b3b.mp3",
+    "bytes": 14544,
+    "sha256": "d8030e06525d64a4eaa11a05e332484c5b695aa1ecd80440cd32ba7fc22cf4cb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/075-d79efdecdf57.mp3",
+    "bytes": 41040,
+    "sha256": "93590c301994fc94bc3588378a7509e94976a5cd1f2a572645bc0a7173b06cda"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/076-78564e2dc534.mp3",
+    "bytes": 30960,
+    "sha256": "d49a5814209f8b1dc5a73026fe4777f392f1db4fd5d8e6d0e3e577fafc113c82"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/077-a3319c090e0c.mp3",
+    "bytes": 27936,
+    "sha256": "e7f15b59367cbf290cc1cad580a5905f7ff99842cae3468cfdba9c71c276c9e6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/078-c8d6e4ba2bbe.mp3",
+    "bytes": 43200,
+    "sha256": "4d22802b0b2907ec89ecafb9287cd13777604d466e3098f42c9af2a687d14ec2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/079-3c6bdae78e7c.mp3",
+    "bytes": 24480,
+    "sha256": "9eee6468af124e4a2c50bdde573ebf4103b56af823b047a934cf4bf43a59aa08"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/080-bedd00e0fdb3.mp3",
+    "bytes": 30528,
+    "sha256": "6e3ab1ed560294bb22e7df553720822990c0129d4163db7ac78e1e90e1ccafbd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/081-6a72ef7aba52.mp3",
+    "bytes": 51120,
+    "sha256": "65e9f6171c6310ddd2078efc0892d11a524d824a27288fcffb121e8f9c21e89a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/082-a13ad47d3422.mp3",
+    "bytes": 32544,
+    "sha256": "2a185a09bce035461561a1200911324a420ea9e2306d31b9f0d51f95400be4e2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/083-370b23ab8208.mp3",
+    "bytes": 62784,
+    "sha256": "6b827f60b1bd28d2c4ca69433a6437658556f3a2efeb3b16db8dc2bead1e2ef7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/084-13dd4b056307.mp3",
+    "bytes": 32976,
+    "sha256": "11326f85c7b776bc4a6d1906053eb13b893211e8118bc9108d5cc8c2e8d26b12"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/085-5583fae896a5.mp3",
+    "bytes": 54576,
+    "sha256": "655d83b1e7301a04ec8d26ee4ed05303bdd878beb9018807e083e50d1652b418"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/086-ee0e290c994a.mp3",
+    "bytes": 54576,
+    "sha256": "13808dcaa0ecb984f3008f51a436c38e6e4ab465b2da0000c9de34578123cd54"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/087-ce6ef580b388.mp3",
+    "bytes": 25200,
+    "sha256": "2a4a93a47e494ac3c26d0f4beb129cf363926befe3c99283c8123bc4d11c3664"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/088-8ab6f02d3ac6.mp3",
+    "bytes": 41904,
+    "sha256": "136357663cd4cce62329142dce1cbc213deea155793d9d958ec4acc7c20d5e51"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/089-13ddf17a7caa.mp3",
+    "bytes": 43776,
+    "sha256": "02e1ce116f79504e39c5e58d9157d533c7e6a0ce0d00bed165433d2f1f4b282c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/090-7d40f8f47e5e.mp3",
+    "bytes": 50976,
+    "sha256": "8257e2fba7284dfd2be75339c222810112e4703a96a109a1002fea208242ce76"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/091-f457eb6756f5.mp3",
+    "bytes": 39888,
+    "sha256": "c3e15250ef42fbf45c296eeb72ca8d633be32eb3ae2cbcf8eb3bfca2784edfca"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/092-05600e7b1bbc.mp3",
+    "bytes": 14544,
+    "sha256": "9c2e8a762f2244ac76a7fb815d6545226532ac8ebe943303fa0187e76db21545"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/093-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "2857460f25aa6b3512f1f20ca368fa7bc775f5fb7807bdf9b1bc1d552970b8ef"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/094-86c79bfa2470.mp3",
+    "bytes": 50976,
+    "sha256": "243d37844b221834ecc78f2a2040904fafa2987fdef6e90cdb4340bd9e213561"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/095-83ac529ecc22.mp3",
+    "bytes": 22032,
+    "sha256": "63af0afbaa8bde8007991d355b49388ab751d689ce86e3c3ea08e3abbed8f588"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/096-30ae8204c694.mp3",
+    "bytes": 23328,
+    "sha256": "7516a0701ad79985eb77d4dbd34cb852e1f59d284fae5005aac3ea12e4d74c6c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/097-2c85552e0a0c.mp3",
+    "bytes": 26496,
+    "sha256": "542c3c4fb55c4115234e0bfd53e8e053e54df789330ac6182b8b1e142bba6f52"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/098-4c6adb5a683c.mp3",
+    "bytes": 31968,
+    "sha256": "7f4950adf629aa2048c73b53566766963f538769bae7bbcb9b70d7b027be550f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/099-ef58e8cf13e4.mp3",
+    "bytes": 39744,
+    "sha256": "eea68dce805b03011d948764c1a42aaf8f930e97239b94f8aced8bf248803ec6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/100-d005e89d40dd.mp3",
+    "bytes": 39168,
+    "sha256": "ebbc52d87f95512de1562c06c4a488fe1564c93fb8cc2ffef3ba15531b8d91f3"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/101-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "0af0e12ab700b8e806ca2695472d78192335023a17edc2735f9f0cc577391a53"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/102-7919a5275ce9.mp3",
+    "bytes": 36720,
+    "sha256": "a2738aa408977d9da9fcd82c279e7d50b181abe8e89ae1610b45c0c5765400c8"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/103-c6c589825688.mp3",
+    "bytes": 27360,
+    "sha256": "60f2bea6d64f33e6121775900690b1bd5287fd9f54ef234e60bd8665d97aafd9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/104-aeaf9e4d9eae.mp3",
+    "bytes": 39168,
+    "sha256": "a5e66d16a4c261392cc1ed50fda5f3d36adac0928184ce3dd1948c9dfbb93ecf"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/105-435216c9880a.mp3",
+    "bytes": 28080,
+    "sha256": "2a068961f1d6243c050368734b6f845c308f2c13237d36505c61fe68aa08c2ad"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/106-267db83de5d5.mp3",
+    "bytes": 26064,
+    "sha256": "ed3470a05e15226d0ad42f3de5379646c789fcc4cd5f1e216dc4620efdc72435"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/107-79146c444ebc.mp3",
+    "bytes": 44496,
+    "sha256": "741cdda28618a9f0130bb5beedc100a3af4a5bce6c49897e56c37ab3cc000d9c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/108-47f9d4e664ec.mp3",
+    "bytes": 56304,
+    "sha256": "ac2c5535be1a7df3117c373aedd925249a18f9cde95f563f0bd3919fdbbb172e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/109-31b5aa9417ee.mp3",
+    "bytes": 39600,
+    "sha256": "30a562e9ae6493b359b86e8fa7903680534c5a7600e1ad0f19a0e2437167d67b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/110-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "d8a82e56c8ba35ede2f74f6a285fa64433817807b6e1e3c4cdc654246d500cb7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/111-4ca41e083f77.mp3",
+    "bytes": 13536,
+    "sha256": "d43708db8ad51e804bfa2d6eb59e73a53e3050a23b4d2b5ae656ffa71d13dd2c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/112-a21c7c9bbb8b.mp3",
+    "bytes": 30816,
+    "sha256": "0a9d3e707504f1342e9687f175fd054f867c02d8184bd4c6490061fa537ffff6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/113-b46ae3d4cd5d.mp3",
+    "bytes": 26496,
+    "sha256": "b6553adb4aec1f49855d900c3a474e6b710582fe1b05ea9265fc0db5af5e52dd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/114-edd68a012ec7.mp3",
+    "bytes": 52704,
+    "sha256": "4e1492fbe79837bbb951b4e639a1a1d5c63c1041ab52a8c5d82ef5cbc4425821"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/115-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "756f9cc7740a2ca901233f28aa3b9760c330cd1d34007a27ec136a800458d97a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/116-de7104713902.mp3",
+    "bytes": 11520,
+    "sha256": "bc540968adc8e1ac1758b075ade93a7da752b4b1d4b626c38bec0fa544375ff7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/117-1bbd13e23a70.mp3",
+    "bytes": 40752,
+    "sha256": "d033835119d95b3ea59bbcbafa3e5370de24e7abcaa8a7ee0b62e350cd294e75"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/118-95c8e775adaf.mp3",
+    "bytes": 27504,
+    "sha256": "7b1ae47ac15579466f6ccdd3de5da571c439e6e54dba64301b57c0c81504fb7b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/119-0d3b24f01d38.mp3",
+    "bytes": 29952,
+    "sha256": "b0e18286f26e6751f3245d5bd418d095e71661fc7bac1199595910c9aab20f0c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/120-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "f5fb5a7fec7c6b4f1a62a13d3ce0292307b6c10c390d04093716b6e8885c47bd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/121-f2face668857.mp3",
+    "bytes": 28368,
+    "sha256": "2f4374cb4ed2f325c203ad7881996c7ab24de0099d3c6c2483021fbf744f7aba"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/122-eedba8b28e90.mp3",
+    "bytes": 31536,
+    "sha256": "d7a8a6d1c3785044ad19a8e5e1fa16da40db48232a8c1b6084f6791bd39d3d50"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/123-8d8a599ac2fb.mp3",
+    "bytes": 48240,
+    "sha256": "7787285343bd996b46f83a93144f67e7bcf40a60ff1cd98f613143242a565fc4"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/124-871de85dcb79.mp3",
+    "bytes": 33264,
+    "sha256": "f554d9f3de6a46f5aeb7883ffc70d096ec02b12e286db087340471b38be713a0"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/125-93c9b6317565.mp3",
+    "bytes": 41616,
+    "sha256": "1e796691586772c3dd744b6b84c9a68fb3a7b369d07c95fe075d0da37699b694"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/126-8a9d1bd91240.mp3",
+    "bytes": 33408,
+    "sha256": "3b94b8b7e9dd4ebfb088709330c48de0688225e3893f6f1b62ce3000146bf2c2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/127-ce9f44826f3f.mp3",
+    "bytes": 75456,
+    "sha256": "880e8409abdbe15cbf7298452f96d596b1650f34881f97cbf9e912059badc34f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/128-a6187b23175e.mp3",
+    "bytes": 34128,
+    "sha256": "17b84965f9b64ec6f73fca6849b702ce7a1c170df0db13d355bfb544c4920db3"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/129-063aae5efcb0.mp3",
+    "bytes": 19296,
+    "sha256": "3770bd759b5f1a98fa4a463d9fef6d859996a7f04624cae5725f983725360b0f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/130-6719d450f6a5.mp3",
+    "bytes": 15264,
+    "sha256": "1d3657a9e07ac55ff6446c3f21f26cb8ae0e48c65d51e5340ba0ee0ca7766d72"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/131-c6a924e44910.mp3",
+    "bytes": 37152,
+    "sha256": "678aa71348738571c37986e7180a1580ef00961f7d8c36acf386643d6362db93"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/132-00235af4c576.mp3",
+    "bytes": 13680,
+    "sha256": "344a05a5b376a809de4fef1fb7419783b3bbcead7234c4124d8582687d48b950"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/133-1d8be907103c.mp3",
+    "bytes": 36720,
+    "sha256": "35c0f107d395cde68a893ebf749e37079d6115c278a8202b5ef4f7ea219cbf2c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/134-ef6029ee12c8.mp3",
+    "bytes": 19440,
+    "sha256": "a849468f0b541c15e7881273995939d90649cde66068cd2b4ee690d0f2252672"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/135-c600fbb2677b.mp3",
+    "bytes": 20592,
+    "sha256": "f121d4b517ec7f83c98b653448aa241053c40b742d9ac82ca4f82ca116a00a74"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/136-7ec284f8b177.mp3",
+    "bytes": 46512,
+    "sha256": "3a3e31c9f71493dcc2443bf7fea763043592faf1feec515743c6b72d349d8c6b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/137-b7f415ba3a87.mp3",
+    "bytes": 34848,
+    "sha256": "24ad40ead7f428909333d9026d6452379089161b8231a3d35b9989686b883fdf"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/138-babff6afd454.mp3",
+    "bytes": 67392,
+    "sha256": "0cff6a2088fb282d5a3f547c7d04e829a8ac849006ccc972fb949326d61ed2f9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/139-edfe37087c75.mp3",
+    "bytes": 32544,
+    "sha256": "68d6bde7f4624341ea79cd63610757a845b0414eba40657af17eff7c0f6a6157"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/140-e32ab617165c.mp3",
+    "bytes": 45216,
+    "sha256": "41efc1c49c4dabc1d755bddec9f8d7acf064d1c486a148bc18b093295a644b35"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/141-b9371ffb9594.mp3",
+    "bytes": 16704,
+    "sha256": "5fc8b04027cfa436c43a9a287aa16e1e7b0ac8add951e38d9ff3a577649a9632"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/142-20d3cca225db.mp3",
+    "bytes": 37440,
+    "sha256": "ad66bf9692dbbf007a1ff1a08cdcd138776c10b043d9223ecd25d7e71a2b7d53"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/143-398b3d115eb2.mp3",
+    "bytes": 12384,
+    "sha256": "8036632af085f3ad8ca5544be2664ae5e6105321faa6865ea23721420f6d8af9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/144-004de6528af1.mp3",
+    "bytes": 18144,
+    "sha256": "d005d89a009f4b5773bdfe543bc4fe3a3fa19244addc7d5bd03bf3ddc7bd6346"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/145-a3473d3152f9.mp3",
+    "bytes": 38304,
+    "sha256": "784dc39cc10191c3bbcdc7dbf7fa3b2929b32b0d3f32ad987a017505d7c7ac00"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/146-e2c27349de55.mp3",
+    "bytes": 11952,
+    "sha256": "636a978dd21d7dc918c76666f8fdbbe6604abdceb69197b0920a56347df2ea13"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/147-0d0315ca127b.mp3",
+    "bytes": 48672,
+    "sha256": "af730a149492be73b72f2c4232425f10034fffad1bdf1eec38ca244005a18ca3"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/148-15183438e6dd.mp3",
+    "bytes": 25488,
+    "sha256": "5432dbcfbe3c36942932d2f4d241766b5fe4ba53e06e72652c171435906a60d7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/149-ca4d11e9ef55.mp3",
+    "bytes": 58464,
+    "sha256": "bdd182c9a7a0631a21e7defca4b550c3f6ddc8676193f700292e9ab2351e47da"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/150-6ce9d1c3da23.mp3",
+    "bytes": 18864,
+    "sha256": "602edb104f41c4c6d3f9b9f40b0637a51aee645e0822aff0e8a567d0b79352cc"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/151-ff61bb5f1df6.mp3",
+    "bytes": 21312,
+    "sha256": "1838906f43ccd753f45cc4730bebfdad530f39148d2545733deb14987af80dc6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/152-cfea6b7f6a7c.mp3",
+    "bytes": 60048,
+    "sha256": "b62594943ffee79ceebb9e19d9ce6a266517aca8e0f7741e7741b32d0245b24a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/153-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "e9f6e0cfe51f91e73d6aad67749e3f1f942db6b65e29c5f8dd05b844aef00003"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/154-ef8472e1e3f8.mp3",
+    "bytes": 16416,
+    "sha256": "eef7633b954aff066d39eb107090818ac5a3468bc9032ccc218bc9d6d51f1cbd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/155-6945c2230b37.mp3",
+    "bytes": 14688,
+    "sha256": "9748318eecd2487a4b06f10b3edb64d0488b9c2db3ddb8a9bc7f6bba6b75f127"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/156-520374c46eaa.mp3",
+    "bytes": 14688,
+    "sha256": "8db4706bd6d1521fc4ffb809c9ae009f9054a3941a9c9d39af236483f3873cd9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/157-bb653c7bbc56.mp3",
+    "bytes": 36576,
+    "sha256": "a5d7397817e35773155a148b2a5dc11559ce6111ef9eb5661d52ef0c40ce4c28"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/158-b696d75511dc.mp3",
+    "bytes": 11232,
+    "sha256": "685aaddb8f43de2ee91605d61485ebf9afcf4ea074e960409d058894c7cccb89"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/159-671d175a4dec.mp3",
+    "bytes": 40320,
+    "sha256": "aff73528a3d925193c0406cca17d132c64b8bc065ce99edd2b4a5fc20eabb485"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/160-ab72ed252fa7.mp3",
+    "bytes": 35568,
+    "sha256": "b010cdc7d38a2de0d7bb8b0a8228f4066f131c6e424a4bbd123e4008056b3d55"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/161-4fdedaf350a1.mp3",
+    "bytes": 24912,
+    "sha256": "f4e908beea1f3ad6575641e69414827b442d6238537602b3aa53ba1d8c65bcb4"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/162-0977950be9d9.mp3",
+    "bytes": 32688,
+    "sha256": "4ad113c949cf1eb4578ed0f2d6d18be1dec269ebcb9ad1e77e93fb95770a19fb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/163-4598a336e4d9.mp3",
+    "bytes": 29520,
+    "sha256": "6de3fe5ec6f6b72b7d76d9c4b1c258cbe0f61d64d1c5f938e074acffd73b41ba"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/164-bf79e9e014ed.mp3",
+    "bytes": 38448,
+    "sha256": "444c41b5d25779de7b518fac8c1465a6d7381a0f3edc8858006673182ac41469"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/165-705359a8d77a.mp3",
+    "bytes": 32112,
+    "sha256": "aa51c46f5f7828ab4675047d3c5c0388de17d6b9457996debb9466d15f111d86"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/166-c571a085c023.mp3",
+    "bytes": 68400,
+    "sha256": "dcaf92aca43871ff40d4f642aea6650b2d3f495cccf93e8118034117aa23decb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/167-98da097c1ef0.mp3",
+    "bytes": 26208,
+    "sha256": "1736364cf723e3676a35041c9a7a06f76f32c48edfdd7367073efeffc9ee3f4c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/168-2b155e0ca59a.mp3",
+    "bytes": 39744,
+    "sha256": "c23db2d2aacd17defad7db4d686a0801cf5fae91397834f0b0cafc48466852fd"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/169-f8aa6263b272.mp3",
+    "bytes": 45648,
+    "sha256": "3043a57b447acc1700d666f60f2e885325617349aa95c0395dfc27ffa334c132"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/170-4876e1bc20fb.mp3",
+    "bytes": 27072,
+    "sha256": "5d3c805ebf6d6e43a78643e1ec16c76edd81701efa5a0037fe06a09b1b97c9c1"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/171-dbaa3249fc97.mp3",
+    "bytes": 62496,
+    "sha256": "c0ec414dba7e29ab50eb03a106f284b0b48d573eec702b1cc4b5a80e332391e4"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/172-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "f34305646799b0707005e978ac3b6d046d5f3d1e581d11c0707958f4c3448377"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/173-14c85da4a5b4.mp3",
+    "bytes": 15120,
+    "sha256": "83efa0aca494a9ca8ad242a6581e4b5f3d673bb96b2d6fb4fb7e97107f40110d"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/174-d311416fa3aa.mp3",
+    "bytes": 11232,
+    "sha256": "d862e5d02fea992a0a32355ba64a0dfd059d744fc15ef49b67a12b7ad76c3437"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/175-04ff32cceaaa.mp3",
+    "bytes": 22896,
+    "sha256": "6d73447faf8639c4455087f59aea6d264387e8389e640fed94ecee42c3573b36"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/176-e9c1c04e7a4f.mp3",
+    "bytes": 42480,
+    "sha256": "078127441728f30cc159d0562ecb35332b5df4fb106d1b4a6ed279f7809c605b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/177-01e0ff2db304.mp3",
+    "bytes": 37584,
+    "sha256": "45d041a8ca2409a9da5250416d5751d3ce1278cb9221903377aa2bdfb2578714"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/178-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "7250398c803578a79d6dd0029cf2c49aa7151e09dc1a613a45b0863657b72aea"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/179-33f1d844ad77.mp3",
+    "bytes": 35280,
+    "sha256": "9a2a32a00d64267f7426dc0dbc74be5eafe73a3a1643f0715e2e2dc86c282983"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/180-fcd4f7fa02a5.mp3",
+    "bytes": 21456,
+    "sha256": "1ede8b4015f0552bdf4373af0543fb681ccfbddbe4e8f2cb2d041ab11b97ce91"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/181-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "f3a4be46121a72fef042e676b49628137d84e74b17964072d0f6e157be667452"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/182-11f72ef5f213.mp3",
+    "bytes": 13824,
+    "sha256": "46f9a439e2d54ad61be28cbe2ba7b9f740d49e81c9ca5f4f7cee2e77b939229d"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/183-bc076f87793e.mp3",
+    "bytes": 18000,
+    "sha256": "4eb69a0612a6a75947207e09175e511ddc439b0a414f76470dd59ec4c1ee072c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/184-ed754d6b0618.mp3",
+    "bytes": 44496,
+    "sha256": "c7450286c1dd782f47101737cd8fe48400bddd870c687512b44b718c1f546088"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/185-7661fdc79322.mp3",
+    "bytes": 62064,
+    "sha256": "72c4cb071f760e0ecf545d22a402e88d30e671ab0f12d97c7a3e80f247c6be62"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/186-de1de8f1309d.mp3",
+    "bytes": 17712,
+    "sha256": "5d2843b4a5ef30f7b2ff8fdc7284dbee05b189201073f3ece3352f5c7904ee49"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/187-6a094999225a.mp3",
+    "bytes": 21312,
+    "sha256": "32fabe71c1f18fa3f9e22bbff507662dc479868b84f3d38cd1e9d2b444bab360"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/188-758f487fe8e9.mp3",
+    "bytes": 11232,
+    "sha256": "a628cd9c4a84f9b458c849f7a3339d97f0a4221cc5864c71fedf496d34720b84"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/189-23f2de02f551.mp3",
+    "bytes": 42912,
+    "sha256": "4c1a31330fe6506ce590a36ad3bd21b31dad5ce7f3c8836a09f97dc308edde82"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/190-25ec2ac40228.mp3",
+    "bytes": 25920,
+    "sha256": "8e5bc64c30469cda6b043952b1fc1c4bde6c04bba4c33d50c597d2fb61019e17"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/191-09cbb4635fba.mp3",
+    "bytes": 29520,
+    "sha256": "8f09c3919b59fae5b271e6ec54404ffdad8c0635f5e3ed67f92e8e3de761060f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/192-e6ec70b744ef.mp3",
+    "bytes": 30528,
+    "sha256": "cb795635a81d0d531d4ab6b56d9c27536b6d4a7979b26a35942dd8af61a9c9eb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/193-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "ed641871c8af387b5080b61a24a580322d29f7a1ddab92a5404008645aa695da"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/194-4ac219b43eb4.mp3",
+    "bytes": 16704,
+    "sha256": "bacbf05be7bd0856b3c7045267c35ba648d2ee7fe64caf0515a6cc0e1a12435f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/195-d56795f65ea6.mp3",
+    "bytes": 17136,
+    "sha256": "22e62b6c7c1ff7c05bb10958501c0a23a5f5074a319812cc79b08b9645050afb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/196-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "126ca60c97f3dc6b1b8bef0eea77ebede5bec62acab20daa5ed1d5f804235307"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/197-4ac219b43eb4.mp3",
+    "bytes": 16704,
+    "sha256": "356a199cd5504f219028294ef5720e7a4179a17af7ffdfc6d0e5250209c8c97c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/198-94cddea460fc.mp3",
+    "bytes": 19872,
+    "sha256": "19cb7d008adbaa3d3bee29b17eb03d34ed925a1bcf8e0462023fb8e1f149b9bf"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/199-b019eb7af527.mp3",
+    "bytes": 30528,
+    "sha256": "23a6d460705bc66e96647532b5653056bbb857d897d83c0818a03c94bfe1ba5a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/200-c5ba04f11183.mp3",
+    "bytes": 28512,
+    "sha256": "bb4e9432c0a204556a3a6e0e15e65a6bb52e1eda6ec3479ecbba335aeb8e7770"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/201-a810991f287b.mp3",
+    "bytes": 34416,
+    "sha256": "bb3b4c1704d2882f523842e335297b0153787fcdaedd37a3201483ca17e9fa63"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/202-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "f37e36035a9a73713ac21064a7ed9a4951cb532ac92341947ac39a0d8ad8ee20"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/203-16af67580ee1.mp3",
+    "bytes": 28080,
+    "sha256": "f854f807eb5beee41b9d7f51f6117459eb1c4065de6b3f7f29a674c08b79ad59"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/204-d56795f65ea6.mp3",
+    "bytes": 17136,
+    "sha256": "a256e628823227982fdc9e0a07b36661e956fb8172563adc44b024c3b345d0f3"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/205-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "1c93ae12f6e498d1989df6993ecc2ee7f3ca09f365b7fd63241ac591138086af"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/206-4ac219b43eb4.mp3",
+    "bytes": 16704,
+    "sha256": "8398fb0f1a7d129c7d5d5550a636e0197e778f141082e7b7547fc88ae92cdb43"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/207-35fca33e76d2.mp3",
+    "bytes": 22176,
+    "sha256": "b73733eede62f39ceda3494b07919344efe520f2467616502e9d7c3ce2b7afda"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/208-fd7f0db9d58c.mp3",
+    "bytes": 44064,
+    "sha256": "24ff3dc86750375f14aabfe2b76d93f99308a6bb1b6ce25ba1c053cbcb66d5b0"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/209-bb69113ea48c.mp3",
+    "bytes": 35280,
+    "sha256": "0fb1ad1d5c67a6bbbde46088b52bb47771356cdda5bdd26c799d6ccdf7ebe04e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/210-81283d93b724.mp3",
+    "bytes": 11232,
+    "sha256": "e3c935bbef541b7d8cedbf9d2af555de891116178fbe7055b7398836361dcfb7"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/211-e97f7fd1e60a.mp3",
+    "bytes": 24048,
+    "sha256": "cb5d3db6b05057c19a304e8892747cf80409785383039c505a05d78f1418bd84"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/212-647d5f3cbfe0.mp3",
+    "bytes": 29808,
+    "sha256": "128903490517e635eabb876647ac7a87057d485a63c237656d7a39929732bf80"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/213-ccbffcb7bac1.mp3",
+    "bytes": 48672,
+    "sha256": "69dea4be65e40394747c82cc89136361b9d16d0f0ff526d190dfbc93268b0bb2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/214-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "813284d4d6404fadba5f4866d66dbb9b67ba894d60c5dd44126c0455bbec3379"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/215-d931c5f083eb.mp3",
+    "bytes": 16128,
+    "sha256": "231532763689add89f2ab663cacf22e32807e85282087ced4af70fed4ae3bd2a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/216-e0e4e85b09d2.mp3",
+    "bytes": 18576,
+    "sha256": "a53ff32e63a8eed23952838b7f43263bd0474aeb7f6e65f6474528412b414f86"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/217-e4005028d31c.mp3",
+    "bytes": 43488,
+    "sha256": "7596867131a7c293fa3fae99429c22a277cf1d54d50f8cea1b3bbe5edd69f718"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/218-b9ee9642bc93.mp3",
+    "bytes": 37872,
+    "sha256": "fd9fb3196a1792c5a167890507abeb31650d018dc4fa42cab306629a3dc5431a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/219-c1b9bf87f230.mp3",
+    "bytes": 29376,
+    "sha256": "8030baa8b52e71f00cf86d90bcdd4d3947a3c4be3944a1be4e6f193135cb8fc3"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/220-bfe66ad258de.mp3",
+    "bytes": 23616,
+    "sha256": "fbc7ff77a1b61e8982d0c6c416a39d3fe6fc8b7e5646cb39951899d355c324f9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/221-03357fa1400a.mp3",
+    "bytes": 44640,
+    "sha256": "c7ee56d0a2b5c7ee438a5d8d61905ab14947638f0f816b33c39c0ee4282a1bcb"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/222-d2095ab72880.mp3",
+    "bytes": 25488,
+    "sha256": "6c8c0c9c7a94743eeb4ac1707fec15f40dba0b69514e6d569b716be353916889"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/223-e044d84feca4.mp3",
+    "bytes": 58320,
+    "sha256": "b2a2f101e2e03ebeac44d69a7d587972830222b43d9e1f1515a6005d72422a6f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/224-6b0cc904d081.mp3",
+    "bytes": 11232,
+    "sha256": "ddf2fffa442a2d4c60d2144577e6bc73a7316b61a19404d5f0710d80051e601b"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/225-ca278401fb78.mp3",
+    "bytes": 29232,
+    "sha256": "ac9c4c66ae85c82116ed1c8e59458db9543d8e04a9d3d17d6503c19126961d44"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/226-cd2767cef49d.mp3",
+    "bytes": 64512,
+    "sha256": "680e11dde7054948845f0365b599dbe2ab30c0374f24f92bacd67f7bce5a2701"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/227-647d5f3cbfe0.mp3",
+    "bytes": 29808,
+    "sha256": "4d5533b9803f12c824220ec7d685090ba44af15ea2b27cb52c44d0b3ea77bbe2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/228-36433031d5f9.mp3",
+    "bytes": 11232,
+    "sha256": "8b4ed9f3b8fde94445d0016787dd8bf9c8b5e1b2ffb21eb02e77fae0eec34c95"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/229-f436b6e13b57.mp3",
+    "bytes": 55584,
+    "sha256": "3ae0eced7df7897b96b15a2b84fd6cb22836a052e47ace567c3119b2e808dc47"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/230-315dfb75f23c.mp3",
+    "bytes": 11808,
+    "sha256": "f88e144e15beadc790e8ea20022c411fc4ca5b9dde84f4a6bf9491291eaa1d2a"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/231-7cabd132c117.mp3",
+    "bytes": 51840,
+    "sha256": "4cfbde413b826484e4da697f9b705a66ca0d00fefd2155242c66dea11b263988"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/232-56303aa3ebbf.mp3",
+    "bytes": 45648,
+    "sha256": "718ef87c288a4f115d186f27c655a0b7eb149505bc0960b02a6b53fc4ddd1977"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/233-d8e4d7fcea36.mp3",
+    "bytes": 25488,
+    "sha256": "5a99fc180379805946aae093d3ec872d5c0acce2a6751c3452ec89f50c5e258c"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/234-63f7ba2b8d37.mp3",
+    "bytes": 19152,
+    "sha256": "c32e18fe13dfbf5e6ef5f7f9e46fb3d889c5efaf563d0a8bf223515dd3b239a6"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/235-4dcba86cc9b5.mp3",
+    "bytes": 50256,
+    "sha256": "af5c64edf415bc831265d969b5005e2ecd963ab4ab58bafcce59bb34cd0356b5"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/236-b37b618517da.mp3",
+    "bytes": 14832,
+    "sha256": "74ab970588a0ce7548dda56813c9fe75259c70e82f44e46d23322cb3821c8010"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/237-1486c55cd1a1.mp3",
+    "bytes": 49968,
+    "sha256": "1c766c36ac0e036ac820319df237e43b3f62eb3707ca8b08a85fb277b3b98bca"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/237-b681d4e783cb.mp3",
+    "bytes": 71856,
+    "sha256": "ef3d4c12577ef5a4a0e3ed69aad886580714b031e423bba209e06addeed0b3e8"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/238-6eb201631d91.mp3",
+    "bytes": 69984,
+    "sha256": "0da0ac53785caf02d32d8e4410da8c674117150082a014530a15507f68154b18"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/239-5252b087152d.mp3",
+    "bytes": 27360,
+    "sha256": "0a1f1373d2bf5aba32179aa83c017bc680ee57ab410fd508231e405a49ac4e34"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/240-62b0763f0668.mp3",
+    "bytes": 15264,
+    "sha256": "5f59d8899de763f6dd29d4c7946539c0a36e6afbeed1ba738d55550c6d8497ef"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/241-808a4ef29965.mp3",
+    "bytes": 32256,
+    "sha256": "962db4c85f9ddaa99525733fac60d1b4ca6dcaff78add31d30cb7de7e39ddd56"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/242-25ec28139bad.mp3",
+    "bytes": 38448,
+    "sha256": "839f62fb1bf712768b3864a6698083cd58132860c915ef5bd6588836c0ed634f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/243-fe3494da5405.mp3",
+    "bytes": 39600,
+    "sha256": "de134e621fdd4a53d72d9ec8d00cb50e042e936d2ccca8508b057578db0594c2"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/244-ecbd72ade0e9.mp3",
+    "bytes": 21456,
+    "sha256": "a04331424697bc868325afb753d097afedcd98bf0e9058156718f15924f0102f"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/245-cc1b5bc12884.mp3",
+    "bytes": 16992,
+    "sha256": "82e603c3af0d8b2446cd61e4899dcedd5f79c6a9c030327a468dd03d5d2e3a78"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/246-937d2182e435.mp3",
+    "bytes": 44928,
+    "sha256": "bad786a4280c85ab71aeb5a3d072e346d8075c7b9b7a420efebf579d28440f26"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/247-deb90364344e.mp3",
+    "bytes": 13824,
+    "sha256": "676364ffdb2cae4cba08fa26b178f6be107aa82ee00a0f287979bbb4790ba460"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/248-38f30699c3a3.mp3",
+    "bytes": 48528,
+    "sha256": "98ec491d1f5553e8d305538ef5441499f7c4590967e275cad2247a57c7d69f9e"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/248-76e7643dac17.mp3",
+    "bytes": 79776,
+    "sha256": "e660c886c7485564a862c26b9f1cbb3c378779586690b5557b4f2c0690445e68"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/249-6251437ce4e2.mp3",
+    "bytes": 50256,
+    "sha256": "64882c93eeab598b85a31bae69e17d0c2c17cf6a897a325041f1dfeb2affcdc9"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/250-15f319eadc5d.mp3",
+    "bytes": 79488,
+    "sha256": "2ccff2bcf5b455e51ee4fe0b0dc0d27bfdf9a2fadd4751e5c47b69cbdee5ce09"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/251-949df5720d93.mp3",
+    "bytes": 51696,
+    "sha256": "ac1caae97cbec401a8925f4e9f44dcbea3522e35c1a5df63763411e27c276392"
+  },
+  {
+    "path": "client/tutorial-output/audio/clips/252-cfdbac757e16.mp3",
+    "bytes": 11232,
+    "sha256": "46dd0e69dedf554226d8295fbcfc36d30abc138696e2131b6b58de149683a37e"
+  },
+  {
+    "path": "client/tutorial-output/audio/narration-manifest.json",
+    "bytes": 63892,
+    "sha256": "b80648da9ab2523c529c197239d0312bde61ecdc52eba240ce97477bee2580c7"
+  },
+  {
+    "path": "client/tutorial-output/audio/timing-review.json",
+    "bytes": 77787,
+    "sha256": "12feb52c75c0280f3c3d85c2403abb90870391ba813728d6d4edcf983ecb91eb"
+  },
+  {
+    "path": "client/tutorial-output/audio/verification.json",
+    "bytes": 308,
+    "sha256": "cebdcec9877e302a86b08182aad1e8420ba10abc112a524eb59263a891f23287"
+  },
+  {
+    "path": "client/tutorial-output/chapters.ffmetadata",
+    "bytes": 1234,
+    "sha256": "0e050cfced37c950789514666054c35e956711fc20d777bce94565f66196a290"
+  },
+  {
+    "path": "client/tutorial-output/index.html",
+    "bytes": 2775,
+    "sha256": "0cd97cb72f99837e2b25e466fc96539280c919eec812cfc0bc120ba6be326281"
+  },
+  {
+    "path": "client/tutorial-output/raw/.last-run.json",
+    "bytes": 45,
+    "sha256": "91d1c43004802cd49950d78eb11c8fa7d05da8ffffe219a8b13b2f561bc00903"
+  },
+  {
+    "path": "client/tutorial-output/raw/denclick-tutorial-DenClick-tutorial-Tagalog-/video.webm",
+    "bytes": 46915652,
+    "sha256": "83159ea7eb13cea46d9bb81a2fa53ceecdf6fd6e64b63b032194d027ffb174b4"
+  },
+  {
+    "path": "client/tutorial-output/samples/Paolo-Cruz-record.zip",
+    "bytes": 15783,
+    "sha256": "487abec6a4d98bf649d6cb712f4bf07ecd4c49e1a7faec1072445e3590b286d5"
+  },
+  {
+    "path": "client/tutorial-output/samples/Patient-summary.pdf",
+    "bytes": 139500,
+    "sha256": "4561e29bc48308cc4cc3cabc8727593c040d89a59a5ec0d9f052cdf5038addc4"
+  },
+  {
+    "path": "client/tutorial-output/samples/Resibo.pdf",
+    "bytes": 93555,
+    "sha256": "37f73040ec0b1350c71e4f0957a37da54bbedc983d095f83473136afac0d1030"
+  },
+  {
+    "path": "client/tutorial-output/samples/Tooth-chart.pdf",
+    "bytes": 114560,
+    "sha256": "7905c01d32a9a11ce91725df4d6e2dfc9de4197a29d81535e9fcf49240049385"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-00.png",
+    "bytes": 72275,
+    "sha256": "c239826763036d2be8471200dcfed0605916b8d97c46ca95a868288f3f5e59dd"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-01.png",
+    "bytes": 78130,
+    "sha256": "cb784f51638add37a27288051ef35b95fd4b791e8dc8ec947694ed6d42633630"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-02.png",
+    "bytes": 64270,
+    "sha256": "75eecff4dc642e38ad009e47a21304d31e378eb68f66789b4bf020927b25368d"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-03.png",
+    "bytes": 65619,
+    "sha256": "ab827b0901e21d2294deac566801a08dfa5243e76b54489ce827061ea460b6ec"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-04.png",
+    "bytes": 62553,
+    "sha256": "22e269cad3487b518aa234ef3868048b340bbd64c8ab3bc538851db809529b9c"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-05.png",
+    "bytes": 103378,
+    "sha256": "7ca773f7e0db15934e2b91311e775c1b2df19b940c6d31cccedcf907f7c03bf0"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-06.png",
+    "bytes": 82779,
+    "sha256": "d0fed6eb4e98c35a846b44821aaf3bc3b1bca1a156889864d615b09ee1a708e7"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-07.png",
+    "bytes": 93367,
+    "sha256": "e631076b397de6143d4ef7ef20a301615271e999a7b48e230939cf752ff44975"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-08.png",
+    "bytes": 64974,
+    "sha256": "3d30d309c9e341cb0e4dedc7053793934eed89a30c1a70e2ce054bdfb56afe2b"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-09.png",
+    "bytes": 55717,
+    "sha256": "3c812d6c9a0c37b402cdf67efeb4b7a1396b5d987448c0b757ab095777058a0d"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-10.png",
+    "bytes": 66177,
+    "sha256": "df6262a92e6c2110e9d288bfbf8d7ca3e1dfa1b626cf7c3c21e46e4184eb6bf4"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-11.png",
+    "bytes": 68902,
+    "sha256": "a30358e8a49a9c39b4a3df028e6dbec22db957a55717bd69c41f6e7594ad2d1e"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-12.png",
+    "bytes": 87964,
+    "sha256": "a21183b5c9f6f5c8bb6d572de1c66e9d2e6d5ef450ceefd9614235f883213834"
+  },
+  {
+    "path": "client/tutorial-output/samples/chapter-13.png",
+    "bytes": 72927,
+    "sha256": "045da7e718d65e240519c8d09b3df384ac65cafd7ffab113c32cc51869d6577c"
+  },
+  {
+    "path": "client/tutorial-output/samples/finance-ledger.csv",
+    "bytes": 3847,
+    "sha256": "054ccc6682dc10609e1d48e2e49037a85f30d4f2b9abc5ba5d32f72a61b87454"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "marks": [
+    {
+      "name": "search-start",
+      "time": 28.608
+    },
+    {
+      "name": "search-result",
+      "time": 73.594
+    },
+    {
+      "name": "profile",
+      "time": 140.775
+    }
+  ]
+}

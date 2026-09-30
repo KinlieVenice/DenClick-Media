@@ -1,0 +1,152 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 750000,
+    "duration": 750000,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 1625000,
+    "duration": 5500000,
+    "text": "familiar"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7250000,
+    "duration": 3625000,
+    "text": "face"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11000000,
+    "duration": 3875000,
+    "text": "walks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15000000,
+    "duration": 2125000,
+    "text": "into"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17250000,
+    "duration": 1250000,
+    "text": "your"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18625000,
+    "duration": 4875000,
+    "text": "clinic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27500000,
+    "duration": 2250000,
+    "text": "You"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29875000,
+    "duration": 3250000,
+    "text": "remember"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33250000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34125000,
+    "duration": 5000000,
+    "text": "patient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43250000,
+    "duration": 1875000,
+    "text": "but"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45250000,
+    "duration": 2750000,
+    "text": "where's"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48125000,
+    "duration": 1875000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50125000,
+    "duration": 4250000,
+    "text": "record"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58250000,
+    "duration": 3875000,
+    "text": "Cards"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62125000,
+    "duration": 875000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63125000,
+    "duration": 5375000,
+    "text": "search"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71000000,
+    "duration": 3250000,
+    "text": "another"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74375000,
+    "duration": 4375000,
+    "text": "notebook"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78875000,
+    "duration": 750000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79750000,
+    "duration": 3250000,
+    "text": "check"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83125000,
+    "duration": 875000,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84125000,
+    "duration": 1250000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85500000,
+    "duration": 5500000,
+    "text": "balance"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "a": 0,
+    "b": 2.8,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/clinic-opening.png",
+    "at": 0,
+    "length": 2.8,
+    "crop": null,
+    "text": "hook",
+    "motion": true
+  },
+  {
+    "a": 2.8,
+    "b": 5.4,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/clinic-opening.png",
+    "at": 0,
+    "length": 2.6000000000000005,
+    "crop": [
+      700,
+      230,
+      920,
+      518
+    ],
+    "text": "",
+    "motion": true
+  },
+  {
+    "a": 5.4,
+    "b": 7,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/assets/patient-card.png",
+    "at": 0,
+    "length": 1.5999999999999996,
+    "crop": null,
+    "text": "",
+    "motion": true
+  },
+  {
+    "a": 7,
+    "b": 10.2,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 2.7439999999999998,
+    "length": 2.9059999999999997,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "A few clicks away.",
+    "motion": false
+  },
+  {
+    "a": 10.2,
+    "b": 14.4,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/profile.png",
+    "at": 0,
+    "length": 4.200000000000001,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 14.4,
+    "b": 18,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 9.065,
+    "length": 3.6,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Patient history",
+    "motion": false
+  },
+  {
+    "a": 18,
+    "b": 21,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 13.388,
+    "length": 3,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 21,
+    "b": 25,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/security.png",
+    "at": 0,
+    "length": 4,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Protected with encryption",
+    "motion": false
+  },
+  {
+    "a": 25,
+    "b": 27,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 21.534,
+    "length": 2,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Digital dental chart",
+    "motion": false
+  },
+  {
+    "a": 27,
+    "b": 29,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 23.999000000000002,
+    "length": 1.4,
+    "crop": [
+      300,
+      15,
+      1250,
+      855
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 29,
+    "b": 34,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/tooth.png",
+    "at": 0,
+    "length": 5,
+    "crop": [
+      435,
+      65,
+      730,
+      770
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 34,
+    "b": 36,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 30.666,
+    "length": 2,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Next appointment",
+    "motion": false
+  },
+  {
+    "a": 36,
+    "b": 37.4,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/calendar.png",
+    "at": 0,
+    "length": 1.3999999999999986,
+    "crop": [
+      285,
+      80,
+      940,
+      750
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 37.4,
+    "b": 40,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/appointment-detail.png",
+    "at": 0,
+    "length": 2.6000000000000014,
+    "crop": [
+      380,
+      55,
+      840,
+      780
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 40,
+    "b": 42,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/balance-before.png",
+    "at": 0,
+    "length": 2,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Payments & installments",
+    "motion": false
+  },
+  {
+    "a": 42,
+    "b": 44,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 48.827999999999996,
+    "length": 2,
+    "crop": [
+      405,
+      20,
+      790,
+      860
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 44,
+    "b": 44.6,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 52.686,
+    "length": 0.6,
+    "crop": [
+      400,
+      20,
+      800,
+      860
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 44.6,
+    "b": 45.2,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 53.536,
+    "length": 0.6,
+    "crop": [
+      400,
+      20,
+      800,
+      860
+    ],
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 45.2,
+    "b": 48,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/balance-after.png",
+    "at": 0,
+    "length": 2.799999999999997,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Remaining balance: \u20b1500",
+    "motion": false
+  },
+  {
+    "a": 48,
+    "b": 52,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/raw/story-Paolo-returning-patient-story/video.webm",
+    "at": 61.323,
+    "length": 4,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Your clinic. Organized.",
+    "motion": false
+  },
+  {
+    "a": 52,
+    "b": 55,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/dashboard.png",
+    "at": 0,
+    "length": 3,
+    "crop": [
+      270,
+      35,
+      1290,
+      726
+    ],
+    "text": "Built for small dental clinics",
+    "motion": false
+  },
+  {
+    "a": 55,
+    "b": 58,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/offer.png",
+    "at": 0,
+    "length": 3,
+    "crop": null,
+    "text": "",
+    "motion": false
+  },
+  {
+    "a": 58,
+    "b": 60,
+    "src": "/home/kinlie/AbadTorre-Dental/client/promo-story/cta.png",
+    "at": 0,
+    "length": 2,
+    "crop": null,
+    "text": "",
+    "motion": false
+  }
+]

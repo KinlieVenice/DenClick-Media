@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1125000,
+    "duration": 1500000,
+    "text": "For"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2750000,
+    "duration": 5250000,
+    "text": "installment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8000000,
+    "duration": 5250000,
+    "text": "payments"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17625000,
+    "duration": 2750000,
+    "text": "enter"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20500000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21375000,
+    "duration": 2375000,
+    "text": "amount"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23875000,
+    "duration": 875000,
+    "text": "your"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24875000,
+    "duration": 3500000,
+    "text": "patient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28375000,
+    "duration": 1500000,
+    "text": "has"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29875000,
+    "duration": 2500000,
+    "text": "paid"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32500000,
+    "duration": 3875000,
+    "text": "today"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40750000,
+    "duration": 2375000,
+    "text": "then"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43250000,
+    "duration": 3250000,
+    "text": "save"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46500000,
+    "duration": 1000000,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47625000,
+    "duration": 875000,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48625000,
+    "duration": 1750000,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50375000,
+    "duration": 4500000,
+    "text": "record"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58875000,
+    "duration": 2000000,
+    "text": "Their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61000000,
+    "duration": 5000000,
+    "text": "remaining"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66125000,
+    "duration": 4625000,
+    "text": "balance"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71375000,
+    "duration": 5000000,
+    "text": "updates"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77250000,
+    "duration": 8500000,
+    "text": "automatically"
+  }
+]
